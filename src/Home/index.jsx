@@ -32,13 +32,15 @@ import TheUltimateSec from './TheUltimateSec';
 import FeaturedSec from './FeaturedSec';
 import Whitepaper from './Whitepaper';
 import SwapSection from './SwapSection';
+import JoinWhitelistEarly from './JoinWhitelistEarly';
 
 function Home() {
     return (
       <div className="">
         <Herosection />
         <FeaturedSec />
-        <WalletSec />
+        <JoinWhitelistEarly />
+        {/* <WalletSec /> */}
         <NextGenerationSec />
         <TradeOverSec/>
         <OneAppSec />

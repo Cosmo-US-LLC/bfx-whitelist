@@ -42,19 +42,19 @@ const items = [
     icon: oneicon2,
     title: "2. Confirm Transaction",
     description:
-      "<li>Click “Buy Now” and send the funds to the wallet listed</li><li>Important: Make sure to use a decentralised wallet like Metamask, Phantom, Coinbase or Trust Wallet </li><li>Your BFX will be linked to the same wallet address you used for payment and will show up on your dashboard instantly. </li><li>Connect your wallet using the “Connect Wallet” button in the top right corner to access the dashboard and check your BFX balance.</li>",
+      "<li>Click “Buy Now” and send the funds to the wallet listed</li><li>Important: Make sure to use a decentralised wallet like Metamask, Phantom, Coinbase or Trust Wallet</li><li>Your BFX will be linked to the same wallet address you used for payment and will show up on your dashboard instantly.</li><li>Connect your wallet using the “Connect Wallet” button in the top right corner to access the dashboard and check your BFX balance.</li>",
   },
   {
     icon: oneicon3,
     title: "3. Start Earning Today",
     description:
-      "<p>Earn BFX and USDT rewards from day one! </p><li>Staking rewards are added to your dashboard daily</li><li>USDT (ERC-20) payouts are sent to your wallet every Monday </li>",
+      "<p>Earn BFX and USDT rewards from day one!</p><li>Staking rewards are added to your dashboard daily</li><li>USDT (ERC-20) payouts are sent to your wallet every Monday </li>",
   },
   {
     icon: oneicon4,
     title: "4. Claim",
     description:
-      "<p>Congratulations! Your tokens will be transferred to your wallet automatically after the presale ends. You don’t need to do anything. <br/><br/> Thank you for being part of the BFX journey!</p>",
+      "<p>Congratulations! Your tokens will be transferred to your wallet automatically after the presale ends. You don’t need to do anything. <br/><br/>Thank you for being part of the BFX journey!</p>",
   },
 ];
 
@@ -95,7 +95,7 @@ function MobileWalletSec() {
   };
   return (
     <div className="pt-[20px] pb-[24px] space-y-[28px] w-[90%] mx-auto " id="Wallet">
-       <div className="flex justify-center space-x-3 items-center">
+       <div className="flex items-center justify-center space-x-3">
           <h3 className="text-[24px] font-[700] leading-[120%] tracking-[-1px]">
             BFX Presale
           </h3>
@@ -167,7 +167,7 @@ function MobileWalletSec() {
         >
           <h3 className="text-center text-[30px] font-[700]">$210,992</h3>
           <div>
-            <div className="flex justify-between items-center">
+            <div className="flex items-center justify-between">
               <span className="text-[#444] text-[10px] font-[400] leading-[150%]">
                 78.92% of softcap raised
               </span>
@@ -362,12 +362,12 @@ function MobileWalletSec() {
                   className={`py-[13px] px-1 border-b last:border-none  transition-all duration-300`}
                 >
                   <div
-                    className="flex justify-between items-center cursor-pointer"
+                    className="flex items-center justify-between cursor-pointer"
                     onClick={() => handleToggle(index)}
                   >
                     <div className="flex w-[100%]  justify-between items-center space-x-4 space-y-[15px]">
                       <div className=" w-[100%] flex flex-col justify-center">
-                        <div className="flex justify-between items-center">
+                        <div className="flex items-center justify-between">
                           <h3
                             className={`text-[14px] capitalize font-[600] ${
                               index === activeIndexbuy
