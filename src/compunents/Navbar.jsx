@@ -93,7 +93,7 @@ function Navbar() {
   return (
    <div className="!mb-[64px] relative">
      <div className="fixed w-[100%] bg-[#F2F2F2] z-[999] top-0">
-      <div className="2xl:h-[63px] xl:h-[63px] lg:h-[63px] md:h-[63px] sm:h-[64px] h-[64px] max-w-[1200px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center justify-between">
+      <div className="2xl:h-[63px] xl:h-[63px] lg:h-[63px] md:h-[63px] sm:h-[64px] h-[64px] max-w-[1200px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center md:justify-between sm:justify-evenly ">
         <div className="flex items-center space-x-3 2xl:block xl:block lg:block md:block sm:flex 2xl:space-x-0 xl:space-x-0 lg:space-x-0 md:space-x-0 sm:space-x-3">
           <div className="block 2xl:hidden xl:hidden lg:hidden md:hidden sm:block">
             <img
@@ -300,11 +300,19 @@ function Navbar() {
  {/* menu end */}
 
         <div>
+        <a
+          href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
           <button
-             onClick={() => setCurrentPopup("wallet")}
-          className="text-white bg-[#E5AE00] 2xl:px-[12px] xl:px-[12px] lg:px-[12px] md:px-[12px] sm:px-[10px] px-[10px] hover:text-black hover:bg-transparent 2xl:text-[14px] xl:text-[14px] lg:text-[14px] md:text-[14px] sm:text-[14px] text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] 2xl:max-w-[179px] xl:max-w-[179px] lg:max-w-[179px] md:max-w-[179px] sm:max-w-[150px] max-w-[150px] w-[100%] 2xl:h-[43px] xl:h-[43px] lg:h-[43px] md:h-[43px] sm:h-[40px] h-[40px]">
+         
+            //  onClick={() => setCurrentPopup("wallet")}
+          className="text-white   bg-[#E5AE00] 2xl:px-[12px] xl:px-[12px] lg:px-[12px] md:px-[12px] sm:px-[10px] px-[10px] hover:text-black hover:bg-transparent 2xl:text-[14px] xl:text-[14px] lg:text-[14px] md:text-[14px] sm:text-[14px] text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] 2xl:max-w-[179px] xl:max-w-[179px] lg:max-w-[179px] md:max-w-[179px] sm:max-w-[158px] max-w-[158px] w-[100%] 2xl:h-[43px] xl:h-[43px] lg:h-[43px] md:h-[43px] sm:h-[40px] h-[40px]">
            Join Whitelist Now{" "}
           </button>
+          </a>
           {currentPopup === "wallet" && (
         <WalletPopup onConnect={() => setCurrentPopup("dashboard")} onClose={() => setCurrentPopup(null)} />
       )}

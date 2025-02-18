@@ -29,11 +29,18 @@ function MobTheUltimateSec() {
             Trading Experience
             </h3>
             <div className="flex justify-center pt-[10px] items-center  space-x-[17px]">
+            <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className=""
+            >
             <button className="text-white bg-[#E5AE00] px-[12px] hover:text-white hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#E5AE00] rounded-[8px] w-[158px] h-[40px]"
             onClick={handleScroll}
             >
               Join Whitelist Now
             </button>
+            </a>
             <button className="hover:text-white text-[#fff] px-[12px] hover:bg-[#E5AE00]  bg-transparent text-[14px] font-[1000] border hover:border-[#E5AE00] border-[#E5AE00] rounded-[8px] w-[140px] h-[40px]">
             Beta Traiding
             </button>

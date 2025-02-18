@@ -60,12 +60,18 @@ function WhatIsSec() {
           />
         </div>
         <div className="flex justify-center">
+        <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
           <button
             onClick={handleScroll}
             className="text-white bg-[#E5AE00]  px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
           >
             Join Whitelist Now
           </button>
+          </a>
         </div>
       </div>
     </div>
