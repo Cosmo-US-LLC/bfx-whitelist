@@ -44,8 +44,8 @@ function EarnOnSec() {
             </p>
             <button 
             onClick={handleScroll}
-            className="text-white bg-[#E5AE00] px-[12px] hover:text-black !mt-[39px] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[138px] w-[100%] h-[39px]">
-              Buy $BFX
+            className="text-white bg-[#E5AE00] px-[12px] hover:text-black !mt-[39px] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]">
+             Join Whitelist Now
             </button>
           </div>
         </div>

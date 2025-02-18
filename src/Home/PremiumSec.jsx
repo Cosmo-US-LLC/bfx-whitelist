@@ -261,9 +261,9 @@ function PremiumSec() {
                     <div className="flex justify-start">
                       <button
                         onClick={handleScroll}
-                        className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[15.27px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[128.945px] w-[100%] h-[49px]"
+                        className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[15.27px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[168.945px] w-[100%] h-[49px]"
                       >
-                        Buy $BFX
+                        Join Whitelist Now
                       </button>
                     </div>
                   </div>
@@ -275,7 +275,7 @@ function PremiumSec() {
           </div>
         </div>
         <div className="max-w-[1000px]  w-[100%] mx-auto bg-[#F5F5F5] border border-[#797979] rounded-[13px] px-[26px] py-[10px] space-y-[10px]">
-          <div className="flex justify-center relative mt-2 px-6">
+          <div className="relative flex justify-center px-6 mt-2">
             <div className="flex justify-between absolute w-[95%] top-[-45%]">
               {cards.map((_, index) => (
                 <div
@@ -376,7 +376,7 @@ function PremiumSec() {
                 }`}
               >
                 <div
-                  className="flex justify-between items-center cursor-pointer"
+                  className="flex items-center justify-between cursor-pointer"
                   onClick={() => toggleBundles(item.id)}
                 >
                   <h3

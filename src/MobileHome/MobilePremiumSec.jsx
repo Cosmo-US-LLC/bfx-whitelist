@@ -169,7 +169,7 @@ function MobilePremiumSec() {
             Limited <br /> Founder's Club Membership
           </h3>
           <p className="text-[15px] leading-[153.333%] max-w-[750px] mx-auto text-[#000] text-center font-[400] tracking-[-0.32px]">
-          Buy $BFX during the pre-sale and get Founder's Club NFTs starting at only $1,000!  Enjoy early access, exclusive memberships, bonus $BFX, daily staking rewards in BFX and USDT, plus extra trading credits. Available only during the pre-sale!
+          Buy $BFX during the pre-sale and get Founder's Club NFTs starting at only $1,000! Enjoy early access, exclusive memberships, bonus $BFX, daily staking rewards in BFX and USDT, plus extra trading credits. Available only during the pre-sale!
 
           </p>
         </div>
@@ -221,7 +221,7 @@ function MobilePremiumSec() {
                           </h3>
                         </div>
 
-                        <ul className="flex justify-center items-center">
+                        <ul className="flex items-center justify-center">
                           {card.reviews.map((isStarFilled, index) =>
                             isStarFilled ? (
                               <li key={index}>
@@ -255,7 +255,7 @@ function MobilePremiumSec() {
                         className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] w-[100%] h-[40px]"
                         onClick={handleScroll}
                       >
-                        Buy $BFX
+                        Join Whitelist Now
                       </button>
                     </div>
                   </div>
@@ -344,7 +344,7 @@ function MobilePremiumSec() {
                 }`}
               >
                 <div
-                  className="flex justify-between items-center cursor-pointer"
+                  className="flex items-center justify-between cursor-pointer"
                   onClick={() => toggleBundles(item.id)}
                 >
                   <h3

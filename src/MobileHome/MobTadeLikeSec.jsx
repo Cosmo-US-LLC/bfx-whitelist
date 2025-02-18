@@ -142,11 +142,11 @@ function MobTadeLikeSec() {
               </div>
             </div>
           </div>
-          <div className="flex justify-center items-center ">
-            <button className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[102px] w-[100%] h-[40px]"
+          <div className="flex items-center justify-center ">
+            <button className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[40px]"
             onClick={handleScroll}
             >
-              Buy $BFX
+              Join Whitelist Now
             </button>
           </div>
         </div>

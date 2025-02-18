@@ -34,7 +34,7 @@ function MobileGatewaySec() {
             The Gateway <br /> To Global Markets
           </h3>
           <p className="text-[15px] font-[400] max-w-[881px] mx-auto w-[100%] text-center leading-[130%] text-[#181A20] tracking-[-0.32px]">
-          Starting a global multi-asset trading platform takes years and significant capital, but by buying $BFX, you can be a part of the international financial market in just two clicks.
+          Starting a global multi-asset trading platform takes years and significant capital,but by buying $BFX, you can be a part of the international financial market in just two clicks.
           </p>
         </div>
         <div
@@ -67,7 +67,7 @@ function MobileGatewaySec() {
               </div>
               <div className="flex border-t border-[#C2C2C2]">
                 <div className="w-[50%] py-[3px] border-r border-[#C2C2C2]">
-                  <div className="flex justify-center space-x-2 items-center">
+                  <div className="flex items-center justify-center space-x-2">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       Up to $5 Million
                     </h4>
@@ -88,7 +88,7 @@ function MobileGatewaySec() {
                   </div>
                 </div>
                 <div className="w-[50%] py-[3px]">
-                  <div className="flex justify-center items-center">
+                  <div className="flex items-center justify-center">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       Up to you
                     </h4>
@@ -105,14 +105,14 @@ function MobileGatewaySec() {
               </div>
               <div className="flex border-t border-[#C2C2C2]">
                 <div className="w-[50%] py-[3px] border-r border-[#C2C2C2]">
-                  <div className="flex justify-center space-x-2 items-center">
+                  <div className="flex items-center justify-center space-x-2">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       Up to 3 years
                     </h4>
                   </div>
                 </div>
                 <div className="w-[50%] py-[3px]">
-                  <div className="flex justify-center items-center">
+                  <div className="flex items-center justify-center">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       Buy $BFX in 2 clicks
                     </h4>
@@ -137,7 +137,7 @@ function MobileGatewaySec() {
                   </div>
                 </div>
                 <div className="w-[50%] flex items-center justify-center py-[3px]">
-                  <div className="flex justify-center items-center">
+                  <div className="flex items-center justify-center">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       No Team required
                     </h4>
@@ -164,7 +164,7 @@ function MobileGatewaySec() {
                   </div>
                 </div>
                 <div className="w-[50%] flex items-center justify-center py-[3px]">
-                  <div className="flex justify-center items-center">
+                  <div className="flex items-center justify-center">
                     <h4 className="text-[#181A20] font-[500] text-[15px] tracking-[-1px] leading-[200%]">
                       No Work Required
                     </h4>
@@ -174,12 +174,12 @@ function MobileGatewaySec() {
             </div>
           </div>
         </div>
-        <div className="flex justify-center items-center ">
+        <div className="flex items-center justify-center ">
           <button
-            className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[102px] w-[100%] h-[40px]"
+            className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[40px]"
             onClick={handleScroll}
           >
-            Buy $BFX
+            Join Whitelist Now
           </button>
         </div>
       </div>
