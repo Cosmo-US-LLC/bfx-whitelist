@@ -42,11 +42,17 @@ function EarnOnSec() {
             <p className="text-[14px] text-[#181A20] font-[400] leading-[161.598%] text-start">
             $BFX is the first cryptocurrency to offer USDT staking rewards on every transaction made within a global multi-asset trading platform. Whenever someone trades on BlockchainFX, you earn. The more $BFX you hold, <br /> the more USDT you receive.
             </p>
+            <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
             <button 
             onClick={handleScroll}
             className="text-white bg-[#E5AE00] px-[12px] hover:text-black !mt-[39px] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]">
              Join Whitelist Now
             </button>
+            </a>
           </div>
         </div>
     </div>

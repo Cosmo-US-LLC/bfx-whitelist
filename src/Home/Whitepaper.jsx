@@ -35,12 +35,18 @@ export default function Whitepaper() {
             </div>
 
             <div className="flex justify-start w-full p-2 space-x-3">
+            <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <button
                 onClick={handleScroll}
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
                 Join Whitelist Now
               </button>
+              </a>
               <a href="https://blockchainfx.com/whitepaper.pdf" rel="noopener noreferrer">
               <button className="hover:text-white hover:bg-[#E5AE00] px-[10px] text-black bg-transparent text-[14px] font-[800] border hover:border-[#E5AE00] border-[#000] rounded-[8px] max-w-[165px] w-[100%] h-[39px]">
               Access Whitepaper

@@ -259,12 +259,18 @@ function PremiumSec() {
                       </ul>
                     </div>
                     <div className="flex justify-start">
-                      <button
-                        onClick={handleScroll}
-                        className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[15.27px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[168.945px] w-[100%] h-[49px]"
+                      <a
+                        href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+                        target="_blank"
+                        rel="noopener noreferrer"
                       >
-                        Join Whitelist Now
-                      </button>
+                        <button
+                          onClick={handleScroll}
+                          className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[15.27px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[168.945px] w-[100%] h-[49px]"
+                        >
+                          Join Whitelist Now
+                        </button>
+                      </a>
                     </div>
                   </div>
                 </SwiperSlide>
@@ -363,7 +369,7 @@ function PremiumSec() {
         <div className="max-w-[1000px]  w-[100%] mx-auto bg-[#F5F5F5] border border-[#797979] rounded-[13px] px-[30px]  pt-[33px] pb-[10px] ">
           <div>
             <h3 className="text-[30px] text-center font-[700] leading-[166.667%] text-[#181A20] tracking-[ -0.973px]">
-            Questions About The Founder’s Club
+              Questions About The Founder’s Club
             </h3>
           </div>
 
