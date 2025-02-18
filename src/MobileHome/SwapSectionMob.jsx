@@ -21,7 +21,7 @@ export default function SwapSectionMob() {
         <div className="py-6 px-3 space-y-[20px] border border-1 border-[#B0B0B0]  rounded-[13px]">
          
           <div className="w-[100%] space-y-4 ">
-            <div className="w-full p-2 flex flex-col justify-start">
+            <div className="flex flex-col justify-start w-full p-2">
               <h3 className="text-[30px] font-bold leading-[114%]  text-center mb-4">
                 Swap Between Assets{" "}
               </h3>
@@ -39,12 +39,12 @@ export default function SwapSectionMob() {
               />
             </div>
           </div>
-          <div className="w-full p-2 flex justify-center">
+          <div className="flex justify-center w-full p-2">
               <button
                 onClick={handleScroll}
-                className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[138px] w-[100%] h-[39px]"
+                className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Buy $BFX
+                Join Whitelist Now
               </button>
             </div>
         </div>

@@ -37,9 +37,9 @@ function TradeLikeSec() {
             </p>
             <button
               onClick={handleScroll}
-              className="text-white bg-[#E5AE00] px-[12px] h-[39px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[138px] w-[100%]"
+              className="text-white bg-[#E5AE00] px-[12px] h-[39px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%]"
             >
-              Buy $BFX
+              Join Whitelist Now
             </button>
           </div>
           <div className="max-w-[420px] space-y-[11px] w-[100%]">

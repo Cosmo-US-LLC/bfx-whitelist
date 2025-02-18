@@ -36,14 +36,14 @@ function MobileHero() {
               The First Crypto <br /> Trading Super App
             </h2>
             <p className="text-[15px] max-w-[865px] w-[100%] mx-auto font-[400] leading-[153.667%] text-center text-[#000] tracking-[-0.32px] ">
-            BlockchainFX is the only crypto-native trading platform that offers instant access to the world’s largest financial markets.  Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs and more, all in one place. <br /><br /> This ecosystem enables $BFX token holders to earn up to 25,000 USDT daily, receiving rewards every time someone trades on BlockchainFX.
+            BlockchainFX is the only crypto-native trading platform that offers instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs and more, all in one place. <br /><br /> This ecosystem enables $BFX token holders to earn up to 25,000 USDT daily, receiving rewards every time someone trades on BlockchainFX.
             </p>
           </div>
           <div className="flex justify-center items-center space-x-[17px]">
             <button 
              onClick={handleScroll}
             className="text-white bg-[#E5AE00] px-[14px] hover:text-black hover:bg-transparent text-[14px] font-[700] border border-[#E5AE00] hover:border-[#000] rounded-[8px]  h-[48px]">
-              Buy $BFX
+              Join Whitelist Now
             </button>
             <a href="https://blockchainfx.com/whitepaper.pdf" className="" rel="noopener noreferrer">
             <button className="hover:text-white hover:bg-[#E5AE00] px-[14px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px]  h-[48px]">
@@ -51,8 +51,8 @@ function MobileHero() {
             </button>
               </a>
           </div>
-          <div className="flex items-center justify-center  space-x-3">
-            <div className="flex space-x-2 items-center">
+          <div className="flex items-center justify-center space-x-3">
+            <div className="flex items-center space-x-2">
             <img className="w-[84px]" src={stars} alt="" />
               <p className="text-[#3E3E3E] font-[400] text-[14px]">4.79/5 </p>
             </div>
