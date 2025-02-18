@@ -38,8 +38,8 @@ function Herosection() {
           className="flex justify-center pt-[20px] pb-[0px] items-center space-x-[17px]">
             <button 
              onClick={handleScroll}
-            className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[138px] w-[100%] h-[39px]">
-              Buy $BFX
+            className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]">
+              Join Whitelist Now
             </button>
             <a href="https://blockchainfx.com/whitepaper.pdf" className="!w-[138px]" rel="noopener noreferrer">
             <button className="hover:text-white hover:bg-[#E5AE00] px-[12px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px] !w-[100%] h-[39px]">
@@ -48,7 +48,7 @@ function Herosection() {
               </a>
           </div>
           <div className="flex items-center justify-center pt-[20px] space-x-3">
-            <div className="flex space-x-2 items-center">
+            <div className="flex items-center space-x-2">
             <img className="w-[84px]" src={stars} alt="" />
               <p className="text-[#3E3E3E] font-[400] text-[14px]">4.79/5 </p>
             </div>
