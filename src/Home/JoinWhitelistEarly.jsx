@@ -1,10 +1,10 @@
 import React from "react";
-import joinWhitelistImages from "../assets/joinWhitelist/joinwhitelist.webp";
+import joinWhitelistImages from "../assets/joinWhitelist/joinwhitelistMob.webp";
 import swpicon from "../assets/wallet/swp.svg";
 
 function JoinWhitelistEarly() {
   return (
-    <div className="py-[50px]">
+    <div className="py-[50px]" id="join-whitelist">
       <div className="max-w-[1200px] w-[100%] mx-auto flex justify-center gap-10">
         <div className="w-[60%] flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="text-[32px] font-[700] tracking-[-1px] capitalize leading-normal">
@@ -57,7 +57,7 @@ function JoinWhitelistEarly() {
                 <strong> Date:</strong> TBA
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Goal:</strong> Goal: $250,000
+                <strong>Goal:</strong> $250,000
               </p>
             </div>
           </div>

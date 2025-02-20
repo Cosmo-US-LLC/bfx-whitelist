@@ -84,17 +84,17 @@ const FaqSec = () => {
     {
       question: "Where can I see my tokens?",
       answer:
-        "You can view your tokens in your dashboard wallet. Just connect with the wallet you used to purchase on presale.blockchainfx.com and click on the top right corner to see your holdings.",
+        "You can view your tokens in your dashboard wallet. Simply click 'Connect Wallet' in the top right corner and connect the wallet you used for the purchase to see your BFX balance.",
     },
     {
       question: "Are my tokens safe?",
       answer:
-        "The safety of your tokens during the pre-sale is guaranteed through our smart contract. Additionally, the BFX token has been audited by CertiK, the leading Blockchain Security Enterprise.",
+        "The safety of your tokens during the pre-sale is 100% guaranteed through our smart contract.",
     },
     {
       question: "How to claim your BFX?",
       answer:
-        "Once the pre-sale ends, you will be able to claim your BFX tokens in your dashboard wallet on blockchainfx.com.",
+        "Your tokens will be transferred to your wallet automatically after the presale ends. You don’t need to do anything.",
     },
   ];
   const [openItems, setOpenItems] = useState([]);

@@ -111,7 +111,7 @@ const Bundles = [
     id: 1,
     question: "When will I get my Founder’s Club NFT?",
     answer:
-      "You’ll receive your NFT automatically after purchasing the required amount of $BFX. It will appear in your personal dashboard and can be claimed once the pre-sale ends.",
+      "<li>You’ll receive your Founder's Club NFT automatically after purchasing the required amount of $BFX.</li> <li>The NFT will appear in your personal dashboard and can be claimed once the presale ends.</li> <li>To access the dashboard, connect the same wallet by clicking 'Connect Wallet' in the top right corner.</li>",
   },
   {
     id: 2,
@@ -382,7 +382,7 @@ function PremiumSec() {
                 }`}
               >
                 <div
-                  className="flex items-center justify-between cursor-pointer"
+                  className="flex justify-between items-center cursor-pointer"
                   onClick={() => toggleBundles(item.id)}
                 >
                   <h3
@@ -407,7 +407,7 @@ function PremiumSec() {
                       dangerouslySetInnerHTML={{ __html: item.answer }}
                     ></p>
                     {item.tooltip && (
-                      <div className="absolute top-[6px] z-[9] left-[360px]">
+                      <div className="absolute top-[6px] z-[9] left-[375px]">
                         <div
                           className="relative"
                           onMouseEnter={() => setShowTooltip(true)}
