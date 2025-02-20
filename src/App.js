@@ -24,7 +24,7 @@ function App() {
   }, []);
 
   return (
-    <div className="bg-[#fff]">
+    <div className="bg-[#fff] overflow-hidden">
       <ToastContainer />
       <Navbar />
       {isMobile ? <MobileHome /> : <Home />}

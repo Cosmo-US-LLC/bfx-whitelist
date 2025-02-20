@@ -44,9 +44,9 @@ function Footer() {
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[20px] font-[400] leading-[108.333%]"
                     href=""
-                    onClick={(e) => handleScroll(e, "how-to-buy", 90)}
+                    onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                   >
-                    How to Buy
+                    Join Whitelist
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%]"
@@ -156,7 +156,7 @@ function Footer() {
             <br />
             Trading cryptocurrencies carries significant risks, including the
             potential for partial or total loss of your funds. Thorough research
-            is crucial. Dreamcars does not guarantee any performance, outcome,
+            is crucial. BlockchainFX does not guarantee any performance, outcome,
             or return of capital for any cryptocurrency mentioned on this
             platform. By using this platform, you agree to our Terms of Service,
             Privacy Policy, Cookie Policy, and any applicable token sale
@@ -201,9 +201,9 @@ function Footer() {
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
                   href=""
-                  onClick={(e) => handleScroll(e, "how-to-buy", 90)}
+                  onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                 >
-                  How to Buy
+                Join Whitelist
                 </a>
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
@@ -314,7 +314,7 @@ function Footer() {
             <br />
             Trading cryptocurrencies carries significant risks, including the
             potential for partial or total loss of your funds. Thorough research
-            is crucial. Dreamcars does not guarantee any performance, outcome,
+            is crucial. BlockchainFX does not guarantee any performance, outcome,
             or return of capital for any cryptocurrency mentioned on this
             platform. By using this platform, you agree to our Terms of Service,
             Privacy Policy, Cookie Policy, and any applicable token sale

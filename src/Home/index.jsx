@@ -65,7 +65,7 @@ function Home() {
         <TokenDetailsSec />
         <SecurityBuiltSec />
         <RoadmapSec />
-        <OurAwardSec />
+        {/* <OurAwardSec /> */}
         {/* <ExpertsworkingSec /> */}
         <PressMediaSec />
         <TraderReviewsSec />

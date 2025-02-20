@@ -4,7 +4,7 @@ import swpicon from "../assets/wallet/swp.svg";
 
 function JoinWhitelistEarlyMob() {
   return (
-    <div className="py-[50px]">
+    <div className="py-[50px]" id="join-whitelist">
       <div className="  w-[100%] flex flex-col px-4 gap-6">
         <div className="  flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="w-[357px] text-[32px] font-[700] text-center tracking-[-0.56px] capitalize leading-normal">
@@ -57,7 +57,7 @@ function JoinWhitelistEarlyMob() {
                 <strong> Date:</strong> TBA
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Goal:</strong> Goal: $250,000
+                <strong>Goal:</strong> $250,000
               </p>
             </div>
           </div>
