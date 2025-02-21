@@ -25,14 +25,20 @@ function TheUltimateSec() {
             <img src={logo} className="h-[44.54px]" alt="" />
             </div>
             <h3 className="text-[45px] text-[#fff] font-[700] text-center leading-[117.143%] text-[#181A20] tracking-[-1px]">
-            The Ultimate <br/> Trading Experience
+            Blockchain Meets <br/> Global Financial Markets
             </h3>
             <div className="flex justify-center items-center pt-[35px] space-x-[17px]">
+            <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
             <button 
-            onClick={handleScroll}
-            className="text-white bg-[#E5AE00]  hover:text-[#FFF] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#fff] rounded-[8px] !max-w-[158px] w-[100%] h-[39px]">
+             
+            className="text-white bg-[#E5AE00]  hover:text-[#FFF] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#fff] rounded-[8px] max-w-[164px] px-4 w-[100%] h-[39px]">
               Join Whitelist Now
             </button>
+            </a>
             <button className="hover:text-white hover:bg-[#E5AE00]  text-[#FFF] bg-transparent text-[14px] font-[500]  border hover:border-[#E5AE00] border-[#fff] rounded-[8px] !max-w-[140px] w-[100%] h-[39px]">
             Beta Trading
             </button>

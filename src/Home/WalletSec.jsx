@@ -24,10 +24,10 @@ const coins = [
   { name: "USDT", icon: wltcoin5 },
 ];
 const Dropcoins = [
-  { name: "USDT", sub:"ERC-20",  icon: wltcoin5 },
-  { name: "USDT", sub:"BEP-20",  icon: wltcoin5 },
-  { name: "ETH", sub:"ERC-20", icon: wltcoin1 },
-  { name: "BNB", sub:"ERC-20", icon: wltcoin4 },
+  { name: "USDT", sub: "ERC-20", icon: wltcoin5 },
+  { name: "USDT", sub: "BEP-20", icon: wltcoin5 },
+  { name: "ETH", sub: "ERC-20", icon: wltcoin1 },
+  { name: "BNB", sub: "ERC-20", icon: wltcoin4 },
 ];
 
 const items = [
@@ -60,7 +60,7 @@ const items = [
 function WalletSec() {
   const [activeIndex, setActiveIndex] = useState(null);
   const [dropdownOpen, setDropdownOpen] = useState(false);
-  
+
   const [selectedCoin, setSelectedCoin] = useState({
     name: "USDT",
     icon: wltcoin5,
@@ -102,12 +102,14 @@ function WalletSec() {
         className="space-y-[30px] px-[67px]  py-[20px] bg-[#FFF] max-w-[955px] w-[100%] mx-auto border border-[#D4D4D4] rounded-[8px]"
         id="Wallet"
       >
-        <div className="flex justify-center space-x-3 items-center">
+        <div className="flex items-center justify-center space-x-3">
           <h3 className="text-[30px] font-[700] tracking-[-1px]">
             BFX Presale
           </h3>
           <div className="w-[58px] text-[14px] font-[600] text-[#fff] rounded-[7px] bg-[#E9C03D] h-[22px] flex justify-center items-start">
-            <span className="text-[38px] leading-[9%] !-mt-[1px] pr-[2px] animate-blink">.</span>
+            <span className="text-[38px] leading-[9%] !-mt-[1px] pr-[2px] animate-blink">
+              .
+            </span>
             Live
           </div>
         </div>
@@ -179,7 +181,7 @@ function WalletSec() {
                 $210,992
               </h3>
               <div className="pt-3">
-                <div className="flex justify-between items-center pb-1">
+                <div className="flex items-center justify-between pb-1">
                   <span className="text-[#444] text-[9.74px] font-[400] leading-[100%]">
                     78.92% of softcap raised
                   </span>
@@ -290,7 +292,9 @@ function WalletSec() {
                           <h4 className="text-[9px] font-[700] text-[#545454]">
                             {coin.name}
                           </h4>
-                          <p className="text-[9px] text-[#545454]">{coin.sub}</p>
+                          <p className="text-[9px] text-[#545454]">
+                            {coin.sub}
+                          </p>
                         </div>
                       ))}
                     </div>
@@ -339,13 +343,18 @@ function WalletSec() {
               </div>
             </div>
             <div>
-              <button 
-              onClick={() => setShowPopup(true)}
-              className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
+              <button
+                onClick={() => setShowPopup(true)}
+                className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]"
+              >
                 Buy Now
               </button>
-              {showPopup && <CardList selectedCoin={selectedIndex} onClose={() => setShowPopup(false)} />}
-
+              {showPopup && (
+                <CardList
+                  selectedCoin={selectedIndex}
+                  onClose={() => setShowPopup(false)}
+                />
+              )}
             </div>
             <div
               className="px-[24px] py-[5px] space-y-[5px] border border-[#939393]"
@@ -389,12 +398,12 @@ function WalletSec() {
                   className={`py-[15px] px-1 border-b last:border-none  transition-all duration-300`}
                 >
                   <div
-                    className="flex justify-between items-center cursor-pointer"
+                    className="flex items-center justify-between cursor-pointer"
                     onClick={() => handleToggle(index)}
                   >
                     <div className="flex w-[100%]  justify-between items-center space-x-4 space-y-[15px]">
                       <div className=" w-[100%] flex flex-col justify-center">
-                        <div className="flex justify-between items-center">
+                        <div className="flex items-center justify-between">
                           <h3
                             className={`text-[14px] capitalize font-[600] ${
                               index === activeIndexbuy
@@ -434,90 +443,92 @@ function WalletSec() {
                 </div>
               ))}
             </div>
-           <div className="space-y-[14px]">
-            <h4 className="text-[#181A20] text-[14px] font-[600] px-1">5. Launch</h4>
-            <div
-              className="max-w-[414px] px-[10px] pt-[14px] pb-[16px] border border-[#B0B0B0] w-[100%] mx-auto "
-              style={{
-                background: "rgba(237, 237, 237, 0.40)",
-              }}
-            >
-              <div className=" space-y-[13px]">
-                <h4 className="text-start text-[#808080] text-[9.875px] leading-[75%] font-[600]">
-                  $BFX Launches On Multiple Top-Tier Exchanges
-                </h4>
-                <div className="flex justify-center space-x-[8px]">
-                  <div
-                    className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
-                    style={{
-                      background: "rgba(176, 176, 176, 0.17)",
-                    }}
-                  >
-                    <img
-                      src={swpicon}
-                      className="w-[14.813px] h-[14.813px]"
-                      alt=""
-                    />
-                    <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
-                      UNISWAP
-                    </h4>
-                  </div>
-                  <div
-                    className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
-                    style={{
-                      background: "rgba(176, 176, 176, 0.17)",
-                      filter: "blur(6.5px",
-                      opacity: "0.73",
-                    }}
-                  >
-                    <div className="w-[14.813px] h-[14.813px] bg-[#F0B90B] rounded-full"></div>
-                    <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
-                      UNISWAP
-                    </h4>
-                  </div>
-                  <div
-                    className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
-                    style={{
-                      background: "rgba(176, 176, 176, 0.17)",
-                      filter: "blur(6.5px",
-                      opacity: "0.73",
-                    }}
-                  >
-                    <div className="w-[14.813px] h-[14.813px] bg-[#0052FE] rounded-full"></div>
-                    <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
-                      UNISWAP
-                    </h4>
-                  </div>
-                  <div
-                    className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
-                    style={{
-                      background: "rgba(176, 176, 176, 0.17)",
-                      filter: "blur(6.5px",
-                      opacity: "0.73",
-                    }}
-                  >
-                    <div className="w-[14.813px] h-[14.813px] bg-[#00F0FF] rounded-full"></div>
-                    <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
-                      UNISWAP
-                    </h4>
-                  </div>
-                  <div
-                    className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
-                    style={{
-                      background: "rgba(176, 176, 176, 0.17)",
-                      filter: "blur(6.5px",
-                      opacity: "0.73",
-                    }}
-                  >
-                    <div className="w-[14.813px] h-[14.813px] bg-[#7635F5] rounded-full"></div>
-                    <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
-                      UNISWAP
-                    </h4>
+            <div className="space-y-[14px]">
+              <h4 className="text-[#181A20] text-[14px] font-[600] px-1">
+                5. Launch
+              </h4>
+              <div
+                className="max-w-[414px] px-[10px] pt-[14px] pb-[16px] border border-[#B0B0B0] w-[100%] mx-auto "
+                style={{
+                  background: "rgba(237, 237, 237, 0.40)",
+                }}
+              >
+                <div className=" space-y-[13px]">
+                  <h4 className="text-start text-[#808080] text-[9.875px] leading-[75%] font-[600]">
+                    $BFX Launches On Multiple Top-Tier Exchanges
+                  </h4>
+                  <div className="flex justify-center space-x-[8px]">
+                    <div
+                      className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
+                      style={{
+                        background: "rgba(176, 176, 176, 0.17)",
+                      }}
+                    >
+                      <img
+                        src={swpicon}
+                        className="w-[14.813px] h-[14.813px]"
+                        alt=""
+                      />
+                      <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
+                        UNISWAP
+                      </h4>
+                    </div>
+                    <div
+                      className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
+                      style={{
+                        background: "rgba(176, 176, 176, 0.17)",
+                        filter: "blur(6.5px",
+                        opacity: "0.73",
+                      }}
+                    >
+                      <div className="w-[14.813px] h-[14.813px] bg-[#F0B90B] rounded-full"></div>
+                      <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
+                        UNISWAP
+                      </h4>
+                    </div>
+                    <div
+                      className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
+                      style={{
+                        background: "rgba(176, 176, 176, 0.17)",
+                        filter: "blur(6.5px",
+                        opacity: "0.73",
+                      }}
+                    >
+                      <div className="w-[14.813px] h-[14.813px] bg-[#0052FE] rounded-full"></div>
+                      <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
+                        UNISWAP
+                      </h4>
+                    </div>
+                    <div
+                      className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
+                      style={{
+                        background: "rgba(176, 176, 176, 0.17)",
+                        filter: "blur(6.5px",
+                        opacity: "0.73",
+                      }}
+                    >
+                      <div className="w-[14.813px] h-[14.813px] bg-[#00F0FF] rounded-full"></div>
+                      <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
+                        UNISWAP
+                      </h4>
+                    </div>
+                    <div
+                      className="px-[4px] flex max-w-[129px] h-[24px] rounded-[4.444px] justify-center items-center space-x-[4px] border border-[#ABABAB]"
+                      style={{
+                        background: "rgba(176, 176, 176, 0.17)",
+                        filter: "blur(6.5px",
+                        opacity: "0.73",
+                      }}
+                    >
+                      <div className="w-[14.813px] h-[14.813px] bg-[#7635F5] rounded-full"></div>
+                      <h4 className="text-[6.913px] text-[#545454] font-[700] leading-[120.286%]">
+                        UNISWAP
+                      </h4>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-           </div>
           </div>
         </div>
         <div
@@ -528,7 +539,7 @@ function WalletSec() {
         >
           <div className="flex justify-center items-center space-x-[10px]">
             <h4 className="text-center text-[#808080] text-[13.1px] leading-[85%] font-[600]">
-            Audited by the Leading Blockchain Security Company  
+              Audited by the Leading Blockchain Security Company
             </h4>
             <div className="w-[113.97px]">
               <img src={cer} className="" alt="" />

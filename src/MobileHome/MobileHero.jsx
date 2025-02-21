@@ -40,12 +40,18 @@ function MobileHero() {
             </p>
           </div>
           <div className="flex justify-center items-center space-x-[17px]">
+          <a
+              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
             <button 
              onClick={handleScroll}
             className="text-white bg-[#E5AE00] px-[14px] hover:text-black hover:bg-transparent text-[14px] font-[700] border border-[#E5AE00] hover:border-[#000] rounded-[8px]  h-[48px]">
               Join Whitelist Now
             </button>
-            <a href="https://blockchainfx.com/whitepaper.pdf" className="" rel="noopener noreferrer">
+            </a>
+            <a href="https://blockchainfx.com/whitepaper.pdf" target="_blank" className="" rel="noopener noreferrer">
             <button className="hover:text-white hover:bg-[#E5AE00] px-[14px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px]  h-[48px]">
             Whitepaper
             </button>

@@ -32,12 +32,14 @@ import MobTheUltimateSec from './MobTheUltimateSec';
 import SwapSectionMob from './SwapSectionMob';
 import Whitepaper from '../Home/Whitepaper';
 import WhitepaperMob from './WhitepaperMob';
+import JoinWhitelistEarlyMob from './JoinWhitelistEarlyMob';
 
 function MobileHome() {
     return (
       <div className="">
         <MobileHero />
-        <MobileWalletSec />
+        <JoinWhitelistEarlyMob/>
+        {/* <MobileWalletSec /> */}
         <MobNextGenerationSec />
         <MobileTradeOverSec />
         <MobileOneAppSec />
@@ -62,9 +64,9 @@ function MobileHome() {
         <MobTokenDetailsSec />
         <MobSecurityBuiltSec />
         <MobRoadmapSec />
-        <MobOurAwardSec />
+        {/* <MobOurAwardSec /> */}
         {/* <MobExpertsworkingSec /> */}
-        <MobPressMediaSec />
+        {/* <MobPressMediaSec /> */}
         <MobTraderReviewsSec />
         <MobFaqSec />
         <MobTheUltimateSec />

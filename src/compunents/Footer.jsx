@@ -1,4 +1,5 @@
-import React, { handleScroll } from "react";
+import React from "react";
+import { Link } from "react-router-dom";
 
 import logo from "../assets/footer/logo.svg";
 import socil1 from "../assets/footer/Vector (2).svg";
@@ -44,9 +45,9 @@ function Footer() {
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[20px] font-[400] leading-[108.333%]"
                     href=""
-                    onClick={(e) => handleScroll(e, "how-to-buy", 90)}
+                    onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                   >
-                    How to Buy
+                    Join Whitelist
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%]"
@@ -76,30 +77,24 @@ function Footer() {
               <ul className=" w-[100%]">
                 <li className="text-[#000] text-[13.3px] list-disc font-[600] leading-[108.333%] min-w-[140px]">
                   Docs
-                  <a
-                    className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%]"
-                    href=""
-                  >
-                    Terms of Service{" "}
-                  </a>
-                  <a
-                    className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]"
-                    href=""
-                  >
-                    Privacy Policy{" "}
-                  </a>
-                  <a
-                    className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]"
-                    href=""
-                  >
-                    Token Sale Agreement
-                  </a>
-                  <a
-                    className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]"
-                    href=""
-                  >
-                    Contact us
-                  </a>
+                  <Link to="/terms-of-service" className="text-blue-600 ">
+                    <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%]">
+                      Terms of Service
+                    </p>
+                  </Link>
+                  <Link to="/privacy-policy" className="text-blue-600 ">
+                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]">
+                      Privacy Policy{" "}
+                    </p>
+                  </Link>
+                  <Link to="/token-sale" className="text-blue-600 ">
+                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]">
+                      Token Sale Agreement
+                    </p>
+                  </Link>
+                  <a 
+                  className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]"
+                  href="https://t.me/blockchainfx_chat" target="_blank" rel="noopener noreferrer">Live 24/7 Support</a>
                 </li>
               </ul>
             </div>
@@ -108,7 +103,7 @@ function Footer() {
             <h4 className="text-[#000] text-[13.3px] font-[600] leading-[108.333%]">
               Join Our Socials
             </h4>
-            <div className="flex space-x-6 px-[10px] pt-[10px] pb-[20px]">
+            <div className="flex space-x-6 pt-[10px] pb-[20px]">
               <a
                 href="https://www.instagram.com/blockchain.fx?igsh=MWwybTk3cTRmbDhhcg%3D%3D"
                 target="_blank"
@@ -156,11 +151,11 @@ function Footer() {
             <br />
             Trading cryptocurrencies carries significant risks, including the
             potential for partial or total loss of your funds. Thorough research
-            is crucial. Dreamcars does not guarantee any performance, outcome,
-            or return of capital for any cryptocurrency mentioned on this
-            platform. By using this platform, you agree to our Terms of Service,
-            Privacy Policy, Cookie Policy, and any applicable token sale
-            agreements. The platform's content is not intended for use in
+            is crucial. BlockchainFX does not guarantee any performance,
+            outcome, or return of capital for any cryptocurrency mentioned on
+            this platform. By using this platform, you agree to our Terms of
+            Service, Privacy Policy, Cookie Policy, and any applicable token
+            sale agreements. The platform's content is not intended for use in
             jurisdictions where its distribution or use would violate local laws
             or regulations.
           </p>
@@ -173,9 +168,11 @@ function Footer() {
             className="
           space-x-5"
           >
-            <a href="" className=" text-[12px] text-[#000] leading-[100%]">
-              Cookie Management
-            </a>
+            <Link to="/cookie-management" className="text-blue-600 ">
+              <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%]">
+                Cookie Management
+              </p>
+            </Link>
           </div>
         </div>
       </div>
@@ -201,9 +198,9 @@ function Footer() {
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
                   href=""
-                  onClick={(e) => handleScroll(e, "how-to-buy", 90)}
+                  onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                 >
-                  How to Buy
+                  Join Whitelist
                 </a>
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
@@ -233,30 +230,24 @@ function Footer() {
             <ul className=" w-[100%]">
               <li className="text-[#000] text-[16px] font-[600] leading-[108.333%]">
                 Docs
-                <a
-                  className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
-                  href=""
-                >
-                  Terms of Service{" "}
-                </a>
-                <a
-                  className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
-                  href=""
-                >
-                  Privacy Policy{" "}
-                </a>
-                <a
-                  className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
-                  href=""
-                >
-                  Token Sale Agreement
-                </a>
-                <a
-                  className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
-                  href=""
-                >
-                  Contact us
-                </a>
+                <Link to="/terms-of-service" className="text-blue-600 ">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                    Terms of Service
+                  </p>
+                </Link>
+                <Link to="/privacy-policy" className="text-blue-600 ">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                    Privacy Policy{" "}
+                  </p>
+                </Link>
+                <Link to="/token-sale" className="text-blue-600 ">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                    Token Sale Agreement
+                  </p>
+                </Link>
+                <a 
+                 className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
+                  href="https://t.me/blockchainfx_chat" target="_blank" rel="noopener noreferrer">Live 24/7 Support</a>
               </li>
             </ul>
           </div>
@@ -314,11 +305,11 @@ function Footer() {
             <br />
             Trading cryptocurrencies carries significant risks, including the
             potential for partial or total loss of your funds. Thorough research
-            is crucial. Dreamcars does not guarantee any performance, outcome,
-            or return of capital for any cryptocurrency mentioned on this
-            platform. By using this platform, you agree to our Terms of Service,
-            Privacy Policy, Cookie Policy, and any applicable token sale
-            agreements. The platform's content is not intended for use in
+            is crucial. BlockchainFX does not guarantee any performance,
+            outcome, or return of capital for any cryptocurrency mentioned on
+            this platform. By using this platform, you agree to our Terms of
+            Service, Privacy Policy, Cookie Policy, and any applicable token
+            sale agreements. The platform's content is not intended for use in
             jurisdictions where its distribution or use would violate local laws
             or regulations.
           </p>
