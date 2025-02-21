@@ -43,6 +43,8 @@ function JoinWhitelistEarlyMob() {
               5. First come, first served
             </p>
 
+            <hr className="w-[50%] mx-auto h-[1px]" />
+
             <div className="flex flex-col gap-4">
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
                 <strong>Payment Method:</strong> ETH, BNB and USDT (ERC-20 and

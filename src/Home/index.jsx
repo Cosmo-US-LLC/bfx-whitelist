@@ -67,7 +67,7 @@ function Home() {
         <RoadmapSec />
         {/* <OurAwardSec /> */}
         {/* <ExpertsworkingSec /> */}
-        <PressMediaSec />
+        {/* <PressMediaSec /> */}
         <TraderReviewsSec />
         <FaqSec />
         <TheUltimateSec />
