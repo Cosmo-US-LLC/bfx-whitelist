@@ -64,13 +64,14 @@ function MobWhatIsSec() {
             <source src={whatisimg} type="video/webm" />
           </video> */}
         </div>
-        <div className="flex relative justify-center  items-center ">
+        <div className="flex  justify-center  items-center ">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZoSiWBdwnCbXCU0VNiUefW7s4VcHJo5rDAPvH_QoRRFA5bw/viewform" target="_blank" rel="noopener noreferrer" className="relative flex  justify-center  items-center">
           <button
-            className="absolute text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[102px] w-[100%] h-[40px]"
-            onClick={handleScroll}
+            className="absolute text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] w-[100%] min-w-[160px] h-[40px]"
           >
-            Buy $BFX
+           Join Whitelist Now
           </button>
+          </a>
         </div>
       </div>
     </div>

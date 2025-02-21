@@ -47,7 +47,7 @@ export default function WhitepaperMob() {
                Join Whitelist Now
               </button>
               </a>
-              <a href="https://blockchainfx.com/whitepaper.pdf" rel="noopener noreferrer">
+              <a href="https://blockchainfx.com/whitepaper.pdf" target="_blank" rel="noopener noreferrer">
               <button className="hover:text-white hover:bg-[#E5AE00]   text-black bg-transparent text-[14px] font-[800] border hover:border-[#E5AE00] border-[#000] rounded-[8px] px-[68px]    w-[100%] h-[39px]">
               Access Whitepaper
             </button>

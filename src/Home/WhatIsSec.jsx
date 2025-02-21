@@ -21,7 +21,6 @@ function WhatIsSec() {
   return (
     <div
       className="pt-[50px] pb-[50px] bgwhat" 
-      id="what-is-bfx-coin"
       style={{ height: "auto" }}
     >
       <div className="max-w-[866px] relative  w-[100%] mx-auto ">
@@ -65,12 +64,13 @@ function WhatIsSec() {
               target="_blank"
               rel="noopener noreferrer"
             >
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZoSiWBdwnCbXCU0VNiUefW7s4VcHJo5rDAPvH_QoRRFA5bw/viewform" target="_blank" rel="noopener noreferrer" className="flex justify-center">
           <button
-            onClick={handleScroll}
             className="text-white bg-[#E5AE00]  px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
           >
             Join Whitelist Now
           </button>
+              </a>
           </a>
         </div>
       </div>

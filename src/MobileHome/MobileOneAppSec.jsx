@@ -39,7 +39,7 @@ function MobileOneAppSec() {
   };
 
   return (
-    <div className="pt-[24px] pb-[24px] ">
+    <div className="pt-[24px] pb-[24px] " id="what-is-bfx-coin">
      <div className="w-[90%] mx-auto relative">
      <div className="space-y-[30px]">
         <div className="space-y-[15px]">
@@ -103,14 +103,8 @@ function MobileOneAppSec() {
             ))}
           </div>
         </div>
-        <div className="w-[50%] flex justify-center">
-        <div className="w-[142%] h-[100%]" style={{
-            backgroundImage:`url(${oneimg})`,
-            backgroundPosition: 'left',
-            backgroundSize: 'cover',
-            backgroundRepeat: 'no-repeat',
-          }}>
-          </div>
+        <div className="w-[100%] flex justify-center">
+        <img src={oneimg} className="object-cover" alt="" />
         </div>
       </div>
      </div>
