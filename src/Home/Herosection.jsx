@@ -55,6 +55,7 @@ function Herosection() {
             <a
               href="https://blockchainfx.com/whitepaper.pdf"
               className="!w-[138px]"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <button className="hover:text-white hover:bg-[#E5AE00] px-[12px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px] !w-[100%] h-[39px]">
