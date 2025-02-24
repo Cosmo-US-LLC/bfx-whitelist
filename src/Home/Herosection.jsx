@@ -33,7 +33,7 @@ function Herosection() {
             <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-center text-[#000] tracking-[-0.32px] ">
               BlockchainFX is the only crypto-native trading platform that
               offers instant access to the world’s largest financial markets.
-               Users can trade crypto, forex, stocks, ETFs, futures, options,
+              Users can trade crypto, forex, stocks, ETFs, futures, options,
               bonds, indices, CFDs and more, all in one place. This ecosystem
               enables $BFX token holders to earn up to 25,000 USDT daily,
               receiving rewards every time someone trades on BlockchainFX.
