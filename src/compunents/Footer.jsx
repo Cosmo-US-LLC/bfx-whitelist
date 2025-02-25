@@ -43,28 +43,28 @@ function Footer() {
                 <li className="text-[#000] text-[13.3px] font-[600] leading-[108.333%]  list-disc  min-w-[100px]">
                   Quick Links
                   <a
-                    className="text-[#949494] block text-[10.8px] pt-[20px] font-[400] leading-[108.333%]"
+                    className="text-[#949494] block text-[10.8px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                     href=""
                     onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                   >
-                    Join Whitelist
+                    Whitelist
                   </a>
                   <a
-                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%]"
+                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                     href=""
                     onClick={(e) => handleScroll(e, "what-is-bfx-coin", 90)}
                   >
                     What is BFX
                   </a>
                   <a
-                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%]"
+                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                     href=""
                     onClick={(e) => handleScroll(e, "roadmap", 90)}
                   >
                     Roadmap
                   </a>
                   <a
-                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%]"
+                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                     href=""
                     onClick={(e) => handleScroll(e, "tokenomics", 90)}
                   >
@@ -76,24 +76,24 @@ function Footer() {
             <div className="max-w-[114px] w-[100%] pt-[15px]">
               <ul className=" w-[100%]">
                 <li className="text-[#000] text-[13.3px] list-disc font-[600] leading-[108.333%] min-w-[140px]">
-                  Docs
+                  Docs <br />
                   <Link to="/terms-of-service" className="text-blue-600 ">
-                    <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%]">
+                    <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                       Terms of Service
                     </p>
-                  </Link>
+                  </Link><br />
                   <Link to="/privacy-policy" className="text-blue-600 ">
-                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]">
+                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                       Privacy Policy{" "}
                     </p>
-                  </Link>
+                  </Link><br />
                   <Link to="/token-sale" className="text-blue-600 ">
-                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]">
+                    <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                       Token Sale Agreement
                     </p>
-                  </Link>
+                  </Link><br />
                   <a 
-                  className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%]"
+                  className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href="https://t.me/blockchainfx_chat" target="_blank" rel="noopener noreferrer">Live 24/7 Support</a>
                 </li>
               </ul>
@@ -108,6 +108,7 @@ function Footer() {
                 href="https://www.instagram.com/blockchain.fx?igsh=MWwybTk3cTRmbDhhcg%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img src={socil1} alt="" />
               </a>
@@ -115,6 +116,7 @@ function Footer() {
                 href="https://t.me/blockchainfx_chat"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img src={socil2} alt="" />
               </a>
@@ -122,6 +124,7 @@ function Footer() {
                 href="https://x.com/Blockchainfx1"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img src={socil3} alt="" />
               </a>
@@ -169,7 +172,7 @@ function Footer() {
           space-x-5"
           >
             <Link to="/cookie-management" className="text-blue-600 ">
-              <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%]">
+              <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                 Cookie Management
               </p>
             </Link>
@@ -194,30 +197,30 @@ function Footer() {
           <div className="max-w-[150px] w-[100%] ">
             <ul>
               <li className="text-[#000] text-[16px] font-[600] leading-[108.333%] ">
-                Quick Links
+                Quick Links <br />
                 <a
-                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
+                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href=""
                   onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                 >
-                  Join Whitelist
-                </a>
+                  Whitelist
+                </a><br />
                 <a
-                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
+                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href=""
                   onClick={(e) => handleScroll(e, "what-is-bfx-coin", 90)}
                 >
                   What is BFX
-                </a>
+                </a><br />
                 <a
-                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
+                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href=""
                   onClick={(e) => handleScroll(e, "roadmap", 90)}
                 >
                   Roadmap
-                </a>
+                </a><br />
                 <a
-                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%]"
+                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href=""
                   onClick={(e) => handleScroll(e, "tokenomics", 90)}
                 >
@@ -229,24 +232,24 @@ function Footer() {
           <div className="max-w-[200px] w-[100%] ">
             <ul className=" w-[100%]">
               <li className="text-[#000] text-[16px] font-[600] leading-[108.333%]">
-                Docs
+                Docs <br />
                 <Link to="/terms-of-service" className="text-blue-600 ">
-                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                     Terms of Service
                   </p>
-                </Link>
+                </Link><br />
                 <Link to="/privacy-policy" className="text-blue-600 ">
-                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                     Privacy Policy{" "}
                   </p>
-                </Link>
+                </Link><br />
                 <Link to="/token-sale" className="text-blue-600 ">
-                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                     Token Sale Agreement
                   </p>
-                </Link>
+                </Link><br />
                 <a 
-                 className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%]"
+                 className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href="https://t.me/blockchainfx_chat" target="_blank" rel="noopener noreferrer">Live 24/7 Support</a>
               </li>
             </ul>
@@ -262,6 +265,7 @@ function Footer() {
                 href="https://www.instagram.com/blockchain.fx?igsh=MWwybTk3cTRmbDhhcg%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img className="w-[24px] h-[24px]" src={socil1} alt="" />
               </a>
@@ -269,6 +273,7 @@ function Footer() {
                 href="https://t.me/blockchainfx_chat"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img className="w-[24px] h-[24px]" src={socil2} alt="" />
               </a>
@@ -276,6 +281,7 @@ function Footer() {
                 href="https://x.com/Blockchainfx1"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="transition-transform duration-300 hover:scale-110"
               >
                 <img className="w-[24px] h-[24px]" src={socil3} alt="" />
               </a>
