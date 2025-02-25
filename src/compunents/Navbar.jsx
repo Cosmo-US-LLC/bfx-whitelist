@@ -111,35 +111,35 @@ function Navbar() {
         </div>
         <div className="space-x-[27px] 2xl:flex xl:flex lg:flex md:flex sm:hidden hidden items-center">
           <a
-            className="text-[14px] font-[500] text-[#000]"
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
             onClick={(e) => handleScroll(e, "what-is-bfx-coin", 40)}
             href=""
           >
             What is BlockchainFX?
           </a>
           <a
-            className="text-[14px] font-[500] text-[#000]"
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
             onClick={(e) => handleScroll(e, "join-whitelist", 40)}
             href=""
           >
-            Join Whitelist
+            Whitelist
           </a>
           <a
-            className="text-[14px] font-[500] text-[#000]"
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
             onClick={(e) => handleScroll(e, "whitepaper", 40)}
             href=""
           >
            Whitepaper
           </a>
           <a
-            className="text-[14px] font-[500] text-[#000]"
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
             onClick={(e) => handleScroll(e, "roadmap", 60)}
             href=""
           >
             Roadmap
           </a>
           <a
-            className="text-[14px] font-[500] text-[#000]"
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
             onClick={(e) => handleScroll(e, "reviews", 90)}
             href=""
           >
@@ -200,40 +200,40 @@ function Navbar() {
       {isMobileMenuOpen && (
         <div className="absolute top-[100%] min-h-[100vh] left-0 w-full bg-white shadow-md z-50 p-6">
           <a
-            className="block text-[16px] font-[500] text-[#000] mb-4"
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
             href=""
             onClick={(e) => handleScroll(e, "what-is-bfx-coin", 60)}
           >
             What is BlockchainFX?
-          </a>
+          </a> <br />
           <a
-            className="block text-[16px] font-[500] text-[#000] mb-4"
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
             href=""
             onClick={(e) => handleScroll(e, "join-whitelist", 60)}
           >
-            Join Whitelist
-          </a>
+            Whitelist
+          </a><br />
           <a
-            className="block text-[16px] font-[500] text-[#000] mb-4"
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
             href=""
             onClick={(e) => handleScroll(e, "whitepaper", 90)}
           >
            Whitepaper
-          </a>
+          </a><br />
           <a
-            className="block text-[16px] font-[500] text-[#000] mb-4"
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
             href=""
             onClick={(e) => handleScroll(e, "roadmap", 90)}
           >
             Roadmap
-          </a>
+          </a><br />
           <a
-            className="block text-[16px] font-[500] text-[#000] mb-4"
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
             href="#"
             onClick={(e) => handleScroll(e, "reviews", 90)}
           >
             Reviews
-          </a>
+          </a><br />
           <div
             ref={dropdownRef}
             className="relative flex items-center justify-start space-x-2"
