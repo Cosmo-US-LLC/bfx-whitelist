@@ -1,16 +1,16 @@
 import React from "react";
 
 import vector1 from "../assets/Roadmap/vector (11).png";
-import vector2 from "../assets/Roadmap/vector (10).png";
+import vector2 from "../assets/Roadmap/vector (10).webp";
 import vector3 from "../assets/Roadmap/vector (9).png";
 import vector4 from "../assets/Roadmap/vector (8).png";
 import vector5 from "../assets/Roadmap/vector (7).png";
 import vector6 from "../assets/Roadmap/vector (6).png";
 import vector7 from "../assets/Roadmap/vector (5).png";
-import vector8 from "../assets/Roadmap/vector (4).png";
-import vector9 from "../assets/Roadmap/vector (3).png";
-import vector10 from "../assets/Roadmap/vector (2).png";
-import vector11 from "../assets/Roadmap/vector (1).png";
+import vector8 from "../assets/Roadmap/vector (4).webp";
+import vector9 from "../assets/Roadmap/vector (3).webp";
+import vector10 from "../assets/Roadmap/vector (2).webp";
+import vector11 from "../assets/Roadmap/vector (1).webp";
 
 function RoadmapSec() {
  
@@ -48,7 +48,7 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector2} className="absolute right-[24%] top-[-34%]" alt="" />
+        <img src={vector2} className="absolute max-w-[100px] right-[24%] top-[-34%]" alt="" />
         <img src={vector4} className="absolute z-[-1] right-[-18%] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] ml-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
@@ -76,8 +76,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector7} className="absolute right-[5%] top-[-51%]" alt="" />
-        <img src={vector3} className="absolute z-[-1] left-[-15%] top-[50%]" alt="" />
+        <img src={vector7} className="absolute  right-[5%] top-[-51%]" alt="" />
+        <img src={vector3} className="absolute max-w-[100px] z-[-1] left-[-15%] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] mr-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -104,8 +104,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute left-[14%] top-[-72%]" alt="" />
-        <img src={vector4} className="absolute right-[-15%] z-[-1] top-[50%]" alt="" />
+        <img src={vector8} className="absolute left-[14%] max-w-[100px] top-[-72%]" alt="" />
+        <img src={vector4} className="absolute right-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] ml-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -132,9 +132,9 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector11} className="absolute right-[18%] top-[-32%]" alt="" />
-        <img src={vector10} className="absolute left-[-25%]  top-[-25%]" alt="" />
-        <img src={vector3} className="absolute left-[-15%] z-[-1] top-[50%]" alt="" />
+        <img src={vector11} className="absolute right-[18%] max-w-[100px] top-[-32%]" alt="" />
+        <img src={vector10} className="absolute left-[-25%] max-w-[100px]  top-[-10%]" alt="" />
+        <img src={vector3} className="absolute left-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] mr-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -189,7 +189,7 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute right-[19%] top-[-45%]" alt="" />
+        <img src={vector8} className="absolute right-[19%] top-[-40%] max-w-[100px]" alt="" />
        </div>
       </div>
       </div>

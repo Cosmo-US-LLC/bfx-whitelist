@@ -27,33 +27,29 @@ function JoinWhitelistEarlyMob() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Register for the whitelist by clicking the button below
+              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale becomes publicly available.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              2. By registering, you'll get 15 minutes of early access before
-              the presale becomes publicly available
+              2. Click the button below to get whitelisted.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              3. Enter your wallet address and the amount you want to buy
+              3. Enter your wallet address and purchase amount.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              4. Make sure to use the same wallet once the presale starts
+              4. Use the same wallet when the presale starts.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              5. First come, first served
+              5. First come, first served.
             </p>
 
             <hr className="w-[50%] mx-auto h-[1px]" />
 
             <div className="flex flex-col gap-4">
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Payment Method:</strong> ETH, BNB and USDT (ERC-20 and
-                BEP-20)
+                <strong>Payment Method:</strong> ETH, BNB and USDT
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Claim:</strong> Your tokens will automatically be
-                transferred to your wallet after the presale ends. you don't
-                need to do anything
+                <strong>Claim:</strong> Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
                 <strong> Date:</strong> TBA
