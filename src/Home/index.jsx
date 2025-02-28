@@ -33,6 +33,8 @@ import FeaturedSec from './FeaturedSec';
 import Whitepaper from './Whitepaper';
 import SwapSection from './SwapSection';
 import JoinWhitelistEarly from './JoinWhitelistEarly';
+import LiveDemo from './LiveDemo';
+import CreditCard from './CreditCard';
 
 function Home() {
     return (
@@ -40,6 +42,7 @@ function Home() {
         <Herosection />
         <FeaturedSec />
         <JoinWhitelistEarly />
+        <LiveDemo />
         {/* <WalletSec /> */}
         <NextGenerationSec />
         <TradeOverSec/>
@@ -47,6 +50,7 @@ function Home() {
         <EarnOnSec />
         <HowDoesItSec />
         <ExclusiveBenefitsSec/>
+        <CreditCard />
         <PremiumSec />
         {/* <HowToBuySec /> */}
         <LessThanSec />
