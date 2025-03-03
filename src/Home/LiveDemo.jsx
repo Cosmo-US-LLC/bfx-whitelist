@@ -11,7 +11,7 @@ function LiveDemo() {
       <div className="max-w-[1200px]  min-h-[454px] px-[46px] border border-[#B0B0B0] rounded-[13px] w-[100%] mx-auto bg-[#fff] p-[30px] space-y-[1rem]">
         <h3 className="text-center text-[32px] font-[700] leading-[128.889%]">Live Demo</h3>
         <div className="bg-[#F3F3F3] max-w-[1033px] w-[100%] mx-auto min-h-[615px] rounded-[7.491px] border  border-[#B0B0B0] flex items-center justify-center">
-        <video width="640" height="660" controls={false} autoPlay muted loop>
+        <video width="820" height="" controls={false} autoPlay muted loop>
   <source src={liveVideo} type="video/mp4" />
 </video>
         </div>
