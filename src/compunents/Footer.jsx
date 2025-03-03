@@ -54,7 +54,7 @@ function Footer() {
                     href=""
                     onClick={(e) => handleScroll(e, "what-is-bfx-coin", 90)}
                   >
-                    What is BFX
+                    What is BFX?
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
@@ -210,7 +210,7 @@ function Footer() {
                   href=""
                   onClick={(e) => handleScroll(e, "what-is-bfx-coin", 90)}
                 >
-                  What is BFX
+                  What is BFX?
                 </a><br />
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"

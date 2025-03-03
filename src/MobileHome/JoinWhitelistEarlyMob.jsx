@@ -4,7 +4,7 @@ import swpicon from "../assets/wallet/swp.svg";
 
 function JoinWhitelistEarlyMob() {
   return (
-    <div className="py-[50px]" id="join-whitelist">
+    <div className="pb-[24px]" id="join-whitelist">
       <div className="  w-[100%] flex flex-col px-4 gap-6">
         <div className="  flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="w-[357px] text-[32px] font-[700] text-center tracking-[-0.56px] capitalize leading-normal">
@@ -27,7 +27,7 @@ function JoinWhitelistEarlyMob() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale becomes publicly available.
+              1. Earn daily passive USDT and $BFX rewards, even during the pre-sale. The earlier you buy, the more you earn.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               2. Click the button below to get whitelisted.
@@ -52,7 +52,7 @@ function JoinWhitelistEarlyMob() {
                 <strong>Claim:</strong> Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong> Date:</strong> TBA
+                <strong> Date:</strong> Sunday, March 23 at 5 PM UTC
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
                 <strong>Goal:</strong> $250,000

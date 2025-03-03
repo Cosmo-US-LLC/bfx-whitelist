@@ -33,12 +33,15 @@ import SwapSectionMob from './SwapSectionMob';
 import Whitepaper from '../Home/Whitepaper';
 import WhitepaperMob from './WhitepaperMob';
 import JoinWhitelistEarlyMob from './JoinWhitelistEarlyMob';
+import LiveDemoMob from './LiveDemoMob';
+import CreditCardMob from './CreditCardMob';
 
 function MobileHome() {
     return (
       <div className="">
         <MobileHero />
         <JoinWhitelistEarlyMob/>
+        <LiveDemoMob />
         {/* <MobileWalletSec /> */}
         <MobNextGenerationSec />
         <MobileTradeOverSec />
@@ -46,6 +49,7 @@ function MobileHome() {
         <MobileEarnOnSec />
         <MobHowDoesItSec />
         <MobExclusiveSec />
+        <CreditCardMob />
         <MobilePremiumSec />
         {/* <MobHowToBuySec /> */}
         <MobileLessThanSec />
