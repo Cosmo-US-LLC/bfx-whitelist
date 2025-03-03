@@ -33,7 +33,7 @@ const cardItems = [
     img: excixn4,
     title: " Daily USDT <br/> Staking Income",
     description:
-      "Earn daily passive USDT and $BFX rewards—even during the pre-sale. The earlier you buy, the more you earn.",
+      "Earn daily passive USDT and $BFX rewards, even during the pre-sale. The earlier you buy, the more you earn.",
   },
 ];
 
@@ -43,7 +43,7 @@ function ExclusiveBenefitsSec() {
       <div className="max-w-[1400px] w-[100%] mx-auto relative">
         <div>
           <h3 className="text-[30px] capitalize leading-[155.556%] text-[#181A20] text-center font-[700]">
-          Exclusive Benefits During the Pre-Sale
+          Exclusive Benefits During the Presale
           </h3>
         </div>
         <div className="max-w-[1100px] pt-[30px] w-[100%] mx-auto ">
