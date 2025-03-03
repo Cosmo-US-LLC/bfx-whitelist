@@ -52,6 +52,7 @@ function CreditCardMob() {
             className="!rounded-[8px]"
             controls={false}
             autoPlay
+            playsinline 
             muted
             loop
           >
