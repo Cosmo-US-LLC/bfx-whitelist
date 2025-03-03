@@ -27,7 +27,7 @@ function JoinWhitelistEarly() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Earn daily passive USDT and $BFX rewards, even during the pre-sale. The earlier you buy, the more you earn.
+              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               2. Click the button below to get whitelisted.
