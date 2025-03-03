@@ -50,7 +50,7 @@ function CreditCardMob() {
             width="640"
             height="660"
             className="!rounded-[8px]"
-            controls={false}
+            controls
             autoPlay
             playsinline 
             muted

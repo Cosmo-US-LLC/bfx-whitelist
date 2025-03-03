@@ -27,7 +27,7 @@ function JoinWhitelistEarlyMob() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale becomes publicly available.
+              1. Earn daily passive USDT and $BFX rewards, even during the pre-sale. The earlier you buy, the more you earn.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               2. Click the button below to get whitelisted.
@@ -52,7 +52,7 @@ function JoinWhitelistEarlyMob() {
                 <strong>Claim:</strong> Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong> Date:</strong> TBA
+                <strong> Date:</strong> Sunday, March 23 at 5 PM UTC
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
                 <strong>Goal:</strong> $250,000
