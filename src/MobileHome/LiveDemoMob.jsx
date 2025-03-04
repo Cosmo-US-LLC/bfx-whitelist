@@ -7,7 +7,7 @@ function LiveDemoMob() {
   return (
     <div className="py-[24px]">
       <div className="max-w-[1200px] p-[20px]  border border-[#B0B0B0] rounded-[13px] w-[90%] mx-auto bg-[#fff] space-y-[1rem]">
-        <h3 className="text-center text-[30px] font-[700] leading-[109.375%]">Live Demo</h3>
+        <h3 className="text-center text-[30px] font-[700] leading-[109.375%]">Live BlockchainFX Demo</h3>
         <div className="bg-[#F3F3F3] flex p-2 items-center max-w-[1033px] w-[100%] mx-auto min-h-[230px] rounded-[6px] border  border-[#B0B0B0]">
  <video width="640" height="660" controls autoPlay playsinline  muted loop>
   <source src={liveVideo} type="video/mp4" />
