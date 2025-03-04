@@ -19,32 +19,33 @@ function CreditCard() {
 
   return (
     <div className="pt-[20px] pb-[50px]">
-      <div className="max-w-[1200px]  min-h-[454px] p-[30px] border border-[#B0B0B0] rounded-[13px] space-x-[4rem] flex justify-between  items-center w-[100%] mx-auto bg-[#fff]">
-          <div className="w-[50%] flex items-center justify-center h-[410px] bg-[#F3F3F3] rounded-[11px]">
+      <div className="max-w-[1200px]  min-h-[480px] p-[30px] border border-[#B0B0B0] w-[100%] space-y-[30px] mx-auto rounded-[13px]">
+      <div className=" space-x-[2rem] flex justify-between  items-center  bg-[#fff]">
+          <div className="w-[54%] flex items-center justify-center min-h-[460px] bg-[#F3F3F3] rounded-[11px]">
             <video width="380" className="!rounded-[11px]" height="260" playsinline  controls={false} autoPlay muted loop>
              <source src={creditVideo} type="video/mp4" />
            </video>
           </div>
-          <div className="max-w-[410px] w-[50%] !mr-auto space-y-[20px]">
-            <h3 className="text-[30px] capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px] text-start">
+          <div className="w-[45%] p-[40px] min-h-[460px] bg-[#F3F3F3] rounded-[11px] space-y-[20px]">
+            <h3 className="text-[20.86px] text-center capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px]">
             BFX Credit Card
             </h3>
-            <p className="text-[14px] text-[#181A20] font-[400] leading-[161.598%] max-w-[457px] text-start">
-            Enjoy limitless trading opportunities, like exchanging Gold for BTC  or swapping ETH for Nvidia stock instantly without multiple brokers. Traditionally, converting crypto into other assets required separate exchanges, extra fees, and long wait times. BlockchainFX streamlines everything in one place, making trading faster, easier, and more convenient than ever.
-            </p>
-            <a
-              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-            <button 
-            onClick={handleScroll}
-            className="text-white bg-[#E5AE00] px-[12px] hover:text-black !mt-[15px] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[161px] w-[100%] h-[39px]">
-             Join Whitelist Now
-            </button>
-            </a>
+            <ul className="list-disc">
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited spending / No limits </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Metal or 18 / 24 karat gold plated cards </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">10,000 USD monthly ATM withdrawal limit </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to 100,000 USD per single transaction  </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Top up with BFX and more than 20+ crypto </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">BFX and USDT daily rewards available to pay </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted at 250 Million Merchant Worldwide </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Cards are exclusively available during BFX presale </li>
+            </ul>
           </div>
         </div>
+           <div className="">
+            <p className="text-[10px] text-center max-w-[816px] mx-auto tracking-[-0.32px] leading-[160%] font-[400] ">Shipping will begin once the BFX presale ends, as all cards will be sent out simultaneously.  Every BFX Founder’s Club member will receive a secure form after the presale to submit their shipping details. Cards will be delivered worldwide via DHL or FedEx Express. </p>
+           </div>
+      </div>
     </div>
   );
 }
