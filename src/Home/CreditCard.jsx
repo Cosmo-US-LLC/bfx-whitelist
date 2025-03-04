@@ -21,12 +21,12 @@ function CreditCard() {
     <div className="pt-[20px] pb-[50px]">
       <div className="max-w-[1200px]  min-h-[480px] p-[30px] border border-[#B0B0B0] w-[100%] space-y-[30px] mx-auto rounded-[13px]">
       <div className=" space-x-[2rem] flex justify-between  items-center  bg-[#fff]">
-          <div className="w-[54%] flex items-center justify-center min-h-[460px] bg-[#F3F3F3] rounded-[11px]">
+          <div className="w-[54%] flex items-center justify-center border border-[#9D9D9D] min-h-[460px] bg-[#F3F3F3] rounded-[11px]">
             <video width="380" className="!rounded-[11px]" height="260" playsinline  controls={false} autoPlay muted loop>
              <source src={creditVideo} type="video/mp4" />
            </video>
           </div>
-          <div className="w-[45%] p-[40px] min-h-[460px] bg-[#F3F3F3] rounded-[11px] space-y-[20px]">
+          <div className="w-[45%] p-[40px] border border-[#9D9D9D] min-h-[460px] bg-[#F3F3F3] rounded-[11px] space-y-[20px]">
             <h3 className="text-[20.86px] text-center capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px]">
             BFX Credit Card
             </h3>

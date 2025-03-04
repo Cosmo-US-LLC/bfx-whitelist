@@ -35,7 +35,7 @@ function CreditCardMob() {
     <div className="pt-[24px] pb-[24px]">
       <div className="pt-[14px] pb-[31px] px-[15px] space-y-[20px]  w-[90%] mx-auto bg-[#fff]">
       
-        <div className="w-[100%] p-[40px] min-h-[460px] bg-[#F3F3F3] rounded-[11px] space-y-[20px]">
+        <div className="w-[100%] p-[40px] border border-[#9D9D9D] min-h-[460px] bg-[#F3F3F3] rounded-[11px] space-y-[20px]">
             <h3 className="text-[20.86px] text-center capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px]">
             BFX Credit Card
             </h3>
