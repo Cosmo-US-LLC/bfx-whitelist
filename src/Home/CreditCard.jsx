@@ -43,7 +43,7 @@ function CreditCard() {
           </div>
         </div>
            <div className="">
-            <p className="text-[10px] text-center max-w-[816px] mx-auto tracking-[-0.32px] leading-[160%] font-[400] ">Shipping will begin once the BFX presale ends, as all cards will be sent out simultaneously.  Every BFX Founder’s Club member will receive a secure form after the presale to submit their shipping details. Cards will be delivered worldwide via DHL or FedEx Express. </p>
+            <p className="text-[10px] text-center max-w-[816px] mx-auto tracking-[-0.32px] leading-[230%] font-[400] ">Shipping will begin once the BFX presale ends, as all cards will be sent out simultaneously. <br /> Every BFX Founder’s Club member will receive a secure form after the presale to submit their shipping details. Cards will be delivered worldwide via DHL or FedEx Express. </p>
            </div>
       </div>
     </div>
