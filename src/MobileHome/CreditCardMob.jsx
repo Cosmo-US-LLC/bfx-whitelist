@@ -39,6 +39,22 @@ function CreditCardMob() {
             <h3 className="text-[20.86px] text-center capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px]">
             BFX Credit Card
             </h3>
+
+            <div className="w-[100%] items-center flex justify-center rounded-[8px]">
+          <video
+            width="300"
+            height="260"
+            className="!rounded-[8px]"
+            controls
+            autoPlay
+            playsinline 
+            muted
+            loop
+          >
+            <source src={creditVideo} type="video/mp4" />
+          </video>
+        </div>
+
             <ul className="list-disc">
               <li className="text-[15px] border-b ml-3 py-[8px] font-[500] ">Unlimited spending / No limits </li>
               <li className="text-[15px] border-b ml-3 py-[8px] font-[500] ">Metal or 18 / 24 karat gold plated cards </li>
@@ -50,20 +66,7 @@ function CreditCardMob() {
               <li className="text-[15px] border-b ml-3 py-[8px] font-[500] ">Cards are exclusively available during BFX presale </li>
             </ul>
           </div>
-        <div className="w-[100%] items-center flex justify-center min-h-[333px] rounded-[8px]">
-          <video
-            width="640"
-            height="660"
-            className="!rounded-[8px]"
-            controls
-            autoPlay
-            playsinline 
-            muted
-            loop
-          >
-            <source src={creditVideo} type="video/mp4" />
-          </video>
-        </div>
+       
         <div className="flex justify-center">
           <a
             href="https://forms.gle/MqeUsLeJPwxt4gfC7"
