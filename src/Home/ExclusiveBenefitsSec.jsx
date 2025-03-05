@@ -2,7 +2,7 @@ import React from "react";
 
 import howimg from "../assets/HowDoesItSec/hiwimg.png";
 import excixn1 from "../assets/ExclusiveSec/excixn (1).webp";
-import excixn2 from "../assets/ExclusiveSec/excixn (2).svg";
+import excixn2 from "../assets/ExclusiveSec/excixn (2).webp";
 import excixn3 from "../assets/ExclusiveSec/excixn (3).svg";
 import excixn4 from "../assets/ExclusiveSec/excixn (4).webp";
 
@@ -54,7 +54,7 @@ function ExclusiveBenefitsSec() {
                 className="max-w-[255px] mx-auto px-[15px] flex flex-col justify-centetr pt-[10px] pb-[34px] min-h-[310px] max-h-[310px] bg-[#F9FAFB] rounded-[8px] border border-[#F9FAFB] space-y-[20px] "
               >
                 <div className="max-h-[116px] h-[100%] flex justify-center items-center">
-                  <img src={item.img} className="max-h-[116px] h-[100%]" alt="" />
+                  <img src={item.img} className="max-h-[116px] h-[100%] object-cover" alt="" />
                 </div>
                 <h3
                   className="text-[16px] text-center text-[#000] font-[700] leading-[115%]"

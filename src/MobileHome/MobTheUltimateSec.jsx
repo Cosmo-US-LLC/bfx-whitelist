@@ -25,7 +25,7 @@ function MobTheUltimateSec() {
             <img src={logo} className="h-[45.77px]" alt="" />
             </div>
             <h3 className="text-[33.358px] text-[#fff] font-[700] text-center leading-[117.143%] text-[#181A20] tracking-[-1px]">
-            Blockchain Meets <br/> Global Financial Markets
+            The Ultimate <br/> Trading Platform
             </h3>
             <div className="flex justify-center pt-[10px] items-center  space-x-[17px]">
             <a
