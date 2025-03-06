@@ -65,11 +65,11 @@ function Herosection() {
             </a>
           </div>
           <div className="flex items-center justify-start pt-[20px] space-x-3">
+            <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
             <div className="flex items-center space-x-2">
               <img className="w-[84px]" src={stars} alt="" />
               <p className="text-[#3E3E3E] font-[400] text-[14px]">4.79/5 </p>
             </div>
-            <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
           </div>
          </div>
           <div className="flex justify-end max-w-[619px]">
