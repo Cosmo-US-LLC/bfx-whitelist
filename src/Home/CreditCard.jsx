@@ -1,5 +1,7 @@
 import React from "react";
 import creditVideo from "../assets/CreditCard/cred.mp4";
+import applepay from "../assets/CreditCard/btnsvg (2).svg";
+import googlelepay from "../assets/CreditCard/btnsvg (1).svg";
 
 
 function CreditCard() {
@@ -19,7 +21,7 @@ function CreditCard() {
 
   return (
     <div className="pt-[20px] pb-[50px]">
-      <div className="max-w-[1200px]  min-h-[480px] p-[30px] border border-[#B0B0B0] w-[100%] space-y-[30px] mx-auto rounded-[13px]">
+      <div className="max-w-[1200px]  min-h-[480px] p-[30px] border border-[#B0B0B0] w-[100%] space-y-[25px] mx-auto rounded-[13px]">
       <div className=" space-x-[2rem] flex justify-between  items-center  bg-[#fff]">
           <div className="w-[54%] flex items-center justify-center border border-[#9D9D9D] min-h-[460px] bg-[#F3F3F3] rounded-[11px]">
             <video width="380" className="!rounded-[11px]" height="260" playsinline  controls={false} autoPlay muted loop>
@@ -45,6 +47,10 @@ function CreditCard() {
            <div className="">
             <p className="text-[10px] text-center max-w-[816px] mx-auto tracking-[-0.32px] leading-[230%] font-[400] ">Shipping will begin once the BFX presale ends, as all cards will be sent out simultaneously. <br /> Every BFX Founder’s Club member will receive a secure form after the presale to submit their shipping details. Cards will be delivered worldwide via DHL or FedEx Express. </p>
            </div>
+          <div className="flex justify-center space-x-3">
+          <button className="w-[70.2px] h-[30px] hover:opacity-[0.7] flex justify-center items-center rounded-[4.8px] border border-[#000]"><img src={applepay} alt="" /></button>
+          <button className="w-[70.2px] h-[30px] hover:opacity-[0.7] flex justify-center items-center rounded-[4.8px] border border-[#000]"><img src={googlelepay} alt="" /></button>
+          </div>
       </div>
     </div>
   );
