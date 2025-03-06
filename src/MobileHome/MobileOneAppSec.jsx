@@ -5,7 +5,7 @@ import oneicon3 from "../assets/OneAppSec/oneicon (2).svg";
 import oneicon4 from "../assets/OneAppSec/oneicon (3).svg";
 import iconapon from "../assets/OneAppSec/iconopen (1).svg";
 import iconcls from "../assets/OneAppSec/iconopen (2).svg";
-import oneimg from "../assets/OneAppSec/imgonecec.png";
+import oneimg from "../assets/OneAppSec/imgonecec.webp";
 
 const items = [
   {

@@ -22,15 +22,16 @@ function Herosection() {
   return (
     <div className="pt-[50px] pb-[20px] bg-[#FFF]">
       <div className="max-w-[1200px]  w-[100%] mx-auto ">
-        <div className="">
-          <div className="space-y-[10px]">
-            <h4 className="text-[18px]  leading-[144.444%] font-[400] text-center text-[#000] tracking-[-1px] capitalize">
+        <div className="flex justify-between items-center">
+         <div className="max-w-[505px] w-[100%]">
+         <div className="space-y-[10px]">
+            <h4 className="text-[18px]  leading-[144.444%] font-[400] text-start text-[#000] tracking-[-1px] capitalize">
               Blockchain Meets Global Financial Markets
             </h4>
-            <h2 className=" text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-center">
+            <h2 className=" text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-start">
               The First Crypto Trading Super App
             </h2>
-            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-center text-[#000] tracking-[-0.32px] ">
+            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">
               BlockchainFX is the only crypto-native trading platform that
               offers instant access to the world’s largest financial markets.
               Users can trade crypto, forex, stocks, ETFs, futures, options,
@@ -39,7 +40,7 @@ function Herosection() {
               receiving rewards every time someone trades on BlockchainFX.
             </p>
           </div>
-          <div className="flex justify-center pt-[20px] pb-[0px] items-center space-x-[17px]">
+          <div className="flex justify-start pt-[20px] pb-[0px] items-center space-x-[17px]">
             <a
               href="https://forms.gle/MqeUsLeJPwxt4gfC7"
               target="_blank"
@@ -63,19 +64,20 @@ function Herosection() {
               </button>
             </a>
           </div>
-          <div className="flex items-center justify-center pt-[20px] space-x-3">
+          <div className="flex items-center justify-start pt-[20px] space-x-3">
+            <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
             <div className="flex items-center space-x-2">
               <img className="w-[84px]" src={stars} alt="" />
               <p className="text-[#3E3E3E] font-[400] text-[14px]">4.79/5 </p>
             </div>
-            <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
           </div>
-          <div className="flex justify-center max-w-[619px] mx-auto">
+         </div>
+          <div className="flex justify-end max-w-[619px]">
             {/* <img src={herogif} className="max-h-[550px]" alt="" /> */}
             <video
-              width={500}
-              height={410}
-              className="max-h-[410px]"
+              width={600}
+              height={450}
+              className="max-h-[450px]"
               muted
               autoPlay="autoplay"
               preload="auto"
@@ -85,13 +87,6 @@ function Herosection() {
               <source src={heroVideo} type="video/webm" />
             </video>
           </div>
-          {/* <div className="flex justify-center items-center h-[73.47] space-x-[52px] border rounded-[20px] py-[20px]">
-            <img src={herobnr1} alt="" />
-            <img src={herobnr2} alt="" />
-            <img src={herobnr3} alt="" />
-            <img src={herobnr4} alt="" />
-            <img src={herobnr5} className="max-w-[225px] h-[25.82px]" alt="" />
-          </div> */}
         </div>
       </div>
     </div>

@@ -40,7 +40,7 @@ function EarnOnSec() {
             Earn Daily With $BFX
             </h3>
             <p className="text-[14px] text-[#181A20] font-[400] leading-[161.598%] text-start">
-            $BFX is the first cryptocurrency to offer USDT staking rewards on every transaction made within a global multi-asset trading platform. Whenever someone trades on BlockchainFX, you earn. The more $BFX you hold, <br /> the more USDT you receive.
+            BFX is the first cryptocurrency that distributes daily USDT rewards based on revenue from trading fees within a global multi-asset trading platform. Every time someone trades on BlockchainFX, you earn. The more BFX you hold, the higher your rewards, up to a maximum of 25,000 USDT daily.
             </p>
             <a
               href="https://forms.gle/MqeUsLeJPwxt4gfC7"

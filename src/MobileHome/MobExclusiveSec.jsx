@@ -17,7 +17,7 @@ const cardItems = [
   {
     id: "02",
     img: excixn2,
-    title: "Receive Bonus<br/> $BFX Tokens",
+    title: "Receive Limited <br/> BFX Credit Card",
     description:
       "Get a metal or gold BFX Visa credit card with unlimited spending and top-ups, usable worldwide.",
   },
