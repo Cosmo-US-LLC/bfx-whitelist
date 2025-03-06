@@ -34,7 +34,7 @@ const cards = [
     price: "$2,500",
     reviews: [true, true, false, false, false],
     points: ["Early Access", "20% BFX Bonus", "Metal Credit Card", "$500 Trading Credits"],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const cards = [
     price: "$5,000",
     reviews: [true, true, true, false, false],
     points: ["Early Access", "30% BFX Bonus", "Metal Credit Card", "$1000 Trading Credits"],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 4,
@@ -55,7 +55,6 @@ const cards = [
     points: [
       "Early Access",
       "40% BFX Bonus",
-      "Daily USDT Rewards",
       "Metal Credit Card",
       "10% Daily USDT Rewards",
       "$2000 Trading Credits",
