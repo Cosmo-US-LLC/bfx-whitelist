@@ -1,8 +1,9 @@
 import React from "react";
 import fobicn from "../assets/herosection/forbes-ar21 1.svg";
-import herobnr2 from "../assets/herosection/bnrhero (4).svg";
-import herobnr4 from "../assets/herosection/bnrhero (2).svg";
-import herobnr5 from "../assets/herosection/bnrhero (1).webp";
+import herobnr2 from "../assets/herosection/bnrhero (8).svg";
+import herobnr3 from "../assets/herosection/bnrhero (6).svg";
+import herobnr4 from "../assets/herosection/bnrhero (7).svg";
+import herobnr5 from "../assets/herosection/bnrhero (2).svg";
 // import heroVideo from "../assets/herosection/heroVideo.webm";
 import stars from "../assets/herosection/stars.webp";
 
@@ -32,7 +33,7 @@ function MobileHero() {
             <h4 className="text-[16px]  leading-[100%] font-[400] text-center text-[#000] tracking-[-1px] capitalize">
               Blockchain Meets Global Financial Markets
             </h4>
-            <h2 className="pt-6 pb-8 text-[36px] font-[700] leading-[111.375%] tracking-[-1px] text-[#000] text-center">
+            <h2 className="pt-6 pb-8 text-[36px] font-[700] tracking-[-1px] text-[#000] text-center leading-normal">
               The First Crypto <br /> Trading Super App
             </h2>
             <p className="text-[15px] max-w-[865px] w-[100%] mx-auto font-[400] leading-[153.667%] text-center text-[#000] tracking-[-0.32px] ">
@@ -82,11 +83,11 @@ function MobileHero() {
 
           <div className="border rounded-[6px] py-[20px] !mt-[20px] px-[13px]">
             <h3 className="text-center text-[15px] font-[600]">Featured In:</h3>
-            <div className="flex justify-center items-center space-x-[9px]">
+            <div className="flex justify-center items-center space-x-[9px] mt-[5px]">
               {/* <img className="h-[12px]" src={herobnr1} alt="" /> */}
-              <img className="h-[14px] !mt-[2px]" src={herobnr2} alt="" />
-              <img className="" src={fobicn} alt="" />
-              <img className="h-[17px]" src={herobnr4} alt="" />
+              <img className="h-[12px] " src={herobnr2} alt="" />
+              <img className="h-[13px]" src={herobnr3} alt="" />
+              <img className="h-[12px]" src={herobnr4} alt="" />
               <img
                 className="max-w-[100.25px] h-[11.7px]"
                 src={herobnr5}
