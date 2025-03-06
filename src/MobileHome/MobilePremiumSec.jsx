@@ -25,8 +25,8 @@ const cardsmob = [
     title: "Novice",
     price: "$1,000",
     reviews: [true, false, false, false, false],
-    points: ["Early Access", "10% BFX Bonus"],
-    buttonLabel: "Buy $BFX",
+    points: ["Early Access", "10% BFX Bonus", "BFX Credit Card"],
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const cardsmob = [
     title: "Advanced",
     price: "$2,500",
     reviews: [true, true, false, false, false],
-    points: ["Early Access", "20% BFX Bonus", "$500 Trading Credits"],
+    points: ["Early Access", "20% BFX Bonus", "Metal Credit Card", "$500 Trading Credits"],
     buttonLabel: "Buy $BFX",
   },
   {
@@ -43,7 +43,7 @@ const cardsmob = [
     title: "Pro",
     price: "$5,000",
     reviews: [true, true, true, false, false],
-    points: ["Early Access", "30% BFX Bonus", "$1000 Trading Credits"],
+    points: ["Early Access", "30% BFX Bonus", "Metal Credit Card", "$1000 Trading Credits"],
     buttonLabel: "Buy $BFX",
   },
   {
@@ -57,9 +57,11 @@ const cardsmob = [
       "Early Access",
       "40% BFX Bonus",
       "Daily USDT Rewards",
-      "$2000 Bonus Trading Credits",
+      "Metal Credit Card",
+      "10% Daily USDT Rewards",
+      "$2000 Trading Credits",
     ],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 5,
@@ -71,10 +73,12 @@ const cardsmob = [
     points: [
       "Early Access",
       "50% BFX Bonus",
-      "Daily USDT Rewards",
-      "$5000 Bonus Trading Credits",
+      "Metal Credit Card",
+      "15% Daily USDT Rewards",
+      "$5000 Trading Credits",
+      "1% Credit Card Cashback",
     ],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 6,
@@ -86,26 +90,28 @@ const cardsmob = [
     points: [
       "Early Access",
       "60% BFX Bonus",
-      "Daily USDT Rewards",
-      "$10,000 Bonus Trading Credits",
+      "Metal Credit Card",
+      "20% Daily USDT Rewards",
+      "$10,000 Trading Credits",
+      "2% Credit Card Cashback"
     ],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
   {
     id: 7,
     img: cardimg7,
     title: "Legend",
     price: "$100,000+",
-
     reviews: [true, true, true, true, true, true, true],
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "Daily USDT Rewards",
-      "$25,000 Bonus Trading Credits",
-      "Personalised Portfolio Management",
+      "18 karat Credit Card",
+      "30% Daily USDT Rewards",
+      "$25,000 Trading Credits",
+      "5% Credit Card Cashback",
     ],
-    buttonLabel: "Buy $BFX",
+    buttonLabel: "Join Whitelist Now",
   },
 ];
 const Bundles = [
@@ -202,7 +208,7 @@ function MobilePremiumSec() {
                     style={{
                       background: "rgba(241, 241, 241, 0.36)",
                     }}
-                    className="p-[15px] rounded-[4px] max-w-[261px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[500px] max-h-[500px] h-[100%]"
+                    className="p-[15px] rounded-[4px] max-w-[261px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[520px] max-h-[520px] h-[100%]"
                   >
                     <div>
                       <img
@@ -260,7 +266,7 @@ function MobilePremiumSec() {
                         className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] w-[100%] h-[40px]"
                         onClick={handleScroll}
                       >
-                        Join Whitelist Now
+                        {card.buttonLabel}
                       </button>
                       </a>
                     </div>
