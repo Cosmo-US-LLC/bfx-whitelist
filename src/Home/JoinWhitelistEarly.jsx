@@ -51,7 +51,7 @@ function JoinWhitelistEarly() {
                 <strong>Claim:</strong> Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong> Date:</strong> Sunday, March 23 at 5 PM UTC
+                <strong> Date:</strong> Sunday, March 30 at 5 PM UTC
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
                 <strong>Goal:</strong> $250,000
