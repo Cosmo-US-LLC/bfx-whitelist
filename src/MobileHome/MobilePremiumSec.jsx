@@ -22,42 +22,42 @@ const cardsmob = [
   {
     id: 1,
     img: cardimg1,
-    title: "Novice",
+    title: "Novice NFT",
     price: "$1,000",
     reviews: [true, false, false, false, false],
-    points: ["Early Access", "10% BFX Bonus", "BFX Credit Card"],
+    points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 2,
     img: cardimg2,
-    title: "Advanced",
+    title: "Advanced NFT",
     price: "$2,500",
     reviews: [true, true, false, false, false],
-    points: ["Early Access", "20% BFX Bonus", "Metal Credit Card", "$500 Trading Credits"],
+    points: ["Early Access", "20% BFX Bonus", "Metal Visa Card", "$500 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 3,
     img: cardimg3,
-    title: "Pro",
+    title: "Pro NFT",
     price: "$5,000",
     reviews: [true, true, true, false, false],
-    points: ["Early Access", "30% BFX Bonus", "Metal Credit Card", "$1000 Trading Credits"],
+    points: ["Early Access", "30% BFX Bonus", "Metal Visa Card", "$1000 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 4,
     img: cardimg4,
-    title: "Expert",
+    title: "Expert NFT",
     price: "$10,000+",
 
     reviews: [true, true, true, true, false],
     points: [
       "Early Access",
       "40% BFX Bonus",
-      "Metal Credit Card",
-      "10% Daily USDT Rewards",
+      "Metal Visa Card",
+      "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
     buttonLabel: "Join Whitelist Now",
@@ -65,50 +65,47 @@ const cardsmob = [
   {
     id: 5,
     img: cardimg5,
-    title: "Master",
+    title: "Master NFT",
     price: "$25,000+",
 
     reviews: [true, true, true, true, true],
     points: [
       "Early Access",
       "50% BFX Bonus",
-      "Metal Credit Card",
-      "15% Daily USDT Rewards",
+      "Metal Visa Card",
+      "15% USDT Rewards",
       "$5000 Trading Credits",
-      "1% Credit Card Cashback",
     ],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 6,
     img: cardimg6,
-    title: "Elite",
+    title: "Elite NFT",
     price: "$50,000+",
 
     reviews: [true, true, true, true, true, true],
     points: [
       "Early Access",
       "60% BFX Bonus",
-      "Metal Credit Card",
-      "20% Daily USDT Rewards",
+      "Metal Visa Card",
+      "20% USDT Rewards",
       "$10,000 Trading Credits",
-      "2% Credit Card Cashback"
     ],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 7,
     img: cardimg7,
-    title: "Legend",
+    title: "Legend NFT",
     price: "$100,000+",
     reviews: [true, true, true, true, true, true, true],
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "18 karat Credit Card",
-      "30% Daily USDT Rewards",
+      "18 karat Visa Card",
+      "30% USDT Rewards",
       "$25,000 Trading Credits",
-      "5% Credit Card Cashback",
     ],
     buttonLabel: "Join Whitelist Now",
   },
@@ -207,7 +204,7 @@ function MobilePremiumSec() {
                     style={{
                       background: "rgba(241, 241, 241, 0.36)",
                     }}
-                    className="p-[15px] rounded-[4px] max-w-[261px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[520px] max-h-[520px] h-[100%]"
+                    className="p-[15px] rounded-[4px] max-w-[261px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[480px] max-h-[480px] h-[100%]"
                   >
                     <div>
                       <img

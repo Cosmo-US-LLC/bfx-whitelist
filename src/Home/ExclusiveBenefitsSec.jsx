@@ -17,7 +17,7 @@ const cardItems = [
   {
     id: "02",
     img: excixn2,
-    title: "Receive Limited <br/> BFX Credit Card",
+    title: "Receive Limited <br/> BFX Visa Card",
     description:
     "Get a metal or gold BFX Visa credit card with unlimited spending and top-ups, usable worldwide.",
   },
@@ -53,11 +53,11 @@ function ExclusiveBenefitsSec() {
                 key={item.id}
                 className="max-w-[255px] mx-auto px-[15px] flex flex-col justify-centetr pt-[10px] pb-[34px] min-h-[310px] max-h-[310px] bg-[#F9FAFB] rounded-[8px] border border-[#F9FAFB] space-y-[20px] "
               >
-                <div className="max-h-[116px] h-[100%] flex justify-center items-center">
+                <div className="max-h-[116px] h-[100%] p-[15px] flex justify-center items-center">
                   <img src={item.img} className="max-h-[116px] h-[100%] object-cover" alt="" />
                 </div>
                 <h3
-                  className="text-[16px] text-center text-[#000] font-[700] leading-[115%]"
+                  className="text-[16px] text-center !mt-[5px] text-[#000] font-[700] leading-[115%]"
                   dangerouslySetInnerHTML={{ __html: item.title }}
                 ></h3>
                 <h4 className="text-[14px]  text-center text-[#000] font-[400] leading-[111.111%]">

@@ -31,13 +31,7 @@ function Herosection() {
             <h2 className=" text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-start">
               The First Crypto Trading Super App
             </h2>
-            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">
-              BlockchainFX is the only crypto-native trading platform that
-              offers instant access to the world’s largest financial markets.
-              Users can trade crypto, forex, stocks, ETFs, futures, options,
-              bonds, indices, CFDs and more, all in one place. This ecosystem
-              enables $BFX token holders to earn up to 25,000 USDT daily,
-              receiving rewards every time someone trades on BlockchainFX.
+            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">BlockchainFX is the only crypto native trading platform that provides instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs, and more, all in one place. As a community driven ecosystem, BFX token holders earn USDT fees whenever someone trades on the app.
             </p>
           </div>
           <div className="flex justify-start pt-[20px] pb-[0px] items-center space-x-[17px]">

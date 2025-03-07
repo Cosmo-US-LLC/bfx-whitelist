@@ -33,11 +33,11 @@ function MobileHero() {
             <h4 className="text-[16px]  leading-[100%] font-[400] text-center text-[#000] tracking-[-1px] capitalize">
               Blockchain Meets Global Financial Markets
             </h4>
-            <h2 className="pt-6 pb-8 text-[36px] font-[700] tracking-[-1px] text-[#000] text-center leading-normal">
+            <h2 className="pt-6 pb-8 text-[36px] leading-[120%] font-[700] tracking-[-1px] text-[#000] text-center">
               The First Crypto <br /> Trading Super App
             </h2>
             <p className="text-[15px] max-w-[865px] w-[100%] mx-auto font-[400] leading-[153.667%] text-center text-[#000] tracking-[-0.32px] ">
-            BlockchainFX is the only crypto native trading platform that offers instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, and more, all in one place without having to switch brokers. <br /><br /> This ecosystem enables $BFX token holders to earn up to 25,000 USDT daily, receiving rewards every time someone trades on BlockchainFX.
+            BlockchainFX is the only crypto native trading platform that provides instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs, and more, all in one place. As a community driven ecosystem, BFX token holders earn USDT fees whenever someone trades on the app.
             </p>
           </div>
           <div className="flex justify-center items-center space-x-[17px]">
