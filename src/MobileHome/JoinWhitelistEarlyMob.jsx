@@ -7,7 +7,7 @@ function JoinWhitelistEarlyMob() {
     <div className="pb-[24px]" id="join-whitelist">
       <div className="  w-[100%] flex flex-col px-4 gap-6">
         <div className="  flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
-          <h2 className="w-[357px] text-[32px] font-[700] text-center tracking-[-0.56px] capitalize leading-normal">
+          <h2 className="w-[357px] text-[32px] font-[700] text-center tracking-[-0.56px] capitalize leading-[120%]">
             Join The Whitelist <br/> For Early Access
           </h2>
           <p className="w-[317px] text-center text-[15px] font-[400] leading-[18px]">
