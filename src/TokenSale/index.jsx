@@ -16,10 +16,7 @@ function TokenSale() {
          Token Sale Agreement
         </h3>
         <h5 className="text-[14px] 2xl:text-[16px] xl:text-[16px] lg:text-[16px] md:text-[16px] sm:text-[16px]  font-[400] !normal-case">
-          This Document Is Not A Solicitation For Investment And Does Not
-          Constitute An Offer Of Digital Currency, Commodity, Security, Or Any
-          Other Form Of Investment. It Does Not Require Registration Or Approval
-          From Any Regulatory Authority.
+        This document is not a solicitation for investment and does not constitute an offer of digital currency, commodity, security, or any other form of investment. It does not require registration or approval from any regulatory authority.
         </h5>
         <p className="text-[14px] 2xl:text-[16px] xl:text-[16px] lg:text-[16px] md:text-[16px] sm:text-[16px]  font-[400]">
           This Agreement governs the terms and conditions of the decentralized
