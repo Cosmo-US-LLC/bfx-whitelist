@@ -39,7 +39,7 @@ function CreditCardMob() {
       
         <div className="w-[100%]  min-h-[460px]  space-y-[20px]">
             <h3 className="text-[20.86px] text-center capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px]">
-            BFX Credit Card
+            BFX Visa Card
             </h3>
 
             <div className="w-[100%] p-[20px] border border-[#9D9D9D] bg-[#F3F3F3] rounded-[11px] items-center flex justify-center rounded-[8px]">
@@ -59,12 +59,12 @@ function CreditCardMob() {
 
             <ul className="list-disc p-[30px] border border-[#9D9D9D] bg-[#F3F3F3] rounded-[11px]">
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Unlimited spending / No limits </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Metal or 18 / 24 karat gold plated cards </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">10,000 USD monthly ATM withdrawal limit </li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Metal or 18 karat gold plated card</li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to 10,000 USD monthly ATM withdrawal </li>
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to 100,000 USD per single transaction  </li>
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Top up with BFX and more than 20+ crypto </li>
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">BFX and USDT daily rewards available to pay </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Accepted at 250 Million Merchant Worldwide </li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Accepted Worldwide, both online and offline</li>
               <li className="text-[14px]  ml-3 pt-[8px] font-[500] ">Cards are exclusively available during BFX presale </li>
             </ul>
           </div>
