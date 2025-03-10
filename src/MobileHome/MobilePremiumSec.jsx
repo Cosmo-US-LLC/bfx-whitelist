@@ -18,6 +18,7 @@ import cardimg5 from "../assets/PremiumSec/cardimg (5).webp";
 import cardimg6 from "../assets/PremiumSec/cardimg (6).webp";
 import cardimg7 from "../assets/PremiumSec/cardimg (7).webp";
 
+
 const cardsmob = [
   {
     id: 1,
@@ -25,7 +26,7 @@ const cardsmob = [
     title: "Novice",
     price: "$1,000",
     reviews: [true, false, false, false, false],
-    points: ["Early Access", "10% BFX Bonus", "Metal BFX Visa Card"],
+    points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
     buttonLabel: "Join Whitelist Now",
   },
   {
@@ -103,13 +104,14 @@ const cardsmob = [
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "18 Karat Visa Card",
+      "18 Karat BFX Visa Card",
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
     buttonLabel: "Join Whitelist Now",
   },
 ];
+
 const Bundles = [
   {
     id: 1,

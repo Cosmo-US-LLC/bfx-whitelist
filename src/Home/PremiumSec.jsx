@@ -24,7 +24,7 @@ const cards = [
     title: "Novice",
     price: "$1,000",
     reviews: [true, false, false, false, false],
-    points: ["Early Access", "10% BFX Bonus", "Metal BFX Visa Card"],
+    points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
     buttonLabel: "Join Whitelist Now",
   },
   {
@@ -102,7 +102,7 @@ const cards = [
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "18 Karat Visa Card",
+      "18 Karat BFX Visa Card",
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
