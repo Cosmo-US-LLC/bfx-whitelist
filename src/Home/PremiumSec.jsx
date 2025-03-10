@@ -21,7 +21,7 @@ const cards = [
   {
     id: 1,
     img: cardimg1,
-    title: "Novice NFT",
+    title: "Novice",
     price: "$1,000",
     reviews: [true, false, false, false, false],
     points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
@@ -30,32 +30,32 @@ const cards = [
   {
     id: 2,
     img: cardimg2,
-    title: "Advanced NFT",
+    title: "Advanced",
     price: "$2,500",
     reviews: [true, true, false, false, false],
-    points: ["Early Access", "20% BFX Bonus", "Metal Visa Card", "$500 Trading Credits"],
+    points: ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 3,
     img: cardimg3,
-    title: "Pro NFT",
+    title: "Pro",
     price: "$5,000",
     reviews: [true, true, true, false, false],
-    points: ["Early Access", "30% BFX Bonus", "Metal Visa Card", "$1000 Trading Credits"],
+    points: ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 4,
     img: cardimg4,
-    title: "Expert NFT",
+    title: "Expert",
     price: "$10,000+",
 
     reviews: [true, true, true, true, false],
     points: [
       "Early Access",
       "40% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
@@ -64,14 +64,14 @@ const cards = [
   {
     id: 5,
     img: cardimg5,
-    title: "Master NFT",
+    title: "Master",
     price: "$25,000+",
 
     reviews: [true, true, true, true, true],
     points: [
       "Early Access",
       "50% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "15% USDT Rewards",
       "$5000 Trading Credits",
     ],
@@ -80,14 +80,14 @@ const cards = [
   {
     id: 6,
     img: cardimg6,
-    title: "Elite NFT",
+    title: "Elite",
     price: "$50,000+",
 
     reviews: [true, true, true, true, true, true],
     points: [
       "Early Access",
       "60% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "20% USDT Rewards",
       "$10,000 Trading Credits",
     ],
@@ -96,13 +96,13 @@ const cards = [
   {
     id: 7,
     img: cardimg7,
-    title: "Legend NFT",
+    title: "Legend",
     price: "$100,000+",
     reviews: [true, true, true, true, true, true, true],
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "18 karat Visa Card",
+      "18 Karat BFX Visa Card",
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
@@ -181,7 +181,6 @@ function PremiumSec() {
             Buy $BFX during the pre-sale and get Founder's Club NFTs starting at
             only $1,000!  Enjoy early access, exclusive memberships, bonus $BFX,
             daily staking rewards in BFX and USDT, plus extra trading credits.
-            Available only during the pre-sale!
           </p>
         </div>
         <div className="max-w-[1012px] w-[100%] mx-auto ">
@@ -223,13 +222,15 @@ function PremiumSec() {
                       <img
                         src={card.img}
                         className="rounded-[8px] max-h-[190px]"
-                        alt={card.title}
+                        alt={card.title} 
                       />
 
                       <div className="flex justify-between py-[14px]">
                         <div>
                           <h3 className="text-[#000] flex flex-col justify-end text-[16.966px] font-[600] leading-[115%]">
-                            {card.title} <br />
+                             <span>
+                             {card.title} <span className="text-start text-[12px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
+                              </span> <br />
                             <span className="text-[#7C7C7C] text-start text-[15.27px] font-[600]">
                               {card.price}
                             </span>

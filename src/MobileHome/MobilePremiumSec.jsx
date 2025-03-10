@@ -18,11 +18,12 @@ import cardimg5 from "../assets/PremiumSec/cardimg (5).webp";
 import cardimg6 from "../assets/PremiumSec/cardimg (6).webp";
 import cardimg7 from "../assets/PremiumSec/cardimg (7).webp";
 
+
 const cardsmob = [
   {
     id: 1,
     img: cardimg1,
-    title: "Novice NFT",
+    title: "Novice",
     price: "$1,000",
     reviews: [true, false, false, false, false],
     points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
@@ -31,32 +32,32 @@ const cardsmob = [
   {
     id: 2,
     img: cardimg2,
-    title: "Advanced NFT",
+    title: "Advanced",
     price: "$2,500",
     reviews: [true, true, false, false, false],
-    points: ["Early Access", "20% BFX Bonus", "Metal Visa Card", "$500 Trading Credits"],
+    points: ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 3,
     img: cardimg3,
-    title: "Pro NFT",
+    title: "Pro",
     price: "$5,000",
     reviews: [true, true, true, false, false],
-    points: ["Early Access", "30% BFX Bonus", "Metal Visa Card", "$1000 Trading Credits"],
+    points: ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
     buttonLabel: "Join Whitelist Now",
   },
   {
     id: 4,
     img: cardimg4,
-    title: "Expert NFT",
+    title: "Expert",
     price: "$10,000+",
 
     reviews: [true, true, true, true, false],
     points: [
       "Early Access",
       "40% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
@@ -65,14 +66,14 @@ const cardsmob = [
   {
     id: 5,
     img: cardimg5,
-    title: "Master NFT",
+    title: "Master",
     price: "$25,000+",
 
     reviews: [true, true, true, true, true],
     points: [
       "Early Access",
       "50% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "15% USDT Rewards",
       "$5000 Trading Credits",
     ],
@@ -81,14 +82,14 @@ const cardsmob = [
   {
     id: 6,
     img: cardimg6,
-    title: "Elite NFT",
+    title: "Elite",
     price: "$50,000+",
 
     reviews: [true, true, true, true, true, true],
     points: [
       "Early Access",
       "60% BFX Bonus",
-      "Metal Visa Card",
+      "Metal BFX Visa Card",
       "20% USDT Rewards",
       "$10,000 Trading Credits",
     ],
@@ -97,19 +98,20 @@ const cardsmob = [
   {
     id: 7,
     img: cardimg7,
-    title: "Legend NFT",
+    title: "Legend",
     price: "$100,000+",
     reviews: [true, true, true, true, true, true, true],
     points: [
       "Early Access",
       "80% BFX Bonus",
-      "18 karat Visa Card",
+      "18 Karat BFX Visa Card",
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
     buttonLabel: "Join Whitelist Now",
   },
 ];
+
 const Bundles = [
   {
     id: 1,
@@ -171,7 +173,7 @@ function MobilePremiumSec() {
             Limited Founder's <br /> Club Membership
           </h3>
           <p className="text-[15px] leading-[153.333%] max-w-[750px] mx-auto text-[#000] text-center font-[400] tracking-[-0.32px]">
-          Buy $BFX during the pre-sale and get Founder's Club NFTs starting at only $1,000! Enjoy early access, exclusive memberships, bonus $BFX, daily staking rewards in BFX and USDT, plus extra trading credits. Available only during the pre-sale!
+          Buy $BFX during the pre-sale and get Founder's Club NFTs starting at only $1,000! Enjoy early access, exclusive memberships, bonus $BFX, daily staking rewards in BFX and USDT, plus extra trading credits.
 
           </p>
         </div>
@@ -204,7 +206,7 @@ function MobilePremiumSec() {
                     style={{
                       background: "rgba(241, 241, 241, 0.36)",
                     }}
-                    className="p-[15px] rounded-[4px] max-w-[261px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[480px] max-h-[480px] h-[100%]"
+                    className="p-[15px] rounded-[4px] max-w-[271px] mx-auto flex flex-col justify-between border border-[#9D9D9D] !min-h-[480px] max-h-[480px] h-[100%]"
                   >
                     <div>
                       <img
@@ -216,7 +218,9 @@ function MobilePremiumSec() {
                       <div className="flex justify-between pt-[15px] pb-[10px]">
                         <div>
                           <h3 className="text-[#000] flex flex-col justify-end text-[16px] font-[600] leading-[115%]">
-                            {card.title} <br />
+                            <span>
+                             {card.title} <span className="text-start text-[10px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
+                              </span>
                             <span className="text-[#7C7C7C] text-start text-[15px] font-[600]">
                               {card.price}
                             </span>

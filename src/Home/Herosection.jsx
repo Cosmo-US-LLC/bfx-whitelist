@@ -1,7 +1,7 @@
 import React from "react";
 import stars from "../assets/herosection/stars.webp";
-// import heroVideo from "../assets/herosection/heroVideo.mp4";
-import heroVideo from "../assets/herosection/heroVideo.webm";
+import herogif from "../assets/herosection/hero.gif";
+// import heroVideo from "../assets/herosection/heroVideo.webm";
 
 function Herosection() {
   const handleScroll = () => {
@@ -21,7 +21,7 @@ function Herosection() {
 
   return (
     <div className="pt-[50px] pb-[20px] bg-[#FFF]">
-      <div className="max-w-[1200px]  w-[100%] mx-auto ">
+      <div className="max-w-[1024px]  w-[100%] mx-auto ">
         <div className="flex justify-between items-center">
          <div className="max-w-[505px] w-[100%]">
          <div className="space-y-[10px]">
@@ -29,7 +29,7 @@ function Herosection() {
               Blockchain Meets Global Financial Markets
             </h4>
             <h2 className=" text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-start">
-              The First Crypto Trading Super App
+              The First Crypto <br /> Trading Super App
             </h2>
             <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">BlockchainFX is the only crypto native trading platform that provides instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs, and more, all in one place. As a community driven ecosystem, BFX token holders earn USDT fees whenever someone trades on the app.
             </p>
@@ -67,8 +67,8 @@ function Herosection() {
           </div>
          </div>
           <div className="flex justify-end max-w-[619px]">
-            {/* <img src={herogif} className="max-h-[550px]" alt="" /> */}
-            <video
+            <img src={herogif} className="max-h-[450px]" alt="" />
+            {/* <video
               width={600}
               height={450}
               className="max-h-[450px]"
@@ -79,7 +79,7 @@ function Herosection() {
               loop
             >
               <source src={heroVideo} type="video/webm" />
-            </video>
+            </video> */}
           </div>
         </div>
       </div>
