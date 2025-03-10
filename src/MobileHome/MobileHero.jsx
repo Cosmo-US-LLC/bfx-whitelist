@@ -6,8 +6,10 @@ import herobnr4 from "../assets/herosection/bnrhero (7).svg";
 import herobnr5 from "../assets/herosection/bnrhero (2).svg";
 // import heroVideo from "../assets/herosection/heroVideo.webm";
 import stars from "../assets/herosection/stars.webp";
+import herogif from "../assets/herosection/hero.gif";
 
-import heroVideo from "../assets/herosection/heroVideo.webm";
+
+// import heroVideo from "../assets/herosection/heroVideo.webm";
 
 function MobileHero() {
 
@@ -66,8 +68,8 @@ function MobileHero() {
             <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
           </div>
           <div className="flex justify-center pb-[15px]">
-            {/* <img src={heroimg} className="bg-[#c1c1c129]" alt="" /> */}
-            <video
+            <img src={herogif} className="max-h-[550px]" alt="" />
+            {/* <video
               width={500}
               height={410}
               className="max-h-[550px]"
@@ -78,7 +80,7 @@ function MobileHero() {
               loop
             >
               <source src={heroVideo} type="video/webm" />
-            </video>
+            </video> */}
           </div>
 
           <div className="border rounded-[6px] py-[20px] !mt-[20px] px-[13px]">

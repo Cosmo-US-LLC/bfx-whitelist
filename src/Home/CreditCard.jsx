@@ -38,14 +38,15 @@ function CreditCard() {
             BFX Visa Card
             </h3>
             <ul className="list-disc">
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited spending / No limits </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Metal or 18 karat gold plated card </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to 10,000 USD monthly ATM withdrawal </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to 100,000 USD per single transaction  </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Top up with BFX and more than 20+ crypto </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">BFX and USDT daily rewards available to pay </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted Worldwide, both online and offline </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Cards are exclusively available during BFX presale </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Spending </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Metal or 18 Karat Gold Card </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $100,000 per Transaction</li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $10,000 Monthly ATM Withdrawals </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Use BFX and USDT Rewards for Payments</li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted Worldwide – Online and In-Store </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Top Ups with BFX and 20+ Crypto</li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Exclusively Available Only During the BFX Presale
+              </li>
             </ul>
           </div>
         </div>
