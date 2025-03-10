@@ -21,7 +21,7 @@ function Herosection() {
 
   return (
     <div className="pt-[50px] pb-[20px] bg-[#FFF]">
-      <div className="max-w-[1200px]  w-[100%] mx-auto ">
+      <div className="max-w-[1024px]  w-[100%] mx-auto ">
         <div className="flex justify-between items-center">
          <div className="max-w-[505px] w-[100%]">
          <div className="space-y-[10px]">

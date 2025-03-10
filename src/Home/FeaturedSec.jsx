@@ -8,9 +8,9 @@ import herobnr5 from "../assets/herosection/bnrhero (2).svg";
 function FeaturedSec() {
   return (
     <div className="h-[113px] flex items-center">
-      <div className="max-w-[940px]  w-[100%] mx-auto ">
+      <div className="max-w-[1024px]  w-[100%] mx-auto ">
         <div className="">
-          <div className="flex justify-center items-center h-[73.47] space-x-[25px] border rounded-[20px] py-[22px]">
+          <div className="flex justify-center items-center h-[73.47] space-x-[30px] border rounded-[20px] py-[22px]">
             <img src={herobnr1}  alt="" />
             <img src={herobnr2} className="h-[22.21px]" alt="" />
             <img src={herobnr3} className="h-[24.39px]" alt="" />
