@@ -37,7 +37,7 @@ function EarnOnSec() {
           </div>
           <div className="max-w-[410px] w-[50%] !mr-auto space-y-[20px]">
             <h3 className="text-[30px] capitalize font-[700] leading-[128%] text-[#181A20] tracking-[-1px] text-start">
-            Earn Daily With $BFX
+            Earn Daily With BFX
             </h3>
             <p className="text-[14px] text-[#181A20] font-[400] leading-[161.598%] text-start">
             BFX is the first cryptocurrency that distributes daily USDT rewards based on trading fee revenue. Every time someone trades on BlockchainFX, you earn. The more BFX you hold, the higher your rewards, up to a maximum of 25,000 USDT per day.
