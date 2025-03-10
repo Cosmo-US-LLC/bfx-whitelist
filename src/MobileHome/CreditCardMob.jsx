@@ -47,7 +47,6 @@ function CreditCardMob() {
             width="300"
             height="260"
             className="!rounded-[8px]"
-            controls
             autoPlay
             playsInline 
             muted
