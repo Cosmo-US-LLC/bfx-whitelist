@@ -38,14 +38,14 @@ function CreditCard() {
             BFX Visa Card
             </h3>
             <ul className="list-disc">
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Spending </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Spending</li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Metal or 18 Karat Gold Card </li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $100,000 per Transaction</li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $10,000 Monthly ATM Withdrawals </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $10,000 in Monthly ATM Withdrawals </li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Use BFX and USDT Rewards for Payments</li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted Worldwide – Online and In-Store </li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Top Ups with BFX and 20+ Crypto</li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Exclusively Available Only During the BFX Presale
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted Worldwide (Online & In-Stores) </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Top Up with BFX and 20+ Crypto</li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">BFX Visa Card Only Available in Presale
               </li>
             </ul>
           </div>
