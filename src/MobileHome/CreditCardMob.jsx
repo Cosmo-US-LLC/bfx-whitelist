@@ -54,7 +54,8 @@ function CreditCardMob() {
           >
             <source src={creditVideo} type="video/mp4" />
           </video>
-          <div className="flex justify-center space-x-3">
+          <div className="flex justify-center space-x-3 items-center">
+          <h4 className="text-[14px]  font-[400] leading-[100%]">Compatible with</h4>
           <button className="w-[70.2px] h-[30px] hover:opacity-[0.7] flex justify-center items-center rounded-[4.8px] border border-[#000]"><img src={applepay} alt="" /></button>
           <button className="w-[70.2px] h-[30px] hover:opacity-[0.7] flex justify-center items-center rounded-[4.8px] border border-[#000]"><img src={googlelepay} alt="" /></button>
           </div>
@@ -63,12 +64,12 @@ function CreditCardMob() {
             <ul className="list-disc p-[30px] border border-[#9D9D9D] bg-[#F3F3F3] rounded-[11px]">
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Unlimited Spending </li>
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Metal or 18 Karat Gold Card</li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to $100,000 per Transaction </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to $10,000 Monthly ATM Withdrawals </li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to $100,000 per Transaction</li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Up to $10,000 in Monthly ATM Withdrawals </li>
               <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Use BFX and USDT Rewards for Payments </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Accepted Worldwide – Online and In-Store </li>
-              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Unlimited Top Ups with BFX and 20+ Crypto</li>
-              <li className="text-[14px]  ml-3 pt-[8px] font-[500] ">Exclusively Available Only During the BFX Presale</li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Accepted Worldwide (Online & In-Stores) </li>
+              <li className="text-[14px] border-b ml-3 py-[8px] font-[500] ">Top Up with BFX and 20+ Crypto</li>
+              <li className="text-[14px]  ml-3 pt-[8px] font-[500] ">BFX Visa Card Only Available in Presale</li>
             </ul>
           </div>
           <div>
