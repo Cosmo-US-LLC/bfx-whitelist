@@ -34,7 +34,7 @@ function TraderReviewsSec() {
                   4.79 out of 5
                 </h4>
                 <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">
-                  Web3 Trader Reviews
+                1000+ Web3 Trader Reviews
                 </p>
               </div>
               <div className=" w-[100%] space-y-[28px]">
