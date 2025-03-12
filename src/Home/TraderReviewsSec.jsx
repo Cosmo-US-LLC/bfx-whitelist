@@ -10,7 +10,7 @@ import usern from "../assets/TraderReviewsSec/user.png";
 import user2 from "../assets/TraderReviewsSec/Image2.png";
 import user3 from "../assets/TraderReviewsSec/image3.png";
 import user4 from "../assets/TraderReviewsSec/image4.png";
-import tick from "../assets/TraderReviewsSec/teenyicons_tick-circle-solid.svg";
+import tick from "../assets/TraderReviewsSec/Vector.svg";
 import swpbtnl from "../assets/TraderReviewsSec/arwr.svg";
 import swpbtnr from "../assets/TraderReviewsSec/arw.svg";
 
@@ -34,7 +34,7 @@ function TraderReviewsSec() {
                   4.79 out of 5
                 </h4>
                 <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">
-                  1000+ trader ratings
+                  Web3 Trader Reviews
                 </p>
               </div>
               <div className=" w-[100%] space-y-[28px]">
@@ -80,10 +80,10 @@ function TraderReviewsSec() {
               <div className="relative h-[20px] rounded-[60px] ">
                 <img
                   src={tradimg}
-                  className="h-[375px] absolute w-[320px] top-[-200%]  !z-[99] "
+                  className="h-[415px] absolute w-[330px] top-[-200%]  !z-[1] "
                   alt=""
                 />
-                <div className="w-[293px] bg-[#181A20] h-[362px] z-[1] top-[-135%] rounded-t-[40px] left-3 absolute"></div>
+                <div className="w-[305px] bg-[#181A20] h-[402px] z-[1] top-[-135%] rounded-t-[40px] left-3 absolute"></div>
               </div>
               <div className="relative pt-[2rem]">
                 <div className="max-w-[100px] w-[100%] flex space-x-2 ml-auto">
@@ -116,26 +116,27 @@ function TraderReviewsSec() {
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9]  min-h-[281px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
-                      Finally, a platform that gets it right! I traded CFDs, bought APPLE stocks, sold them for GBY, and grabbed some $PEPE, all within 30 minutes. Highly recommend it for both beginners and pros!
+                      Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.
                       </p>
                       <div className="flex items-center space-x-2">
                         <img src={usern} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                            PrimeNic.eth
+                            Lacoste.btc
                             </h3>
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                          @primenic_eth
+                          3.1K Followers
                           </h4>
                         </div>
                       </div>
+                          <a href="https://x.com/LacosteBtc/status/1899365804845548013" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] min-h-[281px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] min-h-[305px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                         BlockchainFX has completely leveled up my trading game.
                         It's super intuitive, lets you access multiple markets
@@ -159,7 +160,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[281px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                         That’s exactly what we needed. A trading broker designed
                         to bridge crypto with Forex, ETFs, and stocks, giving
@@ -182,7 +183,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[281px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                         Trading on 9 different windows and having access to
                         dozens trading analytic tools and risk management is
@@ -206,7 +207,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[281px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                         BlockchainFX gives you endless trading opportunities.
                         This just makes sense since markets are interconnected.
