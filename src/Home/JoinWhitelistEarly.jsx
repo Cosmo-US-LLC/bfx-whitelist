@@ -8,7 +8,7 @@ function JoinWhitelistEarly() {
       <div className="max-w-[1200px] w-[100%] mx-auto flex justify-center gap-10">
         <div className="w-[60%] flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="text-[32px] font-[700] text-center tracking-[-1px] capitalize leading-normal">
-          Join the Whitelist for Early Access <br /> to the BFX Presale
+          Join the Whitelist <br /> for Early Access to the BFX Presale
           </h2>
           <p className="w-[549px] text-center text-[16px] font-[400] leading-[22px]">
             After selling out $750,000 in the seed round in just 29 seconds,
