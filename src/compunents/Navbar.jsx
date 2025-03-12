@@ -94,9 +94,9 @@ function Navbar() {
   };
 
   return (
-   <div className="2xl:!mb-[85px]  xl:!mb-[85px] lg:!mb-[85px] md:!mb-[85px] sm:!mb-[115px] !mb-[115px]  relative">
+   <div className="2xl:!mb-[85px]  xl:!mb-[85px] lg:!mb-[85px] md:!mb-[85px] sm:!mb-[80px] !mb-[80px]  relative">
     <Timerbanner />
-     <div className="fixed w-[100%] bg-[#F2F2F2] z-[999] 2xl:top-9 xl:top-9 lg:top-9 md:top-9 sm:top-12 top-12">
+     <div className="fixed w-[100%] bg-[#F2F2F2] z-[999] 2xl:top-9 xl:top-9 lg:top-9 md:top-9 sm:top-0 top-0">
       <div className="2xl:h-[63px] xl:h-[63px] lg:h-[63px] md:h-[63px] sm:h-[64px] h-[64px] max-w-[1200px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center justify-between ">
         <div className="flex items-center space-x-3 2xl:block xl:block lg:block md:block sm:flex 2xl:space-x-0 xl:space-x-0 lg:space-x-0 md:space-x-0 sm:space-x-3">
           <div className="block 2xl:hidden xl:hidden lg:hidden md:hidden sm:block">
