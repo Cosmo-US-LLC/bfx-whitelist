@@ -38,35 +38,35 @@ function TraderReviewsSec() {
                 </p>
               </div>
               <div className=" w-[100%] space-y-[28px]">
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                   <span className="text-[19.3px] font-[400] w-[30px]">5</span>
                   <div className="h-[14px] w-[205px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                     <div className="bg-[#E5AE00] h-[14px] rounded-[16.955px] w-[86%]"></div>
                   </div>
                   <span className="text-[19.3px] font-[400] w-[50px]">86%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                   <span className="text-[19.3px] font-[400] w-[30px]">4</span>
                   <div className="h-[14px] w-[205px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                     <div className="bg-[#E5AE00] h-[14px] rounded-[16.955px] w-[12%]"></div>
                   </div>
                   <span className="text-[19.3px] font-[400] w-[50px]">8%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                   <span className="text-[19.3px] font-[400] w-[30px]">3</span>
                   <div className="h-[14px] w-[205px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                     <div className="bg-[#E5AE00] h-[14px] rounded-[16.955px] w-[9%]"></div>
                   </div>
                   <span className="text-[19.3px] font-[400] w-[50px]">3%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                   <span className="text-[19.3px] font-[400] w-[30px]">2</span>
                   <div className="h-[14px] w-[205px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                     <div className="bg-[#E5AE00] h-[14px] rounded-[16.955px] w-[8%]"></div>
                   </div>
                   <span className="text-[19.3px] font-[400] w-[50px]">2%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                   <span className="text-[19.3px] font-[400] w-[30px]">1</span>
                   <div className="h-[14px] w-[205px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                     <div className="bg-[#E5AE00] h-[14px] rounded-[100%] w-[6%]"></div>
@@ -128,7 +128,7 @@ function TraderReviewsSec() {
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                          3.1K Followers
+                          35.2K Followers
                           </h4>
                         </div>
                       </div>
