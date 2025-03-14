@@ -11,9 +11,7 @@ function JoinWhitelistEarly() {
           Join the Whitelist <br /> for Early Access to the BFX Presale
           </h2>
           <p className="w-[549px] text-center text-[16px] font-[400] leading-[22px]">
-            After selling out $750,000 in the seed round in just 29 seconds,
-            backed by angel and institutional supporters, the community now has
-            its first chance to join the BFX presale.
+          After raising $750,000 in the seed round and launching the Beta Trading App, the community now has a chance to join the BFX presale.
           </p>
           <img
             src={joinWhitelistImages}

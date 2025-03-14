@@ -35,35 +35,35 @@ function MobTraderReviewsSec() {
                 <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">1000+ Web3 Trader Reviews</p>
             </div>
             <div className=" w-[100%] space-y-[24px]">
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                     <span className="text-[15px] font-[400] w-[20px]">5</span>
                     <div className="h-[17px] w-[360px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                         <div className="bg-[#E5AE00] h-[17px] rounded-[16.955px] w-[86%]"></div>
                     </div>
                     <span className="text-[15px] font-[400] w-[50px]">86%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                     <span className="text-[15px] font-[400] w-[20px]">4</span>
                     <div className="h-[17px] w-[360px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                         <div className="bg-[#E5AE00] h-[17px] rounded-[16.955px] w-[12%]"></div>
                     </div>
                     <span className="text-[15px] font-[400] w-[50px]">8%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                     <span className="text-[15px] font-[400] w-[20px]">3</span>
                     <div className="h-[17px] w-[360px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                         <div className="bg-[#E5AE00] h-[17px] rounded-[16.955px] w-[7%]"></div>
                     </div>
                     <span className="text-[15px] font-[400] w-[50px]">3%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                     <span className="text-[15px] font-[400] w-[20px]">2</span>
                     <div className="h-[17px] w-[360px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                         <div className="bg-[#E5AE00] h-[17px] rounded-[16.955px] w-[6%]"></div>
                     </div>
                     <span className="text-[15px] font-[400] w-[50px]">2%</span>
                 </div>
-                <div className="flex justify-between space-x-4 items-center">
+                <div className="flex items-center justify-between space-x-4">
                     <span className="text-[15px] font-[400] w-[20px]">1</span>
                     <div className="h-[17px] w-[360px] w-[100%] bg-[#D9D9D9] rounded-[16.955px]">
                         <div className="bg-[#E5AE00] h-[17px] rounded-[16.955px] w-[5%]"></div>
@@ -106,7 +106,7 @@ function MobTraderReviewsSec() {
                             <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">Lacoste.btc</h3>
                             <img src={tick} alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">3.1K Followers</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">35.2K Followers</h4>
                         </div>
                     </div>
                     <a href="https://x.com/LacosteBtc/status/1899365804845548013" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>

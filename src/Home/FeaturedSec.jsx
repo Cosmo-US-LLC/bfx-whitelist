@@ -12,8 +12,8 @@ function FeaturedSec() {
         <div className="">
           <div className="flex justify-center items-center h-[73.47] space-x-[50px] border rounded-[20px] py-[22px]">
             <img src={herobnr1}  alt="" />
-            <img src={herobnr2} className="h-[22.21px]" alt="" />
             <img src={herobnr3} className="h-[24.39px]" alt="" />
+            <img src={herobnr2} className="h-[22.21px]" alt="" />        
             <img src={herobnr4} className="h-[20.86px]" alt="" />
             <img src={herobnr5} className="max-w-[225px] h-[24.56px]" alt="" />
           </div>

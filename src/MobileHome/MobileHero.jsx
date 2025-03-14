@@ -87,8 +87,9 @@ function MobileHero() {
             <h3 className="text-center text-[15px] font-[600]">Featured In:</h3>
             <div className="flex justify-center items-center space-x-[9px] mt-[5px]">
               {/* <img className="h-[12px]" src={herobnr1} alt="" /> */}
-              <img className="h-[12px] " src={herobnr2} alt="" />
               <img className="h-[13px]" src={herobnr3} alt="" />
+              <img className="h-[12px] " src={herobnr2} alt="" />
+              
               <img className="h-[12px]" src={herobnr4} alt="" />
               <img
                 className="max-w-[100.25px] h-[11.7px]"
