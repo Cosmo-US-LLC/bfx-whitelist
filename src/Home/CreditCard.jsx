@@ -41,7 +41,7 @@ function CreditCard() {
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Unlimited Spending</li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Metal or 18 Karat Gold Card </li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $100,000 per Transaction</li>
-              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $10,000 in Monthly ATM Withdrawals </li>
+              <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Up to $10K Monthly ATM Withdrawals </li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Use BFX and USDT Rewards for Payments</li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Accepted Worldwide (Online & In-Stores) </li>
               <li className="text-[16px] border-b ml-6 py-[8px] font-[500] ">Top Up with BFX and 20+ Crypto</li>
