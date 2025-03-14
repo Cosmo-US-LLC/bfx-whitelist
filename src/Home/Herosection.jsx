@@ -21,8 +21,8 @@ function Herosection() {
 
   return (
     <div className="pt-[50px] pb-[20px] bg-[#FFF]">
-      <div className="max-w-[1024px]  w-[100%] mx-auto ">
-        <div className="flex justify-between items-center">
+      <div className="max-w-[1200px]  w-[100%] mx-auto ">
+        <div className="flex justify-start space-x-2 items-center">
          <div className="max-w-[505px] w-[100%]">
          <div className="space-y-[10px]">
             <h4 className="text-[18px]  leading-[144.444%] font-[400] text-start text-[#000] tracking-[-1px] capitalize">
