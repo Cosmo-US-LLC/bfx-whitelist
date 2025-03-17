@@ -68,9 +68,9 @@ function MobileHome() {
         <MobTokenDetailsSec />
         <MobSecurityBuiltSec />
         <MobRoadmapSec />
-        {/* <MobOurAwardSec /> */}
+        <MobOurAwardSec />
         {/* <MobExpertsworkingSec /> */}
-        {/* <MobPressMediaSec /> */}
+        <MobPressMediaSec />
         <MobTraderReviewsSec />
         <MobFaqSec />
         <MobTheUltimateSec />
