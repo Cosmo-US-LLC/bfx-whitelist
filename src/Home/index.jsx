@@ -69,9 +69,9 @@ function Home() {
         <TokenDetailsSec />
         <SecurityBuiltSec />
         <RoadmapSec />
-        {/* <OurAwardSec /> */}
+        <OurAwardSec />
         {/* <ExpertsworkingSec /> */}
-        {/* <PressMediaSec /> */}
+        <PressMediaSec />
         <TraderReviewsSec />
         <FaqSec />
         <TheUltimateSec />
