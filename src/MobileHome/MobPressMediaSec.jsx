@@ -36,7 +36,7 @@ function MobPressMediaSec() {
             className="mySwiper"
           >
                 <SwiperSlide>
-              <div className="bg-[#FBFBFB] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%] border border-[#9D9D9D]">
+              <div className="bg-[#FBFBFB] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
                 <img src={medai1} className="h-[30px]" alt="" />
@@ -48,7 +48,7 @@ function MobPressMediaSec() {
           </div>
               </SwiperSlide>
              <SwiperSlide>
-                <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%] border border-[#9D9D9D]">
+                <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
                 <img src={medai2} className="h-[23px] object-cover" alt="" />
@@ -60,7 +60,7 @@ function MobPressMediaSec() {
           </div>
               </SwiperSlide>
               <SwiperSlide>
-              <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%] border border-[#9D9D9D]">
+              <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
                 <img src={medai3} className="h-[30px]" alt="" />
