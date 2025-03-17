@@ -14,10 +14,10 @@ function PressMediaSec() {
           </h3>
         </div>
         <div className="flex gap-x-4 justify-center">
-          <div className="bg-[#FAFAFA] max-w-[311px] rounded-[8px]  px-[17.6px] py-[37px] w-[100%] ">
+          <div className="bg-[#fff] max-w-[311px] rounded-[8px]  px-[17.6px] py-[37px] w-[100%] ">
             <div className="space-y-[25px]">
               <div className="flex items-center justify-center h-[30px]">
-                <img src={medai1} className="h-[35px]" alt="" />
+                <img src={medai1} className="h-[30px]" alt="" />
               </div>
               <p className="text-[13px] text-center leading-[187.5%] font-[400]">
               BlockchainFX is quickly becoming the go-to trading platform in 2025
@@ -27,14 +27,14 @@ function PressMediaSec() {
           <div className="bg-[#FAFAFA] max-w-[311px] rounded-[8px]  px-[17px] py-[37px] w-[100%] ">
             <div className="space-y-[25px]">
               <div className="flex items-center justify-center h-[30px]">
-                <img src={medai2} className="h-[25px]" alt="" />
+                <img src={medai2} className="h-[30px]" alt="" />
               </div>
               <p className="text-[13px] text-center leading-[187.5%] font-[400]">
               BlockchainFX revolutionises the financial trading landscape
               </p>
             </div>
           </div>
-          <div className="bg-[#FAFAFA] max-w-[311px] rounded-[8px]  px-[17.6px] pt-[39px] pb-[29px] w-[100%] ">
+          <div className="bg-[#fff] max-w-[311px] rounded-[8px]  px-[17.6px] pt-[37px] pb-[29px] w-[100%] ">
             <div className="space-y-[25px]">
               <div className="flex items-center justify-center h-[30px]">
                 <img src={medai3} className="h-[30px]" alt="" />
