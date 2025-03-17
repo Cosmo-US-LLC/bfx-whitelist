@@ -24,7 +24,7 @@ function PressMediaSec() {
               </p>
             </div>
           </div>
-          <div className="bg-[#FAFAFA] max-w-[311px] rounded-[8px]  px-[17px] py-[32px] w-[100%] ">
+          <div className="bg-[#FAFAFA] max-w-[311px] rounded-[8px]  px-[17px] py-[37px] w-[100%] ">
             <div className="space-y-[25px]">
               <div className="flex items-center justify-center h-[30px]">
                 <img src={medai2} className="h-[25px]" alt="" />
