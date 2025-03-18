@@ -5,11 +5,12 @@ import "swiper/css";
 import "swiper/css/navigation";
 
 import tradimg from "../assets/TraderReviewsSec/framdes.png";
-import user from "../assets/TraderReviewsSec/image.png";
+import user1 from "../assets/TraderReviewsSec/rew (5).png";
+import user2 from "../assets/TraderReviewsSec/rew (4).png";
+import user3 from "../assets/TraderReviewsSec/rew (3).png";
+import user4 from "../assets/TraderReviewsSec/rew (2).png";
+import user5 from "../assets/TraderReviewsSec/rew (1).png";
 import usern from "../assets/TraderReviewsSec/user.png";
-import user2 from "../assets/TraderReviewsSec/Image2.png";
-import user3 from "../assets/TraderReviewsSec/image3.png";
-import user4 from "../assets/TraderReviewsSec/image4.png";
 import tick from "../assets/TraderReviewsSec/Vector.svg";
 import swpbtnl from "../assets/TraderReviewsSec/arwr.svg";
 import swpbtnr from "../assets/TraderReviewsSec/arw.svg";
@@ -80,10 +81,10 @@ function TraderReviewsSec() {
               <div className="relative h-[20px] rounded-[60px] ">
                 <img
                   src={tradimg}
-                  className="h-[415px] absolute w-[330px] top-[-200%]  !z-[1] "
+                  className="h-[435px] absolute w-[330px] top-[-200%]  !z-[1] "
                   alt=""
                 />
-                <div className="w-[305px] bg-[#181A20] h-[402px] z-[1] top-[-135%] rounded-t-[40px] left-3 absolute"></div>
+                <div className="w-[305px] bg-[#181A20] h-[422px] z-[1] top-[-135%] rounded-t-[40px] left-3 absolute"></div>
               </div>
               <div className="relative pt-[2rem]">
                 <div className="max-w-[100px] w-[100%] flex space-x-2 ml-auto">
@@ -114,7 +115,7 @@ function TraderReviewsSec() {
                   className="mySwiper !ml-4 "
                 >
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[281px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.
                       </p>
@@ -136,98 +137,113 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] min-h-[305px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] min-h-[330px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
-                        BlockchainFX has completely leveled up my trading game.
-                        It's super intuitive, lets you access multiple markets
-                        simultaneously, and offers lightning-fast transactions.
-                        A huge win for crypto!
+                      Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user} alt="" />
+                        <img src={user1} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                              Blacik.ko
+                            Mr 𝕏
                             </h3>
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                            @blakieko
+                          @MrX_Crypto
                           </h4>
                         </div>
                       </div>
+                      <a href="https://x.com/MrX_Crypto/status/1900845071240515647" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
-                        That’s exactly what we needed. A trading broker designed
-                        to bridge crypto with Forex, ETFs, and stocks, giving
-                        you real access to the markets with deep liquidity.
+                      BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there’s no need to waste time switching between brokers.
                       </p>
                       <div className="flex items-center space-x-2">
                         <img src={user2} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                              winny.eth
+                            Silvina Escudero
                             </h3>
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                            @winnyeth
+                          @silvinaescudero
                           </h4>
                         </div>
                       </div>
+                      <a href="https://x.com/silvinaescudero/status/1900845896302027108" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
-                        Trading on 9 different windows and having access to
-                        dozens trading analytic tools and risk management is
-                        giving me a long-term edge over the competition trading
-                        on other platforms.
+                      The best part about BlockchainFX? The deep liquidity across all assets. I’ve never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.
                       </p>
                       <div className="flex items-center space-x-2">
                         <img src={user3} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                              Shiny.Mo
+                            DefiAva🦋
                             </h3>
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                            @shinymo
+                          @defi_avaxx
                           </h4>
                         </div>
                       </div>
+                      <a href="https://x.com/defi_avaxx/status/1900847259874627732" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[305px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
-                        BlockchainFX gives you endless trading opportunities.
-                        This just makes sense since markets are interconnected.
-                        Finally there’s no need to waste time switching between
-                        brokers.
+                      BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto! 
                       </p>
                       <div className="flex items-center space-x-2">
                         <img src={user4} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                              Gohan.ox
+                            Honey.Eth
                             </h3>
                             <img src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
-                            @Gohanox
+                          @HoneyEth_
                           </h4>
                         </div>
                       </div>
+                      <a href="https://x.com/HoneyEth_/status/1900870121477820837" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide>
+                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      That’s exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.
+                      </p>
+                      <div className="flex items-center space-x-2">
+                        <img src={user5} alt="" />
+                        <div>
+                          <div className="flex items-center space-x-2">
+                            <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
+                            Crypto Bri
+                            </h3>
+                            <img src={tick} alt="" />
+                          </div>
+                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          @cryptobri_
+                          </h4>
+                        </div>
+                      </div>
+                      <a href="https://x.com/cryptobri_/status/1901419367289512075" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[20px] relative !z-[9]  text-[10px] font-[600] leading-[140%]">View Review on X</a>
                     </div>
                   </SwiperSlide>
                 </Swiper>

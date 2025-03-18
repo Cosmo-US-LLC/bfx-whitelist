@@ -8,7 +8,7 @@ function JoinWhitelistEarly() {
       <div className="max-w-[1200px] w-[100%] mx-auto flex justify-center gap-10">
         <div className="w-[60%] flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="text-[32px] font-[700] text-center tracking-[-1px] capitalize leading-normal">
-          Join the Whitelist <br /> for Early Access to the BFX Presale
+          Join the Waitlist <br /> for Early Access to the BFX Presale
           </h2>
           <p className="w-[549px] text-center text-[16px] font-[400] leading-[22px]">
           After raising $750,000 in the seed round and launching the Beta Trading App, the community now has a chance to join the BFX presale.
@@ -25,10 +25,10 @@ function JoinWhitelistEarly() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.
+              1. Join the Waitlist for 15 minutes of early access to buy BFX before the presale is publicly available.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              2. Click the button below to get whitelisted.
+              2. Click the button below to get Waitlisted.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               3. Enter your wallet address and purchase amount.
@@ -136,7 +136,7 @@ function JoinWhitelistEarly() {
               rel="noopener noreferrer"
             >
           <button className="text-white mt-4 bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
-          Join Whitelist Now
+          Join Waitlist Now
           </button>
           </a>
         </div>
