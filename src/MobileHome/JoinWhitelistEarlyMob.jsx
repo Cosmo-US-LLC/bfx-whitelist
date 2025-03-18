@@ -23,7 +23,7 @@ function JoinWhitelistEarlyMob() {
         <div className="     flex flex-col px-6 py-6 rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <div className="flex flex-col gap-4">
             <h2 className="w-[398px] text-[#181A20] font-inter text-[20px] font-[600] tracking-[-0.312px]">
-              How to Participate?
+            How to join Presale?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               1. Join the Waitlist for 15 minutes of early access to buy BFX before the presale is publicly available.
