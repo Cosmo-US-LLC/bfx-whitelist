@@ -42,5 +42,20 @@
     "BlockchainFXsec": {
     "live_demo": "实时 BlockchainFX 演示",
     "btn": "立即加入白名单"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "下一代交易体验",
+    "teamExperience": "拥有25年 <br /> 经验的团队",
+    "assets": "500+ <br /> 资产",
+    "spreads": "超低 <br /> 点差",
+    "chatSupport": "24/7 <br /> 在线客服",
+    "register": "1分钟 <br /> 注册",
+    "oneClickTrading": "一键 <br /> 交易",
+    "leverageTrading": "杠杆 <br /> 交易",
+    "charts": "最多9个 <br /> 图表",
+    "indicators": "100+ <br /> 指标",
+    "tournaments": "每月 <br /> 竞赛",
+    "joinWhitelist": "立即加入 <br /> 白名单",
+    "betaTrading": "Beta交易"
   }
   }

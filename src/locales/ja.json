@@ -42,5 +42,21 @@
     "BlockchainFXsec": {
       "live_demo": "ライブBlockchainFXデモ",
       "btn": "今すぐホワイトリストに参加"
+    },
+    "NextGeneration":{
+      "nextGenTitle": "次世代の取引体験",
+      "teamExperience": "25年の <br /> 経験を持つチーム",
+      "assets": "500+ <br /> 資産",
+      "spreads": "超 <br /> 低スプレッド",
+      "chatSupport": "24/7 <br /> ライブチャットサポート",
+      "register": "1分で <br /> 登録",
+      "oneClickTrading": "ワンクリック <br /> 取引",
+      "leverageTrading": "レバレッジ <br /> 取引",
+      "charts": "最大9つの <br /> チャート",
+      "indicators": "100+ <br /> 指標",
+      "tournaments": "毎月の <br /> トーナメント",
+      "joinWhitelist": "ホワイトリストに <br /> 参加する",
+      "betaTrading": "ベータ取引"
     }
+  
   }

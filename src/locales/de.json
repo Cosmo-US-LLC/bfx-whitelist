@@ -42,5 +42,21 @@
     "BlockchainFXsec": {
     "live_demo": "Live BlockchainFX-Demo",
     "btn": "Treten Sie jetzt der Whitelist bei"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Handelserfahrung der nächsten Generation",
+    "teamExperience": "Team mit 25 Jahren <br /> Erfahrung",
+    "assets": "500+ <br /> Vermögenswerte",
+    "spreads": "Ultra <br /> enge Spreads",
+    "chatSupport": "24/7 Live-<br />Chat-Support",
+    "register": "Registrieren <br /> in 1 Min",
+    "oneClickTrading": "Ein-Klick-<br />Handel",
+    "leverageTrading": "Hebel-<br />Handel",
+    "charts": "Bis zu 9 <br /> Charts",
+    "indicators": "100+ <br /> Indikatoren",
+    "tournaments": "Monatliche <br /> Turniere",
+    "joinWhitelist": "Jetzt Whitelist <br /> beitreten",
+    "betaTrading": "Beta-Handel"
   }
+  
   }

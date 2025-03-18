@@ -42,6 +42,20 @@
     "BlockchainFXsec": {
       "live_demo": "라이브 BlockchainFX 데모",
       "btn": "지금 화이트리스트에 가입하세요"
+    },
+    "NextGeneration":{
+      "nextGenTitle": "차세대 거래 경험",
+      "teamExperience": "25년 <br /> 경험을 가진 팀",
+      "assets": "500+ <br /> 자산",
+      "spreads": "초저 <br /> 스프레드",
+      "chatSupport": "24/7 라이브 <br /> 채팅 지원",
+      "register": "1분 안에 <br /> 가입",
+      "oneClickTrading": "원클릭 <br /> 거래",
+      "leverageTrading": "레버리지 <br /> 거래",
+      "charts": "최대 9개 <br /> 차트",
+      "indicators": "100+ <br /> 지표",
+      "tournaments": "월간 <br /> 토너먼트",
+      "joinWhitelist": "화이트리스트 <br /> 가입",
+      "betaTrading": "베타 거래"
     }
-  
   }

@@ -47,5 +47,20 @@
     "live_demo":"Live BlockchainFX Demo",
     "btn":"Join Whitelist Now"
     
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Next Generation Trading Experience",
+    "teamExperience": "Team with 25 Years <br /> Of Experience",
+    "assets": "500+ <br /> Assets",
+    "spreads": "Ultra <br /> Tight Spreads",
+    "chatSupport": "24/7 Live <br /> Chat Support",
+    "register": "Register <br /> in 1 Min",
+    "oneClickTrading": "One-Click <br /> Trading",
+    "leverageTrading": "Leverage <br /> Trading",
+    "charts": "Up to 9 <br /> Charts",
+    "indicators": "100+ <br /> Indicators",
+    "tournaments": "Monthly <br /> Tournaments",
+    "joinWhitelist": "Join Whitelist Now",
+    "betaTrading": "Beta Trading"
   }
   }

@@ -42,5 +42,20 @@
   "BlockchainFXsec": {
     "live_demo": "Bản demo BlockchainFX trực tiếp",
     "btn": "Tham gia danh sách trắng ngay"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Trải nghiệm giao dịch thế hệ tiếp theo",
+    "teamExperience": "Đội ngũ có 25 năm <br /> kinh nghiệm",
+    "assets": "500+ <br /> tài sản",
+    "spreads": "Chênh lệch <br /> siêu thấp",
+    "chatSupport": "Hỗ trợ chat <br /> trực tiếp 24/7",
+    "register": "Đăng ký <br /> trong 1 phút",
+    "oneClickTrading": "Giao dịch <br /> một cú nhấp",
+    "leverageTrading": "Giao dịch <br /> đòn bẩy",
+    "charts": "Lên đến 9 <br /> biểu đồ",
+    "indicators": "100+ <br /> chỉ báo",
+    "tournaments": "Giải đấu <br /> hàng tháng",
+    "joinWhitelist": "Tham gia <br /> danh sách trắng ngay",
+    "betaTrading": "Giao dịch beta"
   }
   }

@@ -42,5 +42,20 @@
     "BlockchainFXsec": {
     "live_demo": "Démo en direct de BlockchainFX",
     "btn": "Rejoignez la liste blanche maintenant"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Expérience de trading de nouvelle génération",
+    "teamExperience": "Équipe avec 25 ans <br /> d'expérience",
+    "assets": "500+ <br /> actifs",
+    "spreads": "Spreads <br /> ultra serrés",
+    "chatSupport": "Support chat <br /> 24/7",
+    "register": "Inscription <br /> en 1 min",
+    "oneClickTrading": "Trading <br /> en un clic",
+    "leverageTrading": "Trading <br /> avec effet de levier",
+    "charts": "Jusqu'à 9 <br /> graphiques",
+    "indicators": "100+ <br /> indicateurs",
+    "tournaments": "Tournois <br /> mensuels",
+    "joinWhitelist": "Rejoignez la <br /> liste blanche maintenant",
+    "betaTrading": "Trading Beta"
   }
   }

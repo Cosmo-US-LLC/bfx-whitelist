@@ -42,5 +42,20 @@
     "BlockchainFXsec": {
       "live_demo": "Живая демонстрация BlockchainFX",
       "btn": "Присоединяйтесь к белому списку"
+    },
+    "NextGeneration":{
+      "nextGenTitle": "Торговый опыт нового поколения",
+      "teamExperience": "Команда с 25-летним <br /> опытом",
+      "assets": "500+ <br /> активов",
+      "spreads": "Ультра <br /> узкие спреды",
+      "chatSupport": "Круглосуточная <br /> поддержка в чате",
+      "register": "Регистрация <br /> за 1 минуту",
+      "oneClickTrading": "Торговля <br /> в один клик",
+      "leverageTrading": "Торговля с <br /> плечом",
+      "charts": "До 9 <br /> графиков",
+      "indicators": "100+ <br /> индикаторов",
+      "tournaments": "Ежемесячные <br /> турниры",
+      "joinWhitelist": "Присоединяйтесь <br /> к белому списку",
+      "betaTrading": "Бета-торговля"
     }
   }

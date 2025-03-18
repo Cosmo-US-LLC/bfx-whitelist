@@ -42,5 +42,20 @@
   "BlockchainFXsec": {
     "live_demo": "Live BlockchainFX-demo",
     "btn": "Bli med på hvitelisten nå"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Neste generasjons handelsopplevelse",
+    "teamExperience": "Team med 25 års <br /> erfaring",
+    "assets": "500+ <br /> eiendeler",
+    "spreads": "Ultra <br /> tette spreader",
+    "chatSupport": "24/7 Live <br /> chat-støtte",
+    "register": "Registrer deg <br /> på 1 minutt",
+    "oneClickTrading": "Ett-klikk <br /> handel",
+    "leverageTrading": "Giring <br /> handel",
+    "charts": "Opptil 9 <br /> diagrammer",
+    "indicators": "100+ <br /> indikatorer",
+    "tournaments": "Månedlige <br /> turneringer",
+    "joinWhitelist": "Bli med på <br /> whitelist nå",
+    "betaTrading": "Beta handel"
   }
   }

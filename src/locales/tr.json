@@ -42,5 +42,20 @@
   "BlockchainFXsec": {
     "live_demo": "Canlı BlockchainFX Demo",
     "btn": "Beyaz Listeye Şimdi Katılın"
+  },
+  "NextGeneration":{
+    "nextGenTitle": "Yeni Nesil Ticaret Deneyimi",
+    "teamExperience": "25 Yıllık <br /> Deneyime Sahip Ekip",
+    "assets": "500+ <br /> Varlık",
+    "spreads": "Ultra <br /> Dar Spreadler",
+    "chatSupport": "7/24 Canlı <br /> Sohbet Desteği",
+    "register": "1 Dakikada <br /> Kayıt Ol",
+    "oneClickTrading": "Tek Tıkla <br /> Ticaret",
+    "leverageTrading": "Kaldıraçlı <br /> Ticaret",
+    "charts": "9’a Kadar <br /> Grafik",
+    "indicators": "100+ <br /> Göstergeler",
+    "tournaments": "Aylık <br /> Turnuvalar",
+    "joinWhitelist": "Şimdi Beyaz Listeye <br /> Katıl",
+    "betaTrading": "Beta Ticaret"
   }
   }
