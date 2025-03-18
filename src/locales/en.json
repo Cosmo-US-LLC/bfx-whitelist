@@ -42,5 +42,10 @@
     "goal": "$250,000",
     "launches_on": "$BFX Launches On Multiple Top-Tier Exchanges",
     "join_now": "Join Whitelist Now"
+  },
+  "BlockchainFXsec":{
+    "live_demo":"Live BlockchainFX Demo",
+    "btn":"Join Whitelist Now"
+    
   }
   }

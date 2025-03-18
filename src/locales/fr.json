@@ -38,5 +38,9 @@
       "goal": "Objectif : 250 000 $",
       "launches_on": "$BFX est lancé sur plusieurs plateformes d'échange de premier plan",
       "join_now": "Rejoindre la liste blanche maintenant"
-    }
+    },
+    "BlockchainFXsec": {
+    "live_demo": "Démo en direct de BlockchainFX",
+    "btn": "Rejoignez la liste blanche maintenant"
+  }
   }

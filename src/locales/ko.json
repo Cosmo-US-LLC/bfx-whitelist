@@ -38,6 +38,10 @@
       "goal": "목표: $250,000",
       "launches_on": "$BFX는 여러 주요 거래소에서 출시됩니다.",
       "join_now": "지금 화이트리스트 가입"
+    },
+    "BlockchainFXsec": {
+      "live_demo": "라이브 BlockchainFX 데모",
+      "btn": "지금 화이트리스트에 가입하세요"
     }
   
   }

@@ -38,5 +38,9 @@
       "goal": "目标：$250,000",
       "launches_on": "$BFX将在多个顶级交易所上市",
       "join_now": "立即加入白名单"
-    }
+    },
+    "BlockchainFXsec": {
+    "live_demo": "实时 BlockchainFX 演示",
+    "btn": "立即加入白名单"
+  }
   }

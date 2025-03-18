@@ -38,5 +38,9 @@
     "goal": "Doel: $250.000",
     "launches_on": "$BFX wordt gelanceerd op meerdere topbeurzen",
     "join_now": "Meld je nu aan voor de whitelist"
+  },
+  "BlockchainFXsec": {
+    "live_demo": "Live BlockchainFX-demo",
+    "btn": "Word nu lid van de whitelist"
   }
   }
