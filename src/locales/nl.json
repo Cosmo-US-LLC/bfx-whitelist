@@ -5,5 +5,38 @@
       "whitepaper": "Whitepaper",
       "roadmap": "Routekaart",
       "reviews": "Beoordelingen"
-    }
+    },
+    "hero_section": {
+      "hero_title": "De Eerste Crypto <br /> Handels-Super-App",
+      "hero_subtitle": "Blockchain Ontmoet Wereldwijde Financiële Markten",
+      "hero_description": "BlockchainFX is het enige crypto-native handelsplatform dat directe toegang biedt tot de grootste financiële markten ter wereld. Gebruikers kunnen crypto, forex, aandelen, ETF’s, futures, opties, obligaties, indices, CFD’s en meer verhandelen, allemaal op één plek. Als een door de gemeenschap aangedreven ecosysteem verdienen BFX-tokenhouders USDT-vergoedingen telkens wanneer iemand op de app handelt.",
+      "join_whitelist": "Meld je nu aan voor de whitelist",
+      "whitepaper": "Whitepaper",
+      "rated_by_users": "Beoordeeld door gebruikers"
+    },
+    "timer_banner": {
+    "presale_starts_in": "BFX Voorverkoop begint in",
+    "days": "Dagen",
+    "hours": "Uren",
+    "minutes": "Minuten",
+    "seconds": "Seconden",
+    "join_whitelist": "Sluit je nu aan bij de whitelist"
+  },
+  "joinwhitelistsec": {
+    "join_whitelist": "Meld je aan voor de whitelist",
+    "early_access": "voor vroege toegang tot de BFX-voorverkoop",
+    "description": "Na het ophalen van $750.000 in de seedronde en het lanceren van de Beta Trading App, krijgt de gemeenschap nu de kans om deel te nemen aan de BFX-voorverkoop.",
+    "how_to_participate": "Hoe deelnemen?",
+    "step1": "Meld je aan voor de whitelist om 15 minuten eerder BFX te kopen voordat de voorverkoop openbaar wordt.",
+    "step2": "Klik op de knop hieronder om je aan te melden.",
+    "step3": "Voer je wallet-adres en aankoopbedrag in.",
+    "step4": "Gebruik dezelfde wallet wanneer de voorverkoop start.",
+    "step5": "Wie het eerst komt, wie het eerst maalt.",
+    "payment_method": "Betaalmethode: ETH, BNB en USDT",
+    "claim": "Claimen: Je tokens worden automatisch naar je wallet gestuurd na afloop van de voorverkoop. Je hoeft niets te doen.",
+    "date": "Datum: Zondag 30 maart om 17:00 UTC",
+    "goal": "Doel: $250.000",
+    "launches_on": "$BFX wordt gelanceerd op meerdere topbeurzen",
+    "join_now": "Meld je nu aan voor de whitelist"
+  }
   }

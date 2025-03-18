@@ -5,5 +5,38 @@
       "whitepaper": "Sách trắng",
       "roadmap": "Lộ trình",
       "reviews": "Đánh giá"
-    }
+    },
+    "hero_section": {
+    "hero_title": "Ứng Dụng Giao Dịch Crypto <br /> Đầu Tiên",
+    "hero_subtitle": "Blockchain Kết Hợp Thị Trường Tài Chính Toàn Cầu",
+    "hero_description": "BlockchainFX là nền tảng giao dịch tiền điện tử gốc duy nhất cung cấp quyền truy cập tức thì vào các thị trường tài chính lớn nhất thế giới. Người dùng có thể giao dịch tiền điện tử, ngoại hối, cổ phiếu, ETF, hợp đồng tương lai, quyền chọn, trái phiếu, chỉ số, CFD và hơn thế nữa, tất cả trong một nền tảng. Là một hệ sinh thái do cộng đồng điều hành, chủ sở hữu token BFX kiếm được phí USDT mỗi khi có ai đó giao dịch trên ứng dụng.",
+    "join_whitelist": "Tham gia Danh Sách Trắng Ngay",
+    "whitepaper": "Sách Trắng",
+    "rated_by_users": "Được Người Dùng Đánh Giá"
+  },
+  "timer_banner": {
+    "presale_starts_in": "BFX Bán trước bắt đầu trong",
+    "days": "Ngày",
+    "hours": "Giờ",
+    "minutes": "Phút",
+    "seconds": "Giây",
+    "join_whitelist": "Tham gia danh sách ngay"
+  },
+  "joinwhitelistsec": {
+    "join_whitelist": "Tham gia danh sách trắng",
+    "early_access": "để truy cập sớm vào đợt bán trước BFX",
+    "description": "Sau khi huy động được 750.000 đô la trong vòng hạt giống và ra mắt ứng dụng giao dịch Beta, cộng đồng hiện có cơ hội tham gia đợt bán trước BFX.",
+    "how_to_participate": "Làm thế nào để tham gia?",
+    "step1": "Tham gia danh sách trắng để có 15 phút truy cập sớm để mua BFX trước khi đợt bán trước mở công khai.",
+    "step2": "Nhấp vào nút bên dưới để được đưa vào danh sách trắng.",
+    "step3": "Nhập địa chỉ ví và số tiền mua.",
+    "step4": "Sử dụng cùng một ví khi đợt bán trước bắt đầu.",
+    "step5": "Ai đến trước được phục vụ trước.",
+    "payment_method": "Phương thức thanh toán: ETH, BNB và USDT",
+    "claim": "Nhận: Token của bạn sẽ tự động được chuyển vào ví sau khi đợt bán trước kết thúc. Bạn không cần phải làm gì cả.",
+    "date": "Ngày: Chủ nhật, 30 tháng 3 lúc 17:00 UTC",
+    "goal": "Mục tiêu: $250.000",
+    "launches_on": "$BFX sẽ được niêm yết trên nhiều sàn giao dịch hàng đầu",
+    "join_now": "Tham gia danh sách trắng ngay"
+  }
   }

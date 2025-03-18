@@ -5,5 +5,38 @@
       "whitepaper": "Whitepaper",
       "roadmap": "Roteiro",
       "reviews": "Avaliações"
+    },
+    "hero_section": {
+      "hero_title": "O Primeiro Super Aplicativo <br /> de Trading de Criptomoedas",
+      "hero_subtitle": "Blockchain Encontra os Mercados Financeiros Globais",
+      "hero_description": "BlockchainFX é a única plataforma de negociação cripto-nativa que fornece acesso instantâneo aos maiores mercados financeiros do mundo. Os usuários podem negociar criptomoedas, forex, ações, ETFs, futuros, opções, títulos, índices, CFDs e muito mais, tudo em um só lugar. Como um ecossistema impulsionado pela comunidade, os detentores de tokens BFX ganham taxas em USDT sempre que alguém negocia no aplicativo.",
+      "join_whitelist": "Junte-se à Lista Branca Agora",
+      "whitepaper": "Whitepaper",
+      "rated_by_users": "Avaliado pelos Usuários"
+    },
+    "timer_banner": {
+      "presale_starts_in": "A pré-venda BFX começa em",
+      "days": "Dias",
+      "hours": "Horas",
+      "minutes": "Minutos",
+      "seconds": "Segundos",
+      "join_whitelist": "Junte-se à lista branca agora"
+    },
+    "joinwhitelistsec": {
+      "join_whitelist": "Junte-se à Lista Branca",
+      "early_access": "para acesso antecipado à pré-venda da BFX",
+      "description": "Após arrecadar $750.000 na rodada seed e lançar o aplicativo Beta Trading, a comunidade agora tem a chance de participar da pré-venda da BFX.",
+      "how_to_participate": "Como participar?",
+      "step1": "Junte-se à lista branca para ter 15 minutos de acesso antecipado para comprar BFX antes que a pré-venda esteja disponível publicamente.",
+      "step2": "Clique no botão abaixo para entrar na lista branca.",
+      "step3": "Digite seu endereço de carteira e o valor da compra.",
+      "step4": "Use a mesma carteira quando a pré-venda começar.",
+      "step5": "Ordem de chegada, ordem de compra.",
+      "payment_method": "Método de pagamento: ETH, BNB e USDT",
+      "claim": "Reivindicação: Seus tokens serão automaticamente transferidos para sua carteira após o término da pré-venda. Você não precisa fazer nada.",
+      "date": "Data: Domingo, 30 de março às 17h UTC",
+      "goal": "Meta: $250.000",
+      "launches_on": "$BFX será lançado em várias exchanges de alto nível",
+      "join_now": "Junte-se à Lista Branca Agora"
     }
   }

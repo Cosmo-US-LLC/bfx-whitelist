@@ -5,5 +5,38 @@
       "whitepaper": "Libro blanco",
       "roadmap": "Hoja de ruta",
       "reviews": "Reseñas"
-    }
+    },
+    "hero_section": {
+      "hero_title": "La Primera Super Aplicación <br /> de Trading de Criptomonedas",
+      "hero_subtitle": "Blockchain se Une a los Mercados Financieros Globales",
+      "hero_description": "BlockchainFX es la única plataforma de trading nativa de criptomonedas que proporciona acceso instantáneo a los mercados financieros más grandes del mundo. Los usuarios pueden operar con criptomonedas, forex, acciones, ETFs, futuros, opciones, bonos, índices, CFDs y más, todo en un solo lugar. Como un ecosistema impulsado por la comunidad, los poseedores de tokens BFX ganan comisiones en USDT cada vez que alguien opera en la aplicación.",
+      "join_whitelist": "Únete a la Lista Blanca Ahora",
+      "whitepaper": "Libro Blanco",
+      "rated_by_users": "Calificado por los Usuarios"
+    },
+    "timer_banner": {
+    "presale_starts_in": "La preventa de BFX comienza en",
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "join_whitelist": "Únete a la lista blanca ahora"
+  },
+  "joinwhitelistsec": {
+    "join_whitelist": "Únete a la lista blanca",
+    "early_access": "para acceso anticipado a la preventa de BFX",
+    "description": "Después de recaudar $750,000 en la ronda de inversión y lanzar la aplicación Beta Trading, la comunidad ahora tiene la oportunidad de unirse a la preventa de BFX.",
+    "how_to_participate": "¿Cómo participar?",
+    "step1": "Únete a la lista blanca para obtener 15 minutos de acceso anticipado y comprar BFX antes de que la preventa esté disponible públicamente.",
+    "step2": "Haz clic en el botón a continuación para ser incluido en la lista blanca.",
+    "step3": "Ingresa tu dirección de billetera y monto de compra.",
+    "step4": "Usa la misma billetera cuando comience la preventa.",
+    "step5": "El primero en llegar, el primero en ser servido.",
+    "payment_method": "Método de pago: ETH, BNB y USDT",
+    "claim": "Reclamación: Tus tokens se transferirán automáticamente a tu billetera después de que finalice la preventa. No necesitas hacer nada.",
+    "date": "Fecha: Domingo, 30 de marzo a las 5 PM UTC",
+    "goal": "Objetivo: $250,000",
+    "launches_on": "$BFX se lanza en múltiples intercambios de primer nivel",
+    "join_now": "Únete a la lista blanca ahora"
+  }
   }

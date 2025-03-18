@@ -5,5 +5,38 @@
       "whitepaper": "Hvitbok",
       "roadmap": "Veikart",
       "reviews": "Anmeldelser"
-    }
+    },
+    "hero_section": {
+      "hero_title": "Den Første Krypto <br /> Handels-Superappen",
+      "hero_subtitle": "Blockchain Møter Globale Finansmarkeder",
+      "hero_description": "BlockchainFX er den eneste krypto-native handelsplattformen som gir umiddelbar tilgang til verdens største finansmarkeder. Brukere kan handle krypto, forex, aksjer, ETF-er, futures, opsjoner, obligasjoner, indekser, CFD-er og mer, alt på ett sted. Som et fellesskapsdrevet økosystem tjener BFX-tokenholdere USDT-avgifter hver gang noen handler i appen.",
+      "join_whitelist": "Bli med på Whitelist Nå",
+      "whitepaper": "Whitepaper",
+      "rated_by_users": "Vurdert av Brukere"
+    },
+    "timer_banner": {
+      "presale_starts_in": "BFX forhåndssalg starter om",
+      "days": "Dager",
+      "hours": "Timer",
+      "minutes": "Minutter",
+      "seconds": "Sekunder",
+      "join_whitelist": "Bli med på hvitelisten nå"
+    },
+    "joinwhitelistsec": {
+    "join_whitelist": "Bli med på hvitelisten",
+    "early_access": "for tidlig tilgang til BFX forhåndssalget",
+    "description": "Etter å ha samlet inn $750.000 i frø-runden og lansert Beta Trading Appen, har fellesskapet nå sjansen til å bli med i BFX forhåndssalget.",
+    "how_to_participate": "Hvordan delta?",
+    "step1": "Bli med på hvitelisten for å få 15 minutter tidlig tilgang til å kjøpe BFX før forhåndssalget blir offentlig tilgjengelig.",
+    "step2": "Klikk på knappen nedenfor for å bli med på hvitelisten.",
+    "step3": "Skriv inn din lommebokadresse og kjøpsbeløp.",
+    "step4": "Bruk den samme lommeboken når forhåndssalget starter.",
+    "step5": "Førstemann til mølla.",
+    "payment_method": "Betalingsmetode: ETH, BNB og USDT",
+    "claim": "Krav: Tokenene dine vil automatisk bli overført til lommeboken din etter at forhåndssalget er avsluttet. Du trenger ikke gjøre noe.",
+    "date": "Dato: Søndag 30. mars kl. 17:00 UTC",
+    "goal": "Mål: $250.000",
+    "launches_on": "$BFX lanseres på flere topprangerte børser",
+    "join_now": "Bli med på hvitelisten nå"
+  }
   }

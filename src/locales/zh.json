@@ -5,5 +5,38 @@
       "whitepaper": "白皮书",
       "roadmap": "路线图",
       "reviews": "评论"
+    },
+     "hero_section": {
+      "hero_title": "首个加密货币 <br /> 交易超级应用",
+      "hero_subtitle": "区块链与全球金融市场融合",
+      "hero_description": "BlockchainFX 是唯一一个提供即时访问全球最大金融市场的加密货币交易平台。用户可以在一个平台上交易加密货币、外汇、股票、ETF、期货、期权、债券、指数、CFD 等。作为一个由社区驱动的生态系统，BFX 代币持有者每当有人在应用上交易时，都会赚取 USDT 费用。",
+      "join_whitelist": "立即加入白名单",
+      "whitepaper": "白皮书",
+      "rated_by_users": "用户评分"
+    },
+    "timer_banner": {
+    "presale_starts_in": "BFX预售将在",
+    "days": "天",
+    "hours": "小时",
+    "minutes": "分钟",
+    "seconds": "秒",
+    "join_whitelist": "立即加入白名单"
+  },
+  "joinwhitelistsec": {
+      "join_whitelist": "加入白名单",
+      "early_access": "抢先参与BFX预售",
+      "description": "在种子轮筹集了75万美元并推出Beta交易应用程序后，社区现在有机会加入BFX预售。",
+      "how_to_participate": "如何参与？",
+      "step1": "加入白名单，可提前15分钟购买BFX，抢占先机。",
+      "step2": "点击下面的按钮加入白名单。",
+      "step3": "输入您的钱包地址和购买金额。",
+      "step4": "预售开始时，请使用相同的钱包。",
+      "step5": "先到先得。",
+      "payment_method": "支付方式：ETH、BNB 和 USDT",
+      "claim": "领取：您的代币将在预售结束后自动转入您的钱包，无需额外操作。",
+      "date": "日期：3月30日（周日） 17:00 UTC",
+      "goal": "目标：$250,000",
+      "launches_on": "$BFX将在多个顶级交易所上市",
+      "join_now": "立即加入白名单"
     }
   }

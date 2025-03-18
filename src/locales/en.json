@@ -5,5 +5,42 @@
       "whitepaper": "Whitepaper",
       "roadmap": "Roadmap",
       "reviews": "Reviews"
-    }
+    },
+    "hero_section":{
+      "hero_title": "The First Crypto <br /> Trading Super App",
+      "hero_subtitle": "Blockchain Meets Global Financial Markets",
+      "hero_description": "BlockchainFX is the only crypto native trading platform that provides instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs, and more, all in one place. As a community-driven ecosystem, BFX token holders earn USDT fees whenever someone trades on the app.",
+      "join_whitelist": "Join Whitelist Now",
+      "whitepaper": "Whitepaper",
+      "rated_by_users": "Rated by Users"
+    },
+    "timer_banner": {
+    "presale_starts_in": "BFX Presale starts in",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Mins",
+    "seconds": "Secs",
+    "join_whitelist": "Join Whitelist Now"
+  },
+  "joinwhitelistsec": {
+    "join_whitelist": "Join the Whitelist",
+    "early_access": "for Early Access to the BFX Presale",
+    "description": "After raising $750,000 in the seed round and launching the Beta Trading App, the community now has a chance to join the BFX presale.",
+    "how_to_participate": "How to Participate?",
+    "step1": "Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.",
+    "step2": "Click the button below to get whitelisted.",
+    "step3": "Enter your wallet address and purchase amount.",
+    "step4": "Use the same wallet when the presale starts.",
+    "step5": "First come, first served.",
+    "payment_methodtitle":"Payment Method:",
+    "claimtitle":"Claim:",
+    "datetitle":"Date:",
+    "goaltitle":"Goal:",
+    "payment_method": "ETH, BNB, and USDT",
+    "claim": "Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.",
+    "date": "Sunday, March 30 at 5 PM UTC",
+    "goal": "$250,000",
+    "launches_on": "$BFX Launches On Multiple Top-Tier Exchanges",
+    "join_now": "Join Whitelist Now"
+  }
   }

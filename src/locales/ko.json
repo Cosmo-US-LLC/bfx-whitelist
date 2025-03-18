@@ -5,5 +5,39 @@
       "whitepaper": "백서",
       "roadmap": "로드맵",
       "reviews": "리뷰"
+    },
+    "hero_section": {
+      "hero_title": "최초의 암호화폐 <br /> 거래 슈퍼 앱",
+      "hero_subtitle": "블록체인이 글로벌 금융 시장과 만나다",
+      "hero_description": "BlockchainFX는 세계 최대 금융 시장에 즉시 접근할 수 있는 유일한 암호화폐 거래 플랫폼입니다. 사용자는 암호화폐, 외환, 주식, ETF, 선물, 옵션, 채권, 지수, CFD 등을 한 곳에서 거래할 수 있습니다. 커뮤니티 중심의 생태계로, BFX 토큰 보유자는 앱에서 거래가 발생할 때마다 USDT 수수료를 얻습니다.",
+      "join_whitelist": "지금 화이트리스트 가입",
+      "whitepaper": "백서",
+      "rated_by_users": "사용자 평가"
+    },
+    "timer_banner": {
+      "presale_starts_in": "BFX 사전 판매 시작까지",
+      "days": "일",
+      "hours": "시간",
+      "minutes": "분",
+      "seconds": "초",
+      "join_whitelist": "화이트리스트에 지금 참여하세요"
+    },
+    "joinwhitelistsec": {
+      "join_whitelist": "화이트리스트 가입",
+      "early_access": "BFX 사전 판매 조기 접근권",
+      "description": "시드 라운드에서 75만 달러를 모금하고 베타 트레이딩 앱을 출시한 후, 커뮤니티는 이제 BFX 사전 판매에 참여할 기회를 얻었습니다.",
+      "how_to_participate": "참여 방법?",
+      "step1": "화이트리스트에 가입하면 BFX를 공개 사전 판매 전에 15분 먼저 구매할 수 있습니다.",
+      "step2": "아래 버튼을 클릭하여 화이트리스트에 등록하세요.",
+      "step3": "지갑 주소와 구매 금액을 입력하세요.",
+      "step4": "사전 판매가 시작될 때 동일한 지갑을 사용하세요.",
+      "step5": "선착순입니다.",
+      "payment_method": "결제 방법: ETH, BNB 및 USDT",
+      "claim": "수령: 사전 판매 종료 후 토큰이 자동으로 귀하의 지갑으로 전송됩니다. 추가 조치는 필요 없습니다.",
+      "date": "날짜: 3월 30일 일요일 오후 5시 UTC",
+      "goal": "목표: $250,000",
+      "launches_on": "$BFX는 여러 주요 거래소에서 출시됩니다.",
+      "join_now": "지금 화이트리스트 가입"
     }
+  
   }

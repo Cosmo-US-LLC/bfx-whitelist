@@ -5,5 +5,38 @@
       "whitepaper": "Livre blanc",
       "roadmap": "Feuille de route",
       "reviews": "Avis"
+    },
+    "hero_section": {
+      "hero_title": "La Première Super App <br /> de Trading Crypto",
+      "hero_subtitle": "La Blockchain Rencontre les Marchés Financiers Mondiaux",
+      "hero_description": "BlockchainFX est la seule plateforme de trading crypto-native qui offre un accès instantané aux plus grands marchés financiers du monde. Les utilisateurs peuvent trader des cryptos, du forex, des actions, des ETF, des contrats à terme, des options, des obligations, des indices, des CFD et plus encore, le tout sur une seule plateforme. En tant qu'écosystème dirigé par la communauté, les détenteurs de tokens BFX gagnent des frais en USDT chaque fois qu'une transaction est effectuée sur l'application.",
+      "join_whitelist": "Rejoindre la Liste Blanche Maintenant",
+      "whitepaper": "Livre Blanc",
+      "rated_by_users": "Évalué par les Utilisateurs"
+    },
+    "timer_banner": {
+    "presale_starts_in": "La prévente BFX commence dans",
+    "days": "Jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "Secondes",
+    "join_whitelist": "Rejoindre la liste blanche maintenant"
+  },
+    "joinwhitelistsec": {
+      "join_whitelist": "Rejoignez la liste blanche",
+      "early_access": "pour un accès anticipé à la prévente BFX",
+      "description": "Après avoir levé 750 000 $ lors du tour de financement initial et lancé l'application Beta Trading, la communauté a maintenant la chance de rejoindre la prévente BFX.",
+      "how_to_participate": "Comment participer ?",
+      "step1": "Rejoignez la liste blanche pour 15 minutes d'accès anticipé afin d'acheter du BFX avant que la prévente ne soit disponible publiquement.",
+      "step2": "Cliquez sur le bouton ci-dessous pour être sur la liste blanche.",
+      "step3": "Entrez votre adresse de portefeuille et le montant d'achat.",
+      "step4": "Utilisez le même portefeuille lorsque la prévente commence.",
+      "step5": "Premier arrivé, premier servi.",
+      "payment_method": "Méthode de paiement : ETH, BNB et USDT",
+      "claim": "Réclamation : Vos jetons seront automatiquement transférés à votre portefeuille après la fin de la prévente. Vous n'avez rien à faire.",
+      "date": "Date : Dimanche 30 mars à 17h UTC",
+      "goal": "Objectif : 250 000 $",
+      "launches_on": "$BFX est lancé sur plusieurs plateformes d'échange de premier plan",
+      "join_now": "Rejoindre la liste blanche maintenant"
     }
   }

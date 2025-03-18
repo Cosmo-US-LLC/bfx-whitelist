@@ -5,5 +5,38 @@
       "whitepaper": "Whitepaper",
       "roadmap": "Roadmap",
       "reviews": "Recensioni"
+    },
+     "hero_section": {
+      "hero_title": "La Prima Super App <br /> di Trading in Crypto",
+      "hero_subtitle": "Blockchain incontra i mercati finanziari globali",
+      "hero_description": "BlockchainFX è l'unica piattaforma di trading cripto-nativa che fornisce accesso immediato ai più grandi mercati finanziari del mondo. Gli utenti possono negoziare criptovalute, forex, azioni, ETF, futures, opzioni, obbligazioni, indici, CFD e altro, tutto in un'unica piattaforma. Essendo un ecosistema guidato dalla comunità, i detentori di token BFX guadagnano commissioni in USDT ogni volta che qualcuno effettua una transazione sull'app.",
+      "join_whitelist": "Unisciti alla Lista Bianca Ora",
+      "whitepaper": "Whitepaper",
+      "rated_by_users": "Valutato dagli Utenti"
+    },
+    "timer_banner": {
+      "presale_starts_in": "La prevendita BFX inizia tra",
+      "days": "Giorni",
+      "hours": "Ore",
+      "minutes": "Minuti",
+      "seconds": "Secondi",
+      "join_whitelist": "Unisciti alla whitelist ora"
+    },
+    "joinwhitelistsec": {
+      "join_whitelist": "Unisciti alla Whitelist",
+      "early_access": "per l'accesso anticipato alla prevendita di BFX",
+      "description": "Dopo aver raccolto 750.000 $ nel round seed e aver lanciato l'app Beta Trading, la community ha ora la possibilità di partecipare alla prevendita di BFX.",
+      "how_to_participate": "Come partecipare?",
+      "step1": "Unisciti alla whitelist per avere 15 minuti di accesso anticipato all'acquisto di BFX prima che la prevendita sia pubblicamente disponibile.",
+      "step2": "Fai clic sul pulsante qui sotto per essere inserito nella whitelist.",
+      "step3": "Inserisci il tuo indirizzo del wallet e l'importo dell'acquisto.",
+      "step4": "Usa lo stesso wallet quando inizia la prevendita.",
+      "step5": "Primo arrivato, primo servito.",
+      "payment_method": "Metodo di pagamento: ETH, BNB e USDT",
+      "claim": "Richiesta: I tuoi token verranno automaticamente trasferiti al tuo wallet dopo la fine della prevendita. Non devi fare nulla.",
+      "date": "Data: Domenica 30 marzo alle 17:00 UTC",
+      "goal": "Obiettivo: 250.000 $",
+      "launches_on": "$BFX verrà lanciato su più exchange di alto livello",
+      "join_now": "Unisciti alla Whitelist ora"
     }
   }

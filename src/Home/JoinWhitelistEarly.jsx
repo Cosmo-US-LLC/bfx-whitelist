@@ -1,17 +1,19 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import joinWhitelistImages from "../assets/joinWhitelist/joinwhitelistMob.webp";
 import swpicon from "../assets/wallet/swp.svg";
 
 function JoinWhitelistEarly() {
+  const { t } = useTranslation();
   return (
     <div className="py-[50px]" id="join-whitelist">
       <div className="max-w-[1200px] w-[100%] mx-auto flex justify-center gap-10">
         <div className="w-[60%] flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="text-[32px] font-[700] text-center tracking-[-1px] capitalize leading-normal">
-          Join the Whitelist <br /> for Early Access to the BFX Presale
+          {t("joinwhitelistsec.join_whitelist")} <br /> {t("joinwhitelistsec.early_access")}
           </h2>
           <p className="w-[549px] text-center text-[16px] font-[400] leading-[22px]">
-          After raising $750,000 in the seed round and launching the Beta Trading App, the community now has a chance to join the BFX presale.
+          {t("joinwhitelistsec.description")}
           </p>
           <img
             src={joinWhitelistImages}
@@ -22,43 +24,43 @@ function JoinWhitelistEarly() {
         <div className="w-[40%] flex flex-col px-6 py-6 rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <div className="flex flex-col gap-4">
             <h2 className="w-[398px] text-[#181A20] font-inter text-[20px] font-[600] tracking-[-0.312px]">
-              How to Participate?
+            {t("joinwhitelistsec.how_to_participate")}
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.
+            {t("joinwhitelistsec.step1")}
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              2. Click the button below to get whitelisted.
+            {t("joinwhitelistsec.step2")}
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              3. Enter your wallet address and purchase amount.
+            {t("joinwhitelistsec.step3")}
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              4. Use the same wallet when the presale starts.
+            {t("joinwhitelistsec.step4")}
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              5. First come, first served.
+            {t("joinwhitelistsec.step5")}
             </p>
             <hr className="w-[50%] mx-auto h-[1px]" />
 
             <div className="flex flex-col gap-4">
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Payment Method:</strong> ETH, BNB and USDT
+                <strong>{t("joinwhitelistsec.payment_methodtitle")}</strong> {t("joinwhitelistsec.payment_method")}
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Claim:</strong> Your tokens will automatically be transferred to your wallet after the presale ends. You don't need to do anything.
+                <strong>{t("joinwhitelistsec.claimtitle")}</strong> {t("joinwhitelistsec.claim")}
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong> Date:</strong> Sunday, March 30 at 5 PM UTC
+                <strong> {t("joinwhitelistsec.datetitle")}</strong> {t("joinwhitelistsec.date")}
               </p>
               <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-                <strong>Goal:</strong> $250,000
+                <strong>{t("joinwhitelistsec.goaltitle")}</strong> {t("joinwhitelistsec.goal")}
               </p>
             </div>
           </div>
           <div className="border border-gray-400 bg-gray-100 w-[100%]   h-[79.668px] gap-4 flex flex-col justify-center px-4 mt-6">
             <h4 className="text-start text-[#808080] text-[9.875px] leading-[75%] font-[600]">
-              $BFX Launches On Multiple Top-Tier Exchanges
+            {t("joinwhitelistsec.launches_on")}
             </h4>
             <div className="flex   space-x-[8px]">
               <div
@@ -136,7 +138,7 @@ function JoinWhitelistEarly() {
               rel="noopener noreferrer"
             >
           <button className="text-white mt-4 bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
-          Join Whitelist Now
+          {t("joinwhitelistsec.join_now")}
           </button>
           </a>
         </div>

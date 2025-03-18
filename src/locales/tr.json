@@ -5,5 +5,38 @@
       "whitepaper": "Teknik Doküman",
       "roadmap": "Yol Haritası",
       "reviews": "Yorumlar"
-    }
+    },
+    "hero_section": {
+    "hero_title": "İlk Kripto <br /> Ticaret Süper Uygulaması",
+    "hero_subtitle": "Blockchain Küresel Finans Piyasalarıyla Buluşuyor",
+    "hero_description": "BlockchainFX, dünyanın en büyük finansal piyasalarına anında erişim sağlayan tek kripto yerel ticaret platformudur. Kullanıcılar kripto, forex, hisse senetleri, ETF’ler, vadeli işlemler, opsiyonlar, tahviller, endeksler, CFD’ler ve daha fazlasını tek bir platformda alıp satabilirler. Topluluk odaklı bir ekosistem olarak, BFX token sahipleri, uygulama üzerinde biri işlem yaptığında USDT ücretleri kazanır.",
+    "join_whitelist": "Beyaz Listeye Şimdi Katıl",
+    "whitepaper": "Beyaz Kitap",
+    "rated_by_users": "Kullanıcılar Tarafından Değerlendirildi"
+  },
+  "timer_banner": {
+    "presale_starts_in": "BFX Ön satışı başlıyor",
+    "days": "Gün",
+    "hours": "Saat",
+    "minutes": "Dakika",
+    "seconds": "Saniye",
+    "join_whitelist": "Beyaz listeye şimdi katılın"
+  },
+  "joinwhitelistsec": {
+    "join_whitelist": "Beyaz Listeye Katıl",
+    "early_access": "BFX Ön Satışına Erken Erişim İçin",
+    "description": "Seed turunda 750.000 $ topladıktan ve Beta Ticaret Uygulamasını başlattıktan sonra, topluluk artık BFX ön satışına katılma şansına sahip.",
+    "how_to_participate": "Nasıl Katılabilirim?",
+    "step1": "Beyaz listeye katılarak ön satış halka açılmadan önce BFX satın almak için 15 dakikalık erken erişim elde edin.",
+    "step2": "Beyaz listeye katılmak için aşağıdaki butona tıklayın.",
+    "step3": "Cüzdan adresinizi ve satın alma miktarınızı girin.",
+    "step4": "Ön satış başladığında aynı cüzdanı kullanın.",
+    "step5": "İlk gelen ilk alır.",
+    "payment_method": "Ödeme Yöntemi: ETH, BNB ve USDT",
+    "claim": "Talep: Ön satış sona erdikten sonra tokenleriniz otomatik olarak cüzdanınıza aktarılacaktır. Hiçbir şey yapmanıza gerek yok.",
+    "date": "Tarih: 30 Mart Pazar, UTC 17:00",
+    "goal": "Hedef: $250.000",
+    "launches_on": "$BFX birden fazla üst düzey borsada listelenecek",
+    "join_now": "Şimdi Beyaz Listeye Katıl"
+  }
   }

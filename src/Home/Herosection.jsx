@@ -1,9 +1,13 @@
 import React from "react";
 import stars from "../assets/herosection/stars.webp";
 import herogif from "../assets/herosection/hero.gif";
+import { useTranslation } from "react-i18next";
 // import heroVideo from "../assets/herosection/heroVideo.webm";
 
 function Herosection() {
+  const { t } = useTranslation();
+
+
   const handleScroll = () => {
     setTimeout(() => {
       const element = document.getElementById("Wallet");
@@ -26,12 +30,13 @@ function Herosection() {
          <div className="max-w-[505px] w-[100%]">
          <div className="space-y-[10px]">
             <h4 className="text-[18px]  leading-[144.444%] font-[400] text-start text-[#000] tracking-[-1px] capitalize">
-              Blockchain Meets Global Financial Markets
+            {t("hero_section.hero_subtitle")}
             </h4>
-            <h2 className=" text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-start">
-              The First Crypto <br /> Trading Super App
-            </h2>
-            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">BlockchainFX is the only crypto native trading platform that provides instant access to the world’s largest financial markets. Users can trade crypto, forex, stocks, ETFs, futures, options, bonds, indices, CFDs, and more, all in one place. As a community driven ecosystem, BFX token holders earn USDT fees whenever someone trades on the app.
+            <h2 
+  className="text-[45px] font-[700] leading-[120%] tracking-[-1px] text-[#000] text-start"
+  dangerouslySetInnerHTML={{ __html: t("hero_section.hero_title") }}
+></h2>
+            <p className="text-[14px] max-w-[840px] w-[100%] mx-auto font-[400] leading-[150%] text-start text-[#000] tracking-[-0.32px] ">  {t("hero_section.hero_description")}
             </p>
           </div>
           <div className="flex justify-start pt-[20px] pb-[0px] items-center space-x-[17px]">
@@ -44,7 +49,7 @@ function Herosection() {
                  
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Join Whitelist Now
+               {t("hero_section.join_whitelist")}
               </button>
             </a>
             <a
@@ -54,12 +59,12 @@ function Herosection() {
               rel="noopener noreferrer"
             >
               <button className="hover:text-white hover:bg-[#E5AE00] px-[12px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px] !w-[100%] h-[39px]">
-                Whitepaper
+              {t("hero_section.whitepaper")}
               </button>
             </a>
           </div>
           <div className="flex items-center justify-start pt-[20px] space-x-3">
-            <p className="text-[#000] font-[400] text-[14px]">Rated by Users</p>
+            <p className="text-[#000] font-[400] text-[14px]">{t("hero_section.rated_by_users")}</p>
             <div className="flex items-center space-x-2">
               <img className="w-[84px]" src={stars} alt="" />
               <p className="text-[#3E3E3E] font-[400] text-[14px]">4.79/5 </p>

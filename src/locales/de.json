@@ -5,5 +5,38 @@
       "whitepaper": "Whitepaper",
       "roadmap": "Roadmap",
       "reviews": "Bewertungen"
+    },
+    "hero_section": {
+    "hero_title": "Die Erste Krypto <br /> Handels-Super-App",
+    "hero_subtitle": "Blockchain trifft auf globale Finanzmärkte",
+    "hero_description": "BlockchainFX ist die einzige native Krypto-Handelsplattform, die sofortigen Zugang zu den größten Finanzmärkten der Welt bietet. Benutzer können Krypto, Forex, Aktien, ETFs, Futures, Optionen, Anleihen, Indizes, CFDs und mehr an einem einzigen Ort handeln. Als ein von der Community gesteuertes Ökosystem verdienen BFX-Token-Inhaber USDT-Gebühren, wenn jemand auf der App handelt.",
+    "join_whitelist": "Jetzt auf die Whitelist setzen",
+    "whitepaper": "Whitepaper",
+    "rated_by_users": "Von Nutzern bewertet"
+  },
+  "timer_banner": {
+    "presale_starts_in": "BFX Vorverkauf beginnt in",
+    "days": "Tage",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden",
+    "join_whitelist": "Jetzt Whitelist beitreten"
+  },
+  "joinwhitelistsec": {
+      "join_whitelist": "Treten Sie der Whitelist bei",
+      "early_access": "für den frühzeitigen Zugang zum BFX-Vorverkauf",
+      "description": "Nach der Beschaffung von 750.000 $ in der Seed-Runde und dem Start der Beta-Trading-App hat die Community nun die Möglichkeit, am BFX-Vorverkauf teilzunehmen.",
+      "how_to_participate": "Wie kann man teilnehmen?",
+      "step1": "Treten Sie der Whitelist bei, um 15 Minuten vor dem öffentlichen Vorverkauf BFX zu kaufen.",
+      "step2": "Klicken Sie auf die Schaltfläche unten, um sich auf die Whitelist setzen zu lassen.",
+      "step3": "Geben Sie Ihre Wallet-Adresse und den Kaufbetrag ein.",
+      "step4": "Verwenden Sie dieselbe Wallet, wenn der Vorverkauf beginnt.",
+      "step5": "Wer zuerst kommt, mahlt zuerst.",
+      "payment_method": "Zahlungsmethode: ETH, BNB und USDT",
+      "claim": "Anspruch: Ihre Token werden nach dem Ende des Vorverkaufs automatisch in Ihre Wallet übertragen. Sie müssen nichts tun.",
+      "date": "Datum: Sonntag, 30. März um 17 Uhr UTC",
+      "goal": "Ziel: 250.000 $",
+      "launches_on": "$BFX wird auf mehreren erstklassigen Börsen eingeführt",
+      "join_now": "Jetzt zur Whitelist hinzufügen"
     }
   }
