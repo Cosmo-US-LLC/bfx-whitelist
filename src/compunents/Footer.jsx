@@ -47,7 +47,7 @@ function Footer() {
                     href=""
                     onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                   >
-                    Whitelist
+                    Waitlist
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
@@ -203,7 +203,7 @@ function Footer() {
                   href=""
                   onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                 >
-                  Whitelist
+                  Waitlist
                 </a><br />
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"

@@ -8,8 +8,8 @@ function JoinWhitelistEarlyMob() {
       <div className="  w-[100%] flex flex-col px-4 gap-6">
         <div className="  flex flex-col justify-center items-center gap-4 py-6    rounded-[12px] border-[#ECECEC] bg-[#F9F9F9]">
           <h2 className="w-[357px] text-[32px] font-[700] text-center tracking-[-0.56px] capitalize leading-[120%]">
-            {/* Join The Whitelist <br/> For Early Access */}
-            Join the Whitelist <br /> for Early Access to <br /> the BFX Presale
+            {/* Join The Waitlist <br/> For Early Access */}
+            Join the Waitlist <br /> for Early Access to <br /> the BFX Presale
           </h2>
           <p className="w-[317px] text-center text-[15px] font-[400] leading-[18px]">
           After raising $750,000 in the seed round and launching the Beta Trading App, the community now has a chance to join the BFX presale.
@@ -26,10 +26,10 @@ function JoinWhitelistEarlyMob() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.
+              1. Join the Waitlist for 15 minutes of early access to buy BFX before the presale is publicly available.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              2. Click the button below to get whitelisted.
+              2. Click the button below to get Waitlisted.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
               3. Enter your wallet address and purchase amount.
@@ -158,7 +158,7 @@ function JoinWhitelistEarlyMob() {
               rel="noopener noreferrer"
             > 
           <button className="text-white mt-4 bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
-            Join Whitelist Now
+            Join Waitlist Now
           </button>
           </a>
         </div>

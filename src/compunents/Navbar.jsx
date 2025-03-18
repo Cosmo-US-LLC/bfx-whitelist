@@ -124,7 +124,7 @@ function Navbar() {
             onClick={(e) => handleScroll(e, "join-whitelist", 40)}
             href=""
           >
-            Whitelist
+            Waitlist
           </a>
           <a
             className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
@@ -213,7 +213,7 @@ function Navbar() {
             href=""
             onClick={(e) => handleScroll(e, "join-whitelist", 60)}
           >
-            Whitelist
+            Waitlist
           </a><br />
           <a
             className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
@@ -300,7 +300,7 @@ function Navbar() {
          
             //  onClick={() => setCurrentPopup("wallet")}
           className="text-white   bg-[#E5AE00] 2xl:px-[12px] xl:px-[12px] lg:px-[12px] md:px-[12px] sm:px-[10px] px-[10px] hover:text-black hover:bg-transparent 2xl:text-[14px] xl:text-[14px] lg:text-[14px] md:text-[14px] sm:text-[14px] text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] 2xl:max-w-[179px] xl:max-w-[179px] lg:max-w-[179px] md:max-w-[179px] sm:max-w-[158px] max-w-[158px] w-[100%] 2xl:h-[43px] xl:h-[43px] lg:h-[43px] md:h-[43px] sm:h-[40px] h-[40px]">
-           Join Whitelist Now{" "}
+           Join Waitlist Now{" "}
           </button>
           </a>
           {currentPopup === "wallet" && (

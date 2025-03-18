@@ -69,7 +69,7 @@ function MobWhatIsSec() {
           <button
             className="absolute text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] w-[100%] min-w-[160px] h-[40px]"
           >
-           Join Whitelist Now
+           Join Waitlist Now
           </button>
           </a>
         </div>
