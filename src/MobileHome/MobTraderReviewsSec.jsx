@@ -30,7 +30,7 @@ function MobTraderReviewsSec() {
          <div className=" space-y-[30px] w-[100%]">
             <div className="space-y-[15px]">
                 <h4 className="text-[15px] bg-[#D9D9D9] text-center font-[400] max-w-[123px] rounded-[4px] py-[10px] mx-auto">4.79 out of 5</h4>
-                <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">1000+ Web3 Trader Reviews</p>
+                <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">1000+ verified Ratings</p>
             </div>
             <div className=" w-[100%] space-y-[24px]">
                 <div className="flex items-center justify-between space-x-4">
