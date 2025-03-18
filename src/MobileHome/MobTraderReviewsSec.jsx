@@ -6,15 +6,13 @@ import "swiper/css/navigation";
 
 import swpbtn from "../assets/PremiumSec/arw.svg";
 
-
-import tradimg from "../assets/TraderReviewsSec/tradimg.png";
-import user from "../assets/TraderReviewsSec/image.png";
 import fram from "../assets/TraderReviewsSec/fram.png";
 import usern from "../assets/TraderReviewsSec/user.png";
-import user1 from "../assets/TraderReviewsSec/Imager.png";
-import user2 from "../assets/TraderReviewsSec/Image2.png";
-import user3 from "../assets/TraderReviewsSec/image3.png";
-import user4 from "../assets/TraderReviewsSec/image4.png";
+import user1 from "../assets/TraderReviewsSec/rew (5).png";
+import user2 from "../assets/TraderReviewsSec/rew (4).png";
+import user3 from "../assets/TraderReviewsSec/rew (3).png";
+import user4 from "../assets/TraderReviewsSec/rew (2).png";
+import user5 from "../assets/TraderReviewsSec/rew (1).png";
 import tick from "../assets/TraderReviewsSec/Vector.svg";
 import swpbtnl from "../assets/TraderReviewsSec/arwr.svg";
 import swpbtnr from "../assets/TraderReviewsSec/arw.svg";
@@ -32,7 +30,7 @@ function MobTraderReviewsSec() {
          <div className=" space-y-[30px] w-[100%]">
             <div className="space-y-[15px]">
                 <h4 className="text-[15px] bg-[#D9D9D9] text-center font-[400] max-w-[123px] rounded-[4px] py-[10px] mx-auto">4.79 out of 5</h4>
-                <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">1000+ Web3 Trader Reviews</p>
+                <p className="text-center text-[#7C7C7C] text-[15px] font-[400]">1000+ verified Ratings</p>
             </div>
             <div className=" w-[100%] space-y-[24px]">
                 <div className="flex items-center justify-between space-x-4">
@@ -118,18 +116,18 @@ function MobTraderReviewsSec() {
                
                 >
                     <img src={fram} className="absolute left-[-20%] top-[-7%] min-w-[325px] min-h-[300px] z-[-1]" alt="" />
-                    <p className="h-[100px] text-[10px] font-[400] leading-[175%] text-[#fff]">That’s exactly what we needed. A trading broker designed to bridge crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.</p>
+                    <p className="h-[100px] text-[10px] font-[400] leading-[175%] text-[#fff]"> Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms..</p>
                     <div className="flex items-center space-x-2">
-                        <img src={user2} className="w-[26px] h-[26px]" alt="" />
+                        <img src={user1} className="w-[26px] h-[26px]" alt="" />
                         <div>
                             <div className="flex items-center space-x-2">
-                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">winny.eth</h3>
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]"> Mr 𝕏</h3>
                             <img src={tick} alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@winnyeth</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]"> @MrX_Crypto</h4>
                         </div>
                     </div>
-                   
+                    <a href="https://x.com/MrX_Crypto/status/1900845071240515647" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>
                 </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -137,18 +135,18 @@ function MobTraderReviewsSec() {
                
                 >
                      <img src={fram} className="absolute left-[-20%] top-[-7%] min-w-[325px] min-h-[300px] z-[-1]" alt="" />
-                    <p className="text-[10px] h-[100px] font-[400] leading-[175%] text-[#fff]">BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto!</p>
+                    <p className="text-[10px] h-[100px] font-[400] leading-[175%] text-[#fff]"> BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there’s no need to waste time switching between brokers.</p>
                     <div className="flex items-center space-x-2">
-                        <img src={user} className="w-[25px] h-[25px]" alt="" />
+                        <img src={user2} className="w-[25px] h-[25px]" alt="" />
                         <div>
                             <div className="flex items-center space-x-2">
-                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">Blacik.ko</h3>
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]"> Silvina Escudero</h3>
                             <img src={tick} alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@blakieko</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@silvinaescudero</h4>
                         </div>
                     </div>
-                   
+                    <a href="https://x.com/silvinaescudero/status/1900845896302027108" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>
                 </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -156,18 +154,18 @@ function MobTraderReviewsSec() {
                
                 >
                       <img src={fram} className="absolute left-[-20%] top-[-7%] min-w-[325px] min-h-[300px] z-[-1]" alt="" />
-                    <p className="text-[10px]  h-[100px] font-[400] leading-[175%] text-[#fff]">Trading on 9 different windows and having access to dozens trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.</p>
+                    <p className="text-[10px]  h-[100px] font-[400] leading-[175%] text-[#fff]"> The best part about BlockchainFX? The deep liquidity across all assets. I’ve never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.</p>
                     <div className="flex items-center space-x-2">
                         <img src={user3} className="w-[26px] h-[26px]" alt="" />
                         <div>
                             <div className="flex items-center space-x-2">
-                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">Shiny.Mo</h3>
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">DefiAva🦋</h3>
                             <img src={tick} alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@shinymo</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]"> @defi_avaxx</h4>
                         </div>
                     </div>
-                   
+                    <a href="https://x.com/defi_avaxx/status/1900847259874627732" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>
                 </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -175,18 +173,37 @@ function MobTraderReviewsSec() {
                
                 >
                      <img src={fram} className="absolute left-[-20%] top-[-7%] min-w-[325px] min-h-[300px] z-[-1]" alt="" />
-                    <p className="text-[10px] h-[100px] font-[400] leading-[175%] text-[#fff]">BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally there’s no need to waste time switching between brokers.</p>
+                    <p className="text-[10px] h-[100px] font-[400] leading-[175%] text-[#fff]"> BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto! </p>
                     <div className="flex items-center space-x-2">
                         <img src={user4} className="w-[26px] h-[26px]" alt="" />
                         <div>
                             <div className="flex items-center space-x-2">
-                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">Gohan.ox</h3>
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]">  Honey.Eth</h3>
                             <img src={tick}  alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@Gohanox</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]"> @HoneyEth_</h4>
                         </div>
                     </div>
-                   
+                    <a href="https://x.com/HoneyEth_/status/1900870121477820837" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>
+                </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                <div className=" py-[45px] pb-[51px] min-h-[208px] flex flex-col justify-between pl-[40px] pr-[16px] relative rounded-[4px] max-w-[233.388px] mx-auto space-y-[30px]"
+               
+                >
+                     <img src={fram} className="absolute left-[-20%] top-[-7%] min-w-[325px] min-h-[300px] z-[-1]" alt="" />
+                    <p className="text-[10px] h-[100px] font-[400] leading-[175%] text-[#fff]">  That’s exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.</p>
+                    <div className="flex items-center space-x-2">
+                        <img src={user5} className="w-[26px] h-[26px]" alt="" />
+                        <div>
+                            <div className="flex items-center space-x-2">
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]"> Crypto Bri</h3>
+                            <img src={tick}  alt="" />
+                            </div>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]">@cryptobri_</h4>
+                        </div>
+                    </div>
+                    <a href="https://x.com/cryptobri_/status/1901419367289512075" target="_blank" rel="noopener noreferrer"  className="text-[#fff] text-center pr-6 underline !mt-[10px] relative !z-[9]  text-[9px] font-[600] leading-[140%]">View Review on X</a>
                 </div>
                 </SwiperSlide>
             </Swiper>
