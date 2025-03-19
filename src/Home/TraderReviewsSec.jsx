@@ -115,7 +115,7 @@ function TraderReviewsSec() {
                   className="mySwiper !ml-4 "
                 >
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.
                       </p>
@@ -124,11 +124,14 @@ function TraderReviewsSec() {
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
-                            Lacoste.btc
+                            PrimeNic.eth
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
+                          @primenic_eth
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
                           35.2K Followers
                           </h4>
                         </div>
@@ -137,7 +140,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] min-h-[330px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.
                       </p>
@@ -150,8 +153,11 @@ function TraderReviewsSec() {
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @MrX_Crypto
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
+                          472K followers
                           </h4>
                         </div>
                       </div>
@@ -159,7 +165,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there’s no need to waste time switching between brokers.
                       </p>
@@ -172,8 +178,11 @@ function TraderReviewsSec() {
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @silvinaescudero
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
+                          863K followers
                           </h4>
                         </div>
                       </div>
@@ -181,7 +190,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9]  min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       The best part about BlockchainFX? The deep liquidity across all assets. I’ve never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.
                       </p>
@@ -194,8 +203,11 @@ function TraderReviewsSec() {
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @defi_avaxx
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
+                          30.3K followers
                           </h4>
                         </div>
                       </div>
@@ -203,7 +215,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto! 
                       </p>
@@ -216,8 +228,11 @@ function TraderReviewsSec() {
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @HoneyEth_
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
+                          121.8K followers
                           </h4>
                         </div>
                       </div>
@@ -225,7 +240,7 @@ function TraderReviewsSec() {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[330px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
+                    <div className="py-[35px] relative z-[9] pb-[51px] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
                       <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
                       That’s exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.
                       </p>
@@ -238,8 +253,11 @@ function TraderReviewsSec() {
                             </h3>
                             <img src={tick} alt="" />
                           </div>
-                          <h4 className="text-[#6A6A6A] text-[11.6px] font-[600] leading-[140%]">
+                          <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @cryptobri_
+                          </h4>
+                          <h4 className="text-[#CFCFCF] text-[11.6px] font-[600] leading-[160%]">
+                          79.6K followers
                           </h4>
                         </div>
                       </div>
