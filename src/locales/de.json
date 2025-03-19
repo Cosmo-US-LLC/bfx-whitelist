@@ -57,6 +57,43 @@
     "tournaments": "Monatliche <br /> Turniere",
     "joinWhitelist": "Jetzt Whitelist <br /> beitreten",
     "betaTrading": "Beta-Handel"
-  }
+  },
+  "TradeOverSec": {
+    "title": "Mehr als 500 verschiedene Vermögenswerte",
+    "categories": [
+      { "title": "Krypto", "subtitle": "Handeln Sie BTC, ETH, SOL, PEPE, DOGE, TRUMP und mehr mit Hebelwirkung und fortschrittlichen Handelswerkzeugen." },
+      { "title": "Aktien", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola und mehr. Kaufen Sie Ihre Lieblingsaktie in Sekundenschnelle." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD und mehr. Handeln Sie über 60 Währungspaare auf dem dynamischen Devisenmarkt." },
+      { "title": "Rohstoffe", "subtitle": "Gold, Silber, Öl, Zucker und viele mehr. Diversifizieren Sie Ihr Portfolio mit einer Vielzahl wertvoller Rohstoffe." },
+      { "title": "Indizes", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC und viele mehr. Handeln Sie die beliebtesten Indizes." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Alles in einer App",
+      "subtitle": "Eine blitzschnelle und innovative Handelslösung",
+      "items": [
+        {
+          "title": "Jedes Gerät",
+          "description": "Benutzer können auf jedem Gerät handeln, sei es ein PC, Mac, iOS oder Android."
+        },
+        {
+          "title": "Technische Werkzeuge",
+          "description": "Erweiterte technische Werkzeuge zur Verbesserung der Marktanalyse und Entscheidungsfindung."
+        },
+        {
+          "title": "Risikomanagement",
+          "description": "Umfassende Risikomanagementfunktionen zur Minimierung von Risiken."
+        },
+        {
+          "title": "Mehrere Diagramme",
+          "description": "Händler können mehrere Diagramme gleichzeitig nutzen, um bessere Markteinblicke zu erhalten."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Täglich mit BFX verdienen",
+      "description": "BFX ist die erste Kryptowährung, die tägliche USDT-Belohnungen basierend auf den Handelsgebühren verteilt. Jedes Mal, wenn jemand auf BlockchainFX handelt, verdienst du mit. Je mehr BFX du hältst, desto höher deine Belohnung – bis zu 25.000 USDT pro Tag.",
+      "button": "Warteliste beitreten"
+    }
   
   }

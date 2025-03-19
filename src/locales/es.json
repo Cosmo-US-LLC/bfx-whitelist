@@ -57,5 +57,44 @@
     "tournaments": "Torneos <br /> mensuales",
     "joinWhitelist": "Únete a la <br /> lista blanca ahora",
     "betaTrading": "Trading Beta"
+  },
+  "TradeOverSec": {
+    "title": "Más de 500 activos diferentes",
+    "categories": [
+      { "title": "Criptomonedas", "subtitle": "Opera BTC, ETH, SOL, PEPE, DOGE, TRUMP y más con apalancamiento y herramientas avanzadas." },
+      { "title": "Acciones", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola y muchas más. Compra tu acción favorita en segundos." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD y más. Opera más de 60 pares de divisas en el dinámico mercado de forex." },
+      { "title": "Materias Primas", "subtitle": "Oro, Plata, Petróleo, Azúcar y más. Diversifica tu cartera con una amplia variedad de materias primas valiosas." },
+      { "title": "Índices", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC y más. Opera los índices más populares." }
+    ]
+  },
+  "es": {
+    "OneAppSec": {
+      "title": "Todo en una sola aplicación",
+      "subtitle": "Una solución de trading innovadora y ultrarrápida",
+      "items": [
+        {
+          "title": "Cualquier dispositivo",
+          "description": "Los usuarios pueden operar desde cualquier dispositivo, ya sea PC, Mac, iOS o Android."
+        },
+        {
+          "title": "Herramientas técnicas",
+          "description": "Herramientas técnicas avanzadas diseñadas para mejorar el análisis del mercado y la toma de decisiones."
+        },
+        {
+          "title": "Gestión de riesgos",
+          "description": "Funciones completas de gestión de riesgos para minimizar riesgos."
+        },
+        {
+          "title": "Múltiples gráficos",
+          "description": "Los traders pueden utilizar múltiples gráficos al mismo tiempo para obtener mejores conocimientos del mercado."
+        }
+      ]
+    }
+  },
+  "EarnOnSec": {
+    "title": "Gana a diario con BFX",
+    "description": "BFX es la primera criptomoneda que distribuye recompensas diarias en USDT según los ingresos por comisiones de trading. Cada vez que alguien opera en BlockchainFX, tú ganas. Cuanto más BFX tengas, mayores serán tus recompensas, hasta un máximo de 25,000 USDT por día.",
+    "button": "Únete a la lista de espera"
   }
   }

@@ -57,5 +57,42 @@
     "tournaments": "Månedlige <br /> turneringer",
     "joinWhitelist": "Bli med på <br /> whitelist nå",
     "betaTrading": "Beta handel"
-  }
+  },
+  "TradeOverSec": {
+    "title": "Mer enn 500 forskjellige eiendeler",
+    "categories": [
+      { "title": "Krypto", "subtitle": "Handle BTC, ETH, SOL, PEPE, DOGE, TRUMP og mer med giring og avanserte handelsverktøy." },
+      { "title": "Aksjer", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola og flere. Kjøp din favorittaksje på sekunder." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD og flere. Handle over 60 valutapar i det dynamiske valutamarkedet." },
+      { "title": "Råvarer", "subtitle": "Gull, Sølv, Olje, Sukker og flere. Diversifiser porteføljen din med et bredt utvalg av verdifulle råvarer." },
+      { "title": "Indekser", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC og flere. Handle de mest populære indeksene." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Alt i én app",
+      "subtitle": "En lynrask og innovativ handelsløsning",
+      "items": [
+        {
+          "title": "Alle enheter",
+          "description": "Brukere kan handle fra hvilken som helst enhet, enten det er PC, Mac, iOS eller Android."
+        },
+        {
+          "title": "Tekniske verktøy",
+          "description": "Avanserte tekniske verktøy designet for å forbedre markedsanalyse og beslutningstaking."
+        },
+        {
+          "title": "Risikostyring",
+          "description": "Omfattende risikostyringsfunksjoner for å minimere risiko."
+        },
+        {
+          "title": "Flere diagrammer",
+          "description": "Tradere kan bruke flere diagrammer samtidig for bedre markedsinnsikt."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Tjen daglig med BFX",
+      "description": "BFX er den første kryptovalutaen som distribuerer daglige USDT-belønninger basert på handelsgebyrinntekter. Hver gang noen handler på BlockchainFX, tjener du. Jo mer BFX du har, desto høyere blir belønningen, opptil 25 000 USDT per dag.",
+      "button": "Bli med på ventelisten"
+    }
   }

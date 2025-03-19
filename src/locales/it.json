@@ -57,5 +57,42 @@
     "tournaments": "Tornei <br /> mensili",
     "joinWhitelist": "Unisciti alla <br /> whitelist ora",
     "betaTrading": "Beta Trading"
-  }
+  },
+  "TradeOverSec": {
+    "title": "Più di 500 asset diversi",
+    "categories": [
+      { "title": "Criptovalute", "subtitle": "Scambia BTC, ETH, SOL, PEPE, DOGE, TRUMP e altro con leva finanziaria e strumenti di trading avanzati." },
+      { "title": "Azioni", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola e molte altre. Acquista la tua azione preferita in pochi secondi." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD e altro. Scambia oltre 60 coppie di valute nel dinamico mercato del forex." },
+      { "title": "Materie prime", "subtitle": "Oro, Argento, Petrolio, Zucchero e molte altre. Diversifica il tuo portafoglio con un'ampia gamma di materie prime di valore." },
+      { "title": "Indici", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC e molti altri. Scambia gli indici più popolari." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Tutto in un'unica app",
+      "subtitle": "Una soluzione di trading innovativa e velocissima",
+      "items": [
+        {
+          "title": "Qualsiasi Dispositivo",
+          "description": "Gli utenti possono fare trading da qualsiasi dispositivo, sia esso PC, Mac, iOS o Android."
+        },
+        {
+          "title": "Strumenti Tecnici",
+          "description": "Strumenti tecnici avanzati progettati per migliorare l'analisi di mercato e il processo decisionale."
+        },
+        {
+          "title": "Gestione del Rischio",
+          "description": "Funzionalità complete di gestione del rischio per ridurre al minimo i rischi."
+        },
+        {
+          "title": "Grafici Multipli",
+          "description": "I trader possono utilizzare più grafici contemporaneamente per una migliore comprensione del mercato."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Guadagna ogni giorno con BFX",
+      "description": "BFX è la prima criptovaluta che distribuisce premi giornalieri in USDT in base alle entrate delle commissioni di trading. Ogni volta che qualcuno fa trading su BlockchainFX, guadagni. Più BFX possiedi, maggiori saranno i tuoi premi, fino a un massimo di 25.000 USDT al giorno.",
+      "button": "Unisciti alla lista d'attesa"
+    }
   }

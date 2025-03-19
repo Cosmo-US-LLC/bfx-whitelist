@@ -57,5 +57,42 @@
     "tournaments": "每月 <br /> 竞赛",
     "joinWhitelist": "立即加入 <br /> 白名单",
     "betaTrading": "Beta交易"
-  }
+  },
+  "TradeOverSec": {
+    "title": "超过500种不同的资产",
+    "categories": [
+      { "title": "加密货币", "subtitle": "交易BTC、ETH、SOL、PEPE、DOGE、TRUMP等，享受杠杆和高级交易工具。" },
+      { "title": "股票", "subtitle": "苹果、特斯拉、英伟达、Netflix、可口可乐等。几秒钟内购买您喜欢的股票。" },
+      { "title": "外汇", "subtitle": "美元、欧元、日元、英镑、澳元等。交易60多种货币对，进入动态外汇市场。" },
+      { "title": "大宗商品", "subtitle": "黄金、白银、石油、糖等。通过多种有价值的原材料分散投资组合。" },
+      { "title": "指数", "subtitle": "道琼斯、标普500、纳斯达克、DAX、CAC等。交易最受欢迎的指数。" }
+    ]
+  },
+  "OneAppSec": {
+      "title": "一款应用，满足所有需求",
+      "subtitle": "极速创新的交易解决方案",
+      "items": [
+        {
+          "title": "任何设备",
+          "description": "用户可以使用任何设备进行交易，无论是 PC、Mac、iOS 还是 Android。"
+        },
+        {
+          "title": "技术工具",
+          "description": "高级技术工具，旨在增强市场分析和决策能力。"
+        },
+        {
+          "title": "风险管理",
+          "description": "全面的风险管理功能，以最大程度地减少风险。"
+        },
+        {
+          "title": "多重图表",
+          "description": "交易者可以同时使用多个图表，以获得更好的市场洞察力。"
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "每日赚取 BFX 奖励",
+      "description": "BFX 是首个根据交易费用收入每日分发 USDT 奖励的加密货币。每当有人在 BlockchainFX 交易，你就可以赚取奖励。持有 BFX 越多，奖励越高，每天最高可达 25,000 USDT。",
+      "button": "加入候补名单"
+    }
   }

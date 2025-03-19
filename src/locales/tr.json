@@ -57,5 +57,42 @@
     "tournaments": "Aylık <br /> Turnuvalar",
     "joinWhitelist": "Şimdi Beyaz Listeye <br /> Katıl",
     "betaTrading": "Beta Ticaret"
-  }
+  },
+  "TradeOverSec": {
+    "title": "500'den Fazla Farklı Varlık",
+    "categories": [
+      { "title": "Kripto", "subtitle": "BTC, ETH, SOL, PEPE, DOGE, TRUMP ve daha fazlasını kaldıraç ve gelişmiş ticaret araçlarıyla ticaret yapın." },
+      { "title": "Hisse Senetleri", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola ve daha fazlası. Sevdiğiniz hisse senedini saniyeler içinde satın alın." },
+      { "title": "Döviz", "subtitle": "USD, EUR, JPY, GBP, AUD ve daha fazlası. Dinamik döviz piyasasında 60'tan fazla döviz çiftini ticaret yapın." },
+      { "title": "Emtialar", "subtitle": "Altın, Gümüş, Petrol, Şeker ve daha fazlası. Portföyünüzü değerli hammaddelerle çeşitlendirin." },
+      { "title": "Endeksler", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC ve daha fazlası. En popüler endeksleri ticaret yapın." }
+    ]
+  },
+  "OneAppSec": {
+    "title": "Tek Bir Uygulamada Her Şey",
+    "subtitle": "Şimşek hızında ve yenilikçi bir ticaret çözümü",
+    "items": [
+      {
+        "title": "Herhangi bir Cihaz",
+        "description": "Kullanıcılar PC, Mac, iOS veya Android olsun, herhangi bir cihazdan işlem yapabilirler."
+      },
+      {
+        "title": "Teknik Araçlar",
+        "description": "Piyasa analizi ve karar verme süreçlerini geliştirmek için gelişmiş teknik araçlar."
+      },
+      {
+        "title": "Risk Yönetimi",
+        "description": "Riskleri en aza indirmek için kapsamlı risk yönetimi özellikleri."
+      },
+      {
+        "title": "Çoklu Grafikler",
+        "description": "Tüccarlar daha iyi piyasa içgörüleri için aynı anda birden fazla grafiği kullanabilirler."
+      }
+    ]
+  },
+  "EarnOnSec": {
+      "title": "BFX ile Günlük Kazanç",
+      "description": "BFX, işlem ücreti gelirine dayalı olarak günlük USDT ödülleri dağıtan ilk kripto para birimidir. BlockchainFX'te her işlem gerçekleştiğinde kazanç sağlarsınız. Ne kadar çok BFX tutarsanız, ödülleriniz o kadar yüksek olur; günlük maksimum 25.000 USDT'ye kadar.",
+      "button": "Bekleme listesine katıl"
+    }
   }

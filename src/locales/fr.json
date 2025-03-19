@@ -57,5 +57,42 @@
     "tournaments": "Tournois <br /> mensuels",
     "joinWhitelist": "Rejoignez la <br /> liste blanche maintenant",
     "betaTrading": "Trading Beta"
-  }
+  },
+  "TradeOverSec": {
+    "title": "Plus de 500 actifs différents",
+    "categories": [
+      { "title": "Crypto", "subtitle": "Tradez BTC, ETH, SOL, PEPE, DOGE, TRUMP et plus avec effet de levier et outils de trading avancés." },
+      { "title": "Actions", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola et bien d'autres. Achetez votre action préférée en quelques secondes." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD et plus. Tradez plus de 60 paires de devises sur le marché dynamique du forex." },
+      { "title": "Matières premières", "subtitle": "Or, Argent, Pétrole, Sucre et bien d'autres. Diversifiez votre portefeuille avec une large gamme de matières premières précieuses." },
+      { "title": "Indices", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC et bien d'autres. Tradez les indices les plus populaires." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Tout en une seule application",
+      "subtitle": "Une solution de trading ultra-rapide et innovante",
+      "items": [
+        {
+          "title": "Tout appareil",
+          "description": "Les utilisateurs peuvent trader depuis n'importe quel appareil, que ce soit un PC, Mac, iOS ou Android."
+        },
+        {
+          "title": "Outils techniques",
+          "description": "Des outils techniques avancés conçus pour améliorer l'analyse du marché et la prise de décision."
+        },
+        {
+          "title": "Gestion des risques",
+          "description": "Des fonctionnalités complètes de gestion des risques pour minimiser les risques."
+        },
+        {
+          "title": "Graphiques multiples",
+          "description": "Les traders peuvent utiliser plusieurs graphiques en même temps pour une meilleure compréhension du marché."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Gagnez chaque jour avec BFX",
+      "description": "BFX est la première cryptomonnaie à distribuer des récompenses quotidiennes en USDT en fonction des revenus des frais de transaction. À chaque transaction sur BlockchainFX, vous gagnez. Plus vous possédez de BFX, plus vos récompenses sont élevées, jusqu'à un maximum de 25 000 USDT par jour.",
+      "button": "Rejoindre la liste d'attente"
+    }
   }

@@ -57,6 +57,43 @@
       "tournaments": "毎月の <br /> トーナメント",
       "joinWhitelist": "ホワイトリストに <br /> 参加する",
       "betaTrading": "ベータ取引"
+    },
+    "TradeOverSec": {
+    "title": "500種類以上の異なる資産",
+    "categories": [
+      { "title": "暗号通貨", "subtitle": "BTC、ETH、SOL、PEPE、DOGE、TRUMPなどを、レバレッジと高度な取引ツールで取引。" },
+      { "title": "株式", "subtitle": "Apple、Tesla、Nvidia、Netflix、Coca Colaなど。お気に入りの株を数秒で購入。" },
+      { "title": "外国為替", "subtitle": "USD、EUR、JPY、GBP、AUDなど。ダイナミックな外国為替市場で60以上の通貨ペアを取引。" },
+      { "title": "商品", "subtitle": "金、銀、石油、砂糖など多くの貴重な原材料でポートフォリオを多様化。" },
+      { "title": "指数", "subtitle": "ダウ・ジョーンズ、S&P500、ナスダック、DAX、CACなど。人気の指数を取引。" }
+    ]
+  },
+  "OneAppSec": {
+      "title": "すべてが 1 つのアプリに",
+      "subtitle": "超高速で革新的な取引ソリューション",
+      "items": [
+        {
+          "title": "あらゆるデバイス",
+          "description": "ユーザーはPC、Mac、iOS、Androidのどのデバイスでも取引可能です。"
+        },
+        {
+          "title": "テクニカルツール",
+          "description": "市場分析と意思決定を強化するための高度な技術ツール。"
+        },
+        {
+          "title": "リスク管理",
+          "description": "リスクを最小限に抑えるための包括的なリスク管理機能。"
+        },
+        {
+          "title": "複数のチャート",
+          "description": "トレーダーは複数のチャートを同時に使用して、市場の洞察を深めることができます。"
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "BFXで毎日稼ぐ",
+      "description": "BFXは、取引手数料収益に基づいて毎日USDT報酬を配布する初の暗号通貨です。BlockchainFXで誰かが取引するたびに、あなたは報酬を得ます。保有するBFXが多いほど、報酬が増え、最大25,000 USDT/日まで獲得可能です。",
+      "button": "ウェイトリストに参加"
     }
   
   }

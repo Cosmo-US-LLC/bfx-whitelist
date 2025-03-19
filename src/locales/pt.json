@@ -57,5 +57,42 @@
       "tournaments": "Torneios <br /> mensais",
       "joinWhitelist": "Junte-se à <br /> lista branca agora",
       "betaTrading": "Negociação Beta"
+    },
+    "TradeOverSec": {
+    "title": "Mais de 500 ativos diferentes",
+    "categories": [
+      { "title": "Criptomoedas", "subtitle": "Negocie BTC, ETH, SOL, PEPE, DOGE, TRUMP e mais com alavancagem e ferramentas avançadas." },
+      { "title": "Ações", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola e muito mais. Compre sua ação favorita em segundos." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD e mais. Negocie mais de 60 pares de moedas no mercado dinâmico de forex." },
+      { "title": "Commodities", "subtitle": "Ouro, Prata, Petróleo, Açúcar e mais. Diversifique seu portfólio com uma ampla gama de matérias-primas valiosas." },
+      { "title": "Índices", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC e mais. Negocie os índices mais populares." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Tudo em um único aplicativo",
+      "subtitle": "Uma solução de negociação inovadora e ultrarrápida",
+      "items": [
+        {
+          "title": "Qualquer dispositivo",
+          "description": "Os usuários podem negociar em qualquer dispositivo, seja PC, Mac, iOS ou Android."
+        },
+        {
+          "title": "Ferramentas técnicas",
+          "description": "Ferramentas técnicas avançadas projetadas para melhorar a análise de mercado e a tomada de decisões."
+        },
+        {
+          "title": "Gestão de risco",
+          "description": "Recursos abrangentes de gestão de risco para minimizar os riscos."
+        },
+        {
+          "title": "Múltiplos gráficos",
+          "description": "Os traders podem usar vários gráficos ao mesmo tempo para obter melhores insights sobre o mercado."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Ganhe diariamente com BFX",
+      "description": "BFX é a primeira criptomoeda a distribuir recompensas diárias em USDT com base na receita das taxas de negociação. Sempre que alguém negocia na BlockchainFX, você ganha. Quanto mais BFX você possuir, maiores serão suas recompensas, até um máximo de 25.000 USDT por dia.",
+      "button": "Junte-se à lista de espera"
     }
   }

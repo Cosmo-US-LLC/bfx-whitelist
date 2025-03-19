@@ -57,5 +57,42 @@
     "tournaments": "Maandelijkse <br /> toernooien",
     "joinWhitelist": "Nu whitelist <br /> joinen",
     "betaTrading": "Beta-handel"
-  }
+  },
+  "TradeOverSec": {
+    "title": "Meer dan 500 verschillende activa",
+    "categories": [
+      { "title": "Crypto", "subtitle": "Handel in BTC, ETH, SOL, PEPE, DOGE, TRUMP en meer met hefboomwerking en geavanceerde handelsinstrumenten." },
+      { "title": "Aandelen", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola en meer. Koop uw favoriete aandeel in seconden." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD en meer. Handel in meer dan 60 valutaparen op de dynamische valutamarkt." },
+      { "title": "Grondstoffen", "subtitle": "Goud, Zilver, Olie, Suiker en nog veel meer. Diversifieer uw portefeuille met een breed scala aan waardevolle grondstoffen." },
+      { "title": "Indices", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC en meer. Handel in de populairste indices." }
+    ]
+  },
+  "OneAppSec": {
+      "title": "Alles in één app",
+      "subtitle": "Een razendsnelle en innovatieve handelsoplossing",
+      "items": [
+        {
+          "title": "Elk apparaat",
+          "description": "Gebruikers kunnen handelen vanaf elk apparaat, of het nu een pc, Mac, iOS of Android is."
+        },
+        {
+          "title": "Technische hulpmiddelen",
+          "description": "Geavanceerde technische hulpmiddelen om marktanalyses en besluitvorming te verbeteren."
+        },
+        {
+          "title": "Risicobeheer",
+          "description": "Uitgebreide risicobeheerfuncties om risico's te minimaliseren."
+        },
+        {
+          "title": "Meerdere grafieken",
+          "description": "Traders kunnen meerdere grafieken tegelijk gebruiken voor betere marktinzichten."
+        }
+      ]
+    },
+    "EarnOnSec": {
+      "title": "Verdien dagelijks met BFX",
+      "description": "BFX is de eerste cryptocurrency die dagelijkse USDT-beloningen uitkeert op basis van handelskosten. Elke keer dat iemand handelt op BlockchainFX, verdien je. Hoe meer BFX je bezit, hoe hoger je beloningen, tot een maximum van 25.000 USDT per dag.",
+      "button": "Word lid van de wachtlijst"
+    }
   }

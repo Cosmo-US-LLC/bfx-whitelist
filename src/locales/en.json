@@ -62,5 +62,42 @@
     "tournaments": "Monthly <br /> Tournaments",
     "joinWhitelist": "Join Whitelist Now",
     "betaTrading": "Beta Trading"
+  },
+  "TradeOverSec": {
+    "title": "More Than 500 Different Assets",
+    "categories": [
+      { "title": "Crypto", "subtitle": "Trade BTC, ETH, SOL, PEPE, DOGE, TRUMP, and more with leverage and advanced trading tools." },
+      { "title": "Stocks", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola and more. Buy your favorite stock in seconds." },
+      { "title": "Forex", "subtitle": "USD, EUR, JPY, GBP, AUD, and more. Trade over 60 currency pairs in the dynamic forex market." },
+      { "title": "Commodities", "subtitle": "Gold, Silver, Oil, Sugar, and many more. Diversify your portfolio with a wide range of valuable raw materials." },
+      { "title": "Indices", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC, and many more. Trade the most popular indices." }
+    ]
+  },
+  "OneAppSec": {
+    "title": "Everything In One App",
+    "subtitle": "A lightning-fast and innovative trading solution",
+    "items": [
+      {
+        "title": "Any Device",
+        "description": "Users can trade from any device, whether it's a PC, Mac, iOS, or Android."
+      },
+      {
+        "title": "Technical Tools",
+        "description": "Advanced technical tools designed to enhance market analysis and decision-making."
+      },
+      {
+        "title": "Risk Management",
+        "description": "Comprehensive risk management features to minimize risks."
+      },
+      {
+        "title": "Multiple Charts",
+        "description": "Traders can use multiple charts at the same time for better market insights."
+      }
+    ]
+  },
+  "EarnOnSec": {
+    "title": "Earn Daily With BFX",
+    "description": "BFX is the first cryptocurrency that distributes daily USDT rewards based on trading fee revenue. Every time someone trades on BlockchainFX, you earn. The more BFX you hold, the higher your rewards, up to a maximum of 25,000 USDT per day.",
+    "button": "Join the waitlist"
   }
-  }
+}

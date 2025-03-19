@@ -57,5 +57,42 @@
     "tournaments": "Giải đấu <br /> hàng tháng",
     "joinWhitelist": "Tham gia <br /> danh sách trắng ngay",
     "betaTrading": "Giao dịch beta"
+  },
+  "TradeOverSec": {
+    "title": "Hơn 500 tài sản khác nhau",
+    "categories": [
+      { "title": "Tiền điện tử", "subtitle": "Giao dịch BTC, ETH, SOL, PEPE, DOGE, TRUMP và nhiều hơn nữa với đòn bẩy và công cụ giao dịch tiên tiến." },
+      { "title": "Cổ phiếu", "subtitle": "Apple, Tesla, Nvidia, Netflix, Coca Cola và nhiều hơn nữa. Mua cổ phiếu yêu thích của bạn trong vài giây." },
+      { "title": "Ngoại hối", "subtitle": "USD, EUR, JPY, GBP, AUD và nhiều hơn nữa. Giao dịch hơn 60 cặp tiền tệ trong thị trường ngoại hối năng động." },
+      { "title": "Hàng hóa", "subtitle": "Vàng, Bạc, Dầu, Đường và nhiều hơn nữa. Đa dạng hóa danh mục đầu tư của bạn với nhiều nguyên liệu quý giá." },
+      { "title": "Chỉ số", "subtitle": "Dow Jones, S&P 500, Nasdaq, DAX, CAC và nhiều hơn nữa. Giao dịch các chỉ số phổ biến nhất." }
+    ]
+  },
+  "OneAppSec": {
+    "title": "Mọi thứ trong một ứng dụng",
+    "subtitle": "Giải pháp giao dịch nhanh như chớp và đổi mới",
+    "items": [
+      {
+        "title": "Mọi thiết bị",
+        "description": "Người dùng có thể giao dịch từ mọi thiết bị, dù là PC, Mac, iOS hay Android."
+      },
+      {
+        "title": "Công cụ kỹ thuật",
+        "description": "Các công cụ kỹ thuật tiên tiến giúp cải thiện phân tích thị trường và ra quyết định."
+      },
+      {
+        "title": "Quản lý rủi ro",
+        "description": "Tính năng quản lý rủi ro toàn diện để giảm thiểu rủi ro."
+      },
+      {
+        "title": "Nhiều biểu đồ",
+        "description": "Nhà giao dịch có thể sử dụng nhiều biểu đồ cùng lúc để có cái nhìn sâu sắc hơn về thị trường."
+      }
+    ]
+  },
+  "EarnOnSec": {
+    "title": "Kiếm tiền hàng ngày với BFX",
+    "description": "BFX là loại tiền điện tử đầu tiên phân phối phần thưởng USDT hàng ngày dựa trên doanh thu phí giao dịch. Mỗi khi ai đó giao dịch trên BlockchainFX, bạn sẽ nhận được phần thưởng. Càng nắm giữ nhiều BFX, phần thưởng càng cao, tối đa lên đến 25.000 USDT mỗi ngày.",
+    "button": "Tham gia danh sách chờ"
   }
   }
