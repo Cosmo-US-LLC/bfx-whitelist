@@ -101,10 +101,10 @@ function MobTraderReviewsSec() {
                         <img src={usern} className="h-[26px] w-[26px]" alt="" />
                         <div>
                             <div className="flex items-center space-x-2">
-                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]"> PrimeNic.eth</h3>
+                            <h3 className="text-[12px] text-[#fff] font-[600] leading-[140%]"> LacosteBtc</h3>
                             <img src={tick} alt="" />
                             </div>
-                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]"> @primenic_eth</h4>
+                            <h4 className="text-[#6A6A6A] text-[9px] font-[600] leading-[140%]"> @LacosteBtc</h4>
                             <h4 className="text-[#CFCFCF] text-[9px] font-[600] leading-[140%]">35.2K Followers</h4>
                         </div>
                     </div>
