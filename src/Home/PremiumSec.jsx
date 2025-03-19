@@ -25,7 +25,7 @@ const cards = [
     price: "$1,000",
     reviews: [true, false, false, false, false],
     points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const cards = [
     price: "$2,500",
     reviews: [true, true, false, false, false],
     points: ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const cards = [
     price: "$5,000",
     reviews: [true, true, true, false, false],
     points: ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 4,
@@ -59,7 +59,7 @@ const cards = [
       "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 5,
@@ -75,7 +75,7 @@ const cards = [
       "15% USDT Rewards",
       "$5000 Trading Credits",
     ],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 6,
@@ -91,7 +91,7 @@ const cards = [
       "20% USDT Rewards",
       "$10,000 Trading Credits",
     ],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
   {
     id: 7,
@@ -106,7 +106,7 @@ const cards = [
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
-    buttonLabel: "Join Whitelist Now",
+    buttonLabel: "Join the waitlist",
   },
 ];
 const Bundles = [

@@ -43,7 +43,7 @@ function MobExclusiveSec() {
       <div className="w-[90%] mx-auto relative">
         <div>
           <h3 className="text-[30px] capitalize leading-[100%] text-[#181A20] text-center font-[700]">
-          Exclusive Benefits <br /> During the Presale
+          Exclusive Benefits <br /> During the BFX Presale
           </h3>
         </div>
         <div className="pt-[22px] w-[90%] mx-auto ">

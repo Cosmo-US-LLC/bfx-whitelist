@@ -36,7 +36,7 @@ function TheUltimateSec() {
             <button 
              
             className="text-white bg-[#E5AE00]  hover:text-[#FFF] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#fff] rounded-[8px] max-w-[164px] px-4 w-[100%] h-[39px]">
-              Join Whitelist Now
+              Join the waitlist
             </button>
             </a>
             <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[140px]">
