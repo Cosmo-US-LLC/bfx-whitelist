@@ -37,7 +37,7 @@ function MobTheUltimateSec() {
             <button className="text-white bg-[#E5AE00] px-[12px] hover:text-white hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#E5AE00] rounded-[8px] w-[158px] h-[40px]"
             onClick={handleScroll}
             >
-              Join Waitlist Now
+              Join the waitlist
             </button>
             </a>
             <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[140px]">
