@@ -136,7 +136,7 @@ function JoinWhitelistEarly() {
               rel="noopener noreferrer"
             >
           <button className="text-white mt-4 bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
-          Join Waitlist Now
+          Join the waitlist
           </button>
           </a>
         </div>

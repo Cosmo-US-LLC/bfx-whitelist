@@ -51,7 +51,7 @@ function MobileHero() {
             <button 
              onClick={handleScroll}
             className="text-white bg-[#E5AE00] px-[14px] hover:text-black hover:bg-transparent text-[14px] font-[700] border border-[#E5AE00] hover:border-[#000] rounded-[8px]  h-[48px]">
-              Join Waitlist Now
+              Join the waitlist
             </button>
             </a>
             <a href="https://blockchainfx.com/whitepaper.pdf" target="_blank" className="" rel="noopener noreferrer">
