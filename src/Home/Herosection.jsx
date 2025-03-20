@@ -44,7 +44,7 @@ function Herosection() {
                  
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Join the waitlist
+                Join the Whitelist
               </button>
             </a>
             <a
@@ -67,7 +67,7 @@ function Herosection() {
           </div>
          </div>
           <div className="flex justify-end max-w-[619px]">
-            <img src={herogif} className="max-h-[450px]" alt="" />
+            <img src={herogif} loading="lazy" className="max-h-[450px]" alt="" />
             {/* <video
               width={600}
               height={450}

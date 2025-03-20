@@ -53,7 +53,7 @@ function HyperGrowthSec() {
             </div>
           </div>
           <div>
-            <img src={graph} alt="" className="" />
+            <img loading="lazy" src={graph} alt="" className="" />
           </div>
         </div>
         <p className="text-[14px] font-[400] max-w-[908px] mx-auto w-[100%] text-center leading-[21px] text-[#181A20] tracking-[-0.32px]">
@@ -69,7 +69,7 @@ function HyperGrowthSec() {
             onClick={handleScroll}
             className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
           >
-            Join the waitlist
+            Join the Whitelist
           </button>
           </a>
         </div>

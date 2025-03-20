@@ -65,6 +65,7 @@ function OneAppSec() {
                         src={item.icon}
                         alt={item.title}
                         className="w-[75.387px] h-[75.387px]"
+                        loading="lazy"
                       />
                     </div>
                     <div className="w-[80%]">

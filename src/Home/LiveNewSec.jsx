@@ -17,7 +17,7 @@ function LiveNewSec() {
           </p>
         </div>
         <div>
-          <img className="object-cover" src={liveming} alt="" />
+          <img className="object-cover" loading="lazy" src={liveming} alt="" />
         </div>
       </div>
     </div>

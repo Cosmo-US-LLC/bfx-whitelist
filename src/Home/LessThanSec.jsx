@@ -24,7 +24,7 @@ function LessThanSec() {
           </h4> */}
           <div className="relative">
             <div className="flex justify-center">
-              <img src={graph} alt="" className="h-[321px] w-[321px]" />
+              <img src={graph} loading="lazy" alt="" className="h-[321px] w-[321px]" />
             </div>
             <p className="text-[#6F6F6F] -top-3 left-[28%] absolute text-[15px] font-[700] tracking-[-0.787px]">
               Bonds: $1.1 Trillion (11.42%)

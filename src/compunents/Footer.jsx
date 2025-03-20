@@ -47,7 +47,14 @@ function Footer() {
                     href=""
                     onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                   >
-                    Waitlist
+                    Whitelist
+                  </a><br />
+                  <a
+                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
+                    href=""
+                    onClick={(e) => handleScroll(e, "roadmap", 90)}
+                  >
+                    Roadmap
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
@@ -55,13 +62,6 @@ function Footer() {
                     onClick={(e) => handleScroll(e, "what-is-bfx-coin", 90)}
                   >
                     What is BFX?
-                  </a>
-                  <a
-                    className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
-                    href=""
-                    onClick={(e) => handleScroll(e, "roadmap", 90)}
-                  >
-                    Roadmap
                   </a>
                   <a
                     className="text-[#949494] block text-[10.8px] pt-[10px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
@@ -77,14 +77,14 @@ function Footer() {
               <ul className=" w-[100%]">
                 <li className="text-[#000] text-[13.3px] list-disc font-[600] leading-[108.333%] min-w-[140px]">
                   Docs <br />
-                  <Link to="/terms-of-service" className="text-blue-600 ">
+                  <Link to="/privacy-policy" className="text-blue-600 ">
                     <p className="text-[#949494] text-[10.8px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
-                      Terms of Service
+                      Privacy Policy{" "}
                     </p>
                   </Link><br />
-                  <Link to="/privacy-policy" className="text-blue-600 ">
+                  <Link to="/terms-of-service" className="text-blue-600 ">
                     <p className="text-[#949494] text-[10.8px] pt-[10px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
-                      Privacy Policy{" "}
+                      Terms of Service
                     </p>
                   </Link><br />
                   <Link to="/token-sale" className="text-blue-600 ">
@@ -203,7 +203,14 @@ function Footer() {
                   href=""
                   onClick={(e) => handleScroll(e, "join-whitelist", 60)}
                 >
-                  Waitlist
+                  Whitelist
+                </a><br />
+                <a
+                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
+                  href=""
+                  onClick={(e) => handleScroll(e, "roadmap", 90)}
+                >
+                  Roadmap
                 </a><br />
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
@@ -233,14 +240,14 @@ function Footer() {
             <ul className=" w-[100%]">
               <li className="text-[#000] text-[16px] font-[600] leading-[108.333%]">
                 Docs <br />
-                <Link to="/terms-of-service" className="text-blue-600 ">
-                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
-                    Terms of Service
-                  </p>
-                </Link><br />
                 <Link to="/privacy-policy" className="text-blue-600 ">
                   <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
                     Privacy Policy{" "}
+                  </p>
+                </Link><br />
+                <Link to="/terms-of-service" className="text-blue-600 ">
+                  <p className="text-[#949494] text-[13px] pt-[20px] block font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block">
+                    Terms of Service
                   </p>
                 </Link><br />
                 <Link to="/token-sale" className="text-blue-600 ">
