@@ -222,13 +222,6 @@ function Footer() {
                 <a
                   className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
                   href=""
-                  onClick={(e) => handleScroll(e, "roadmap", 90)}
-                >
-                  Roadmap
-                </a><br />
-                <a
-                  className="text-[#949494] block text-[13px] pt-[20px] font-[400] leading-[108.333%] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block"
-                  href=""
                   onClick={(e) => handleScroll(e, "tokenomics", 90)}
                 >
                   Token Allocation
