@@ -32,25 +32,25 @@ function MobWhatIsSec() {
         </div>
         <div className="max-w-[400px] pt-[20px] flex-wrap mx-auto flex justify-center gap-[0.8rem] items-center">
           <div className="py-[8px] w-[164px] rounded-[4px]  flex pl-[15px] space-x-1 items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[19px] h-[19px] " alt="" />
+            <img  loading="lazy" src={check} className="w-[19px] h-[19px] " alt="" />
             <p className="text-[10px] font-[500] tracking-[-0.32px]">Early Access</p>
           </div>
           <div className="py-[8px] w-[164px] rounded-[4px]  flex pl-[15px] space-x-1 items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[19px] h-[19px] " alt="" />
+            <img  loading="lazy" src={check} className="w-[19px] h-[19px] " alt="" />
             <p className="text-[10px] font-[500] tracking-[-0.32px]">Daily Staking Rewards</p>
           </div>
           <div className="py-[8px] w-[164px] rounded-[4px]  flex pl-[15px] space-x-1 items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[19px] h-[19px] " alt="" />
+            <img  loading="lazy" src={check} className="w-[19px] h-[19px] " alt="" />
             <p className="text-[10px] font-[500] tracking-[-0.32px]">70% Less Trading Fees</p>
           </div>
           <div className="py-[8px] w-[164px] rounded-[4px]  flex pl-[15px] space-x-1 items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[19px] h-[19px] " alt="" />
+            <img  loading="lazy" src={check} className="w-[19px] h-[19px] " alt="" />
             <p className="text-[10px] font-[500] tracking-[-0.32px]">Trading Credits</p>
           </div>
           
         </div>
         <div className="max-w-[664px] w-[100%] mx-auto pt-[1rem] pb-[5rem]">
-          <img src={whatisimg} className="" alt="" />
+          <img  loading="lazy" src={whatisimg} className="" alt="" />
           {/* <video
             width={500}
             height={410}

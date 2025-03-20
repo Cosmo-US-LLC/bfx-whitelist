@@ -25,27 +25,27 @@ function MobSecurityBuiltSec() {
         <div className=" grid grid-cols-2 gap-y-[3rem]  " 
         >
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon1} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon1} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">PCI  <br /> DSS</h4>
           </div>
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon2} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon2} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Enhanced <br />Data Privacy</h4>
           </div>
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon3} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon3} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Live Monitoring and  <br />Threat Detection </h4>
           </div>
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon4} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon4} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Third-Party  <br />Risk Management</h4>
           </div>
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon5} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon5} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Data backups and  <br />disaster recovery</h4>
           </div>
           <div className=" flex flex-col mx-auto space-y-[10px] justyfy-center items-center w-[100%]">
-            <img src={cardicon6} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon6} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">GDPR  <br /> compliant</h4>
           </div>
         </div>

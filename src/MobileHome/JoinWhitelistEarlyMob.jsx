@@ -16,6 +16,7 @@ function JoinWhitelistEarlyMob() {
           </p>
           <img
             src={joinWhitelistMobImages}
+            loading="lazy"
             className="min-h-[239px] w-[252px] object-cover"
             alt=""
           />

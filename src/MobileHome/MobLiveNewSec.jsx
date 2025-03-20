@@ -15,7 +15,7 @@ function MobLiveNewSec() {
             </p>
           </div>
           <div className="min-h-[1000px] pt-1 flex relative justify-center">
-            <img className="absolute" src={liveming} alt="" />
+            <img  loading="lazy" className="absolute" src={liveming} alt="" />
           </div>
       </div>
     </div>

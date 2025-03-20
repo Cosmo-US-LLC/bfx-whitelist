@@ -52,7 +52,7 @@ function MobHyperGrowthSec() {
             </div>
           </div>
           <div>
-            <img src={graph} alt="" />
+            <img src={graph}  loading="lazy" alt="" />
           </div>
         </div>
         <div>

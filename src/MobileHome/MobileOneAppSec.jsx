@@ -66,6 +66,7 @@ function MobileOneAppSec() {
                   <div className="flex w-[100%] justify-between items-center space-x-4 space-y-[15px]">
                     <div>
                       <img
+                      loading="lazy"
                         src={item.icon}
                         alt={item.title}
                         className="w-[61.446px] h-[61.446px]"
@@ -104,7 +105,7 @@ function MobileOneAppSec() {
           </div>
         </div>
         <div className="w-[100%] flex justify-center">
-        <img src={oneimg} className="object-cover" alt="" />
+        <img src={oneimg} loading="lazy" className="object-cover" alt="" />
         </div>
       </div>
      </div>

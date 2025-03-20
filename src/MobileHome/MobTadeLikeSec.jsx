@@ -80,7 +80,7 @@ function MobTadeLikeSec() {
             className="flex justify-between items-center border border-[#9D9D9D] rounded-[100px] px-[23px] py-[20px]">
               <div className="flex items-center space-x-8">
                 <div className="max-w-[28.512px] w-[100%]">
-                  <img src={trd1cn3} alt="" />
+                  <img  loading="lazy" src={trd1cn3} alt="" />
                 </div>
                 <h4 className="text-[15px] font-[600] text-[#181A20]">
                 Volatility
@@ -97,7 +97,7 @@ function MobTadeLikeSec() {
             className="flex justify-between items-center border border-[#9D9D9D] rounded-[100px] px-[23px] py-[20px]">
               <div className="flex items-center space-x-8">
                 <div className="max-w-[28.512px] w-[100%]">
-                  <img src={trd1cn4} alt="" />
+                  <img  loading="lazy" src={trd1cn4} alt="" />
                 </div>
                 <h4 className="text-[15px] font-[600] text-[#181A20]">
                 Moving Averages
@@ -114,7 +114,7 @@ function MobTadeLikeSec() {
             className="flex justify-between items-center border border-[#9D9D9D] rounded-[100px] px-[23px] py-[20px]">
               <div className="flex items-center space-x-8">
                 <div className="max-w-[28.512px] w-[100%]">
-                  <img src={trd1cn5} alt="" />
+                  <img  loading="lazy" src={trd1cn5} alt="" />
                 </div>
                 <h4 className="text-[15px] font-[600] text-[#181A20]">
                 Volume
@@ -131,7 +131,7 @@ function MobTadeLikeSec() {
             className="flex justify-between items-center border border-[#9D9D9D] rounded-[100px] px-[23px] py-[20px]">
               <div className="flex items-center space-x-8">
                 <div className="max-w-[28.512px] w-[100%]">
-                  <img src={trd1cn6} alt="" />
+                  <img  loading="lazy" src={trd1cn6} alt="" />
                 </div>
                 <h4 className="text-[15px] font-[600] text-[#181A20]">
                 Others
