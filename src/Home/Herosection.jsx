@@ -67,7 +67,7 @@ function Herosection() {
           </div>
          </div>
           <div className="flex justify-end max-w-[619px]">
-            <img src={herogif} loading="lazy" className="max-h-[450px]" alt="" />
+            <img src={herogif} className="max-h-[450px]" alt="" />
             {/* <video
               width={600}
               height={450}
