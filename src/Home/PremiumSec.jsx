@@ -228,8 +228,11 @@ function PremiumSec() {
                       <div className="flex justify-between py-[14px]">
                         <div>
                           <h3 className="text-[#000] flex flex-col justify-end text-[16.966px] font-[600] leading-[115%]">
-                             <div>
-                             {card.title} <span className="text-start text-[12px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
+                             <div className="flex items-center space-x-[10px]">
+                              <div>
+                              {card.title} 
+                              </div>
+                             <div className="text-start text-[12px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</div> 
                               </div> <br />
                             <span className="text-[#7C7C7C] text-start text-[15.27px] font-[600]">
                               {card.price}
