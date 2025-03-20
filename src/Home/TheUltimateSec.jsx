@@ -39,8 +39,8 @@ function TheUltimateSec() {
               Join the Whitelist
             </button>
             </a>
-            <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[140px]">
-            <button className="hover:text-white hover:bg-[#E5AE00]  text-[#FFF] bg-transparent text-[14px] font-[500]  border hover:border-[#E5AE00] border-[#fff] rounded-[8px] !max-w-[140px] w-[100%] h-[39px]">
+            <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[160px]">
+            <button className="hover:text-white hover:bg-[#E5AE00]  text-[#FFF] bg-transparent text-[14px] font-[500]  border hover:border-[#E5AE00] border-[#fff] rounded-[8px] !max-w-[160px] w-[100%] h-[39px]">
             Start Trading (Beta)
             </button>
             </a>

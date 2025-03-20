@@ -40,8 +40,8 @@ function MobTheUltimateSec() {
               Join the Whitelist
             </button>
             </a>
-            <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[140px]">
-            <button className="hover:text-white text-[#fff] px-[12px] hover:bg-[#E5AE00]  bg-transparent text-[14px] font-[1000] border hover:border-[#E5AE00] border-[#E5AE00] rounded-[8px] w-[140px] h-[40px]">
+            <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[170px]">
+            <button className="hover:text-white text-[#fff] px-[12px] hover:bg-[#E5AE00]  bg-transparent text-[14px] font-[1000] border hover:border-[#E5AE00] border-[#E5AE00] rounded-[8px] w-[170px] h-[40px]">
            Start Trading (Beta)
             </button>
             </a>
