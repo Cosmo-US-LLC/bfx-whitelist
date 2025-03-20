@@ -48,7 +48,7 @@ function Herosection() {
               </button>
             </a>
             <a
-              href="https://blockchainfx.com/whitepaper.pdf"
+              href="https://blockchainfx.com/BFX-Whitepaper.pdf"
               className="!w-[138px]"
               target="_blank"
               rel="noopener noreferrer"
