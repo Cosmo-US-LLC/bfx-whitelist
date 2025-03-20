@@ -27,7 +27,7 @@ const cardsmob = [
     price: "$1,000",
     reviews: [true, false, false, false, false],
     points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const cardsmob = [
     price: "$2,500",
     reviews: [true, true, false, false, false],
     points: ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const cardsmob = [
     price: "$5,000",
     reviews: [true, true, true, false, false],
     points: ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 4,
@@ -61,7 +61,7 @@ const cardsmob = [
       "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 5,
@@ -77,7 +77,7 @@ const cardsmob = [
       "15% USDT Rewards",
       "$5000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 6,
@@ -93,7 +93,7 @@ const cardsmob = [
       "20% USDT Rewards",
       "$10,000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 7,
@@ -108,7 +108,7 @@ const cardsmob = [
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
 ];
 
@@ -210,6 +210,7 @@ function MobilePremiumSec() {
                   >
                     <div>
                       <img
+                      loading="lazy"
                         src={card.img}
                         className="rounded-[4px]"
                         alt={card.title}
@@ -217,14 +218,15 @@ function MobilePremiumSec() {
 
                       <div className="flex justify-between pt-[15px] pb-[10px]">
                         <div>
-                          <h3 className="text-[#000] flex flex-col justify-end text-[16px] font-[600] leading-[115%]">
-                            <span>
-                             {card.title} <span className="text-start text-[10px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
-                              </span>
+                          <div className="text-[#000] space-y-[2px] flex flex-col justify-end text-[16px] font-[600] leading-[115%]">
+                            <div className="flex ites-center space-x-[10px]">
+                              <h3>{card.title}</h3>
+                              <h4 className="text-start text-[10px] px-[7px] py-[1px] border-[#000] ml-1 border font-[600]">NFT</h4> 
+                              </div>
                             <span className="text-[#7C7C7C] text-start text-[15px] font-[600]">
                               {card.price}
                             </span>
-                          </h3>
+                          </div>
                         </div>
 
                         <ul className="flex items-center justify-center">

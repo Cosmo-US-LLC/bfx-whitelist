@@ -47,7 +47,7 @@ function MobileTradeOverSec() {
             }}
             >
                 <div className="w-[100%]">
-                    <img src={item.img} className='w-[100%] rounded-[8px]' alt="" />
+                    <img loading="lazy" src={item.img} className='w-[100%] rounded-[8px]' alt="" />
                 </div>
                 <div className="space-y-[13px]">
                     <h3 className="text-[20px] text-[#181A20] font-[600] leading-[140%] tracking-[-0.32px]">{item.title}</h3>

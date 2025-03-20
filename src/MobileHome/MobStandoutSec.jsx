@@ -34,7 +34,7 @@ function MobStandoutSec() {
             <div className="flex">
               <div className="h-[91px] w-[70%]"></div>
               <div className="h-[91px] border-l border-r  border-[#A6A6A6] bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img className="h-[41.126px] w-[41.126px]" src={coin1} alt="" />
+                <img  loading="lazy" className="h-[41.126px] w-[41.126px]"  src={coin1} alt="" />
                 <h3 className="text-[#545454] leading-[8.902px] font-[700] text-[8.902px]">
                   BlockchainFX
                 </h3>
@@ -96,10 +96,10 @@ function MobStandoutSec() {
                 </h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -109,10 +109,10 @@ function MobStandoutSec() {
                 </h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -122,10 +122,10 @@ function MobStandoutSec() {
                 </h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -133,10 +133,10 @@ function MobStandoutSec() {
                 <h3 className="text-[15px] font-[500] leading-[120%]">Forex</h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -146,10 +146,10 @@ function MobStandoutSec() {
                 </h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -159,10 +159,10 @@ function MobStandoutSec() {
                 </h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -170,10 +170,10 @@ function MobStandoutSec() {
                 <h3 className="text-[15px] font-[500] leading-[120%]">CFDs</h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
             <div className="flex">
@@ -181,10 +181,10 @@ function MobStandoutSec() {
                 <h3 className="text-[15px] font-[500] leading-[120%]">ETFs</h3>
               </div>
               <div className=" border-t border-[#A6A6A6] border-l border-r bg-[#FFF8DC] justify-center flex flex-col items-center space-y-[6px] w-[30%]">
-                <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
               </div>
               {/* <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[30%]">
-                        <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                        <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                         </div> */}
             </div>
           </div>
@@ -237,42 +237,42 @@ function MobStandoutSec() {
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                 </div>
@@ -314,42 +314,42 @@ function MobStandoutSec() {
                   </div>
                   <div className="flex">
                     <div className=" py-[14px] h-[49px] px-[10px] border-t border-[#A6A6A6] border-r  justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className=" border-t py-[14px] h-[49px] px-[10px] border-[#A6A6A6] border-r justify-center flex flex-col items-center space-y-[6px] w-[100%]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                 </div>
@@ -391,42 +391,42 @@ function MobStandoutSec() {
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check1} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check1} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                   <div className="flex">
                     <div className="justify-center border-t border-[#A6A6A6] flex flex-col items-center space-y-[6px] w-[100%] h-[49px]">
-                      <img src={check2} className="h-[15px] w-[15px]" alt="" />
+                      <img  loading="lazy" src={check2} className="h-[15px] w-[15px]" alt="" />
                     </div>
                   </div>
                 </div>

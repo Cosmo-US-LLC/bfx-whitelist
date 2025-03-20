@@ -24,8 +24,8 @@ function MobileLessThanSec() {
           </h4>
           <div className="relative">
             <div className="flex justify-end">
-              <img src={graph} className="max-w-[236px] max-h-[236px]" alt="" />
-            </div>
+              <img src={graph}  loading="lazy" className="max-w-[236px] max-h-[236px]" alt="" />
+            </div> 
             <p className="text-[#6F6F6F] top-[-14%] left-[41%] absolute leading-[110%] text-[10px] font-[700] tracking-[-0.787px]">
               Bonds: <br /> $1.1 trillion (11.42%)
             </p>

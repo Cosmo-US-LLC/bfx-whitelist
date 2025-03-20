@@ -21,7 +21,7 @@ export default function Whitepaper() {
         <div className="p-6 max-w-[1080px] space-x-[3rem] min-h-[454px] border border-1 border-[#B0B0B0] flex flex-row items-center rounded-[13px]">
           <div className="w-[50%]">
             <div className="w-full p-2">
-              <img src={whitepaper} className="w-[453px] h-auto object-cover" alt="whitepaper" />
+              <img src={whitepaper} loading="lazy" className="w-[453px] h-auto object-cover" alt="whitepaper" />
             </div>
           </div>
           <div className="w-[50%] max-w-[460px] space-y-4 pl-4">
@@ -44,10 +44,10 @@ export default function Whitepaper() {
                 onClick={handleScroll}
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Join the waitlist
+                Join the Whitelist
               </button>
               </a>
-              <a href="https://blockchainfx.com/whitepaper.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://blockchainfx.com/BFX-Whitepaper.pdf" target="_blank" rel="noopener noreferrer">
               <button className="hover:text-white hover:bg-[#E5AE00] px-[10px] text-black bg-transparent text-[14px] font-[800] border hover:border-[#E5AE00] border-[#000] rounded-[8px] max-w-[165px] w-[100%] h-[39px]">
               Access Whitepaper
             </button>

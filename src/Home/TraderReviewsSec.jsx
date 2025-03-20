@@ -79,7 +79,7 @@ function TraderReviewsSec() {
 
             <div className="w-[100%] relative flex flex-col h-[500px] justify-center overflow-y-hidden overflow-x-auto">
               <div className="relative h-[20px] rounded-[60px] ">
-                <img
+                <img loading="lazy"
                   src={tradimg}
                   className="h-[435px] absolute w-[330px] top-[-200%]  !z-[1] "
                   alt=""
@@ -89,14 +89,14 @@ function TraderReviewsSec() {
               <div className="relative pt-[2rem]">
                 <div className="max-w-[100px] w-[100%] flex space-x-2 ml-auto">
                   <button className="swiper-button-prev !w-[40px] !h-[40px]  absolute z-10 !left-[80%] !top-[-10%]  ">
-                    <img
+                    <img loading="lazy"
                       className="w-[50.545px] h-[50.545px] "
                       src={swpbtnl}
                       alt=""
                     />
                   </button>
                   <button className="swiper-button-next !w-[40px] !h-[40px]  absolute z-10 !right-[6%] !top-[-10%] ">
-                    <img
+                    <img loading="lazy"
                       className="w-[50.545px] h-[50.545px]"
                       src={swpbtnr}
                       alt=""
@@ -120,13 +120,13 @@ function TraderReviewsSec() {
                       Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={usern} alt="" />
+                        <img loading="lazy" src={usern} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             LacosteBtc
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @LacosteBtc
@@ -145,13 +145,13 @@ function TraderReviewsSec() {
                       Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user1} alt="" />
+                        <img loading="lazy" src={user1} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             Mr 𝕏
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @MrX_Crypto
@@ -170,13 +170,13 @@ function TraderReviewsSec() {
                       BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there’s no need to waste time switching between brokers.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user2} alt="" />
+                        <img loading="lazy" src={user2} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             Silvina Escudero
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @silvinaescudero
@@ -195,13 +195,13 @@ function TraderReviewsSec() {
                       The best part about BlockchainFX? The deep liquidity across all assets. I’ve never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user3} alt="" />
+                        <img loading="lazy" src={user3} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             DefiAva🦋
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @defi_avaxx
@@ -220,13 +220,13 @@ function TraderReviewsSec() {
                       BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto! 
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user4} alt="" />
+                        <img loading="lazy" src={user4} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             Honey.Eth
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @HoneyEth_
@@ -245,13 +245,13 @@ function TraderReviewsSec() {
                       That’s exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.
                       </p>
                       <div className="flex items-center space-x-2">
-                        <img src={user5} alt="" />
+                        <img loading="lazy" src={user5} alt="" />
                         <div>
                           <div className="flex items-center space-x-2">
                             <h3 className="text-[15px] text-[#fff] font-[600] leading-[140%]">
                             Crypto Bri
                             </h3>
-                            <img src={tick} alt="" />
+                            <img loading="lazy" src={tick} alt="" />
                           </div>
                           <h4 className="text-[#6A6A6A] text-[10px] font-[600] leading-[140%]">
                           @cryptobri_

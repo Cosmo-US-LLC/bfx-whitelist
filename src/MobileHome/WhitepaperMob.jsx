@@ -31,7 +31,7 @@ export default function WhitepaperMob() {
           </div>
           <div className="w-[100%]">
             <div className="w-full p-2">
-              <img src={whitepaper} className="w-[453px] h-auto object-cover" alt="whitepaper" />
+              <img  loading="lazy" src={whitepaper} className="w-[453px] h-auto object-cover" alt="whitepaper" />
             </div>
           </div>
             <div className="flex flex-col items-center justify-center w-full gap-4 ">
@@ -44,10 +44,10 @@ export default function WhitepaperMob() {
                 onClick={handleScroll}
                 className="text-white bg-[#E5AE00]   hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px]  px-[72px] w-[100%] h-[39px]"
               >
-               Join the waitlist
+               Join the Whitelist
               </button>
               </a>
-              <a href="https://blockchainfx.com/whitepaper.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://blockchainfx.com/BFX-Whitepaper.pdf" target="_blank" rel="noopener noreferrer">
               <button className="hover:text-white hover:bg-[#E5AE00]   text-black bg-transparent text-[14px] font-[800] border hover:border-[#E5AE00] border-[#000] rounded-[8px] px-[68px]    w-[100%] h-[39px]">
               Access Whitepaper
             </button>

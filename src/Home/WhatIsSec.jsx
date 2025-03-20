@@ -34,19 +34,19 @@ function WhatIsSec() {
         </div>
         <div className="max-w-[690px] pt-[30px] mx-auto flex justify-between items-center">
           <div className="p-[10px] rounded-[4px] flex justify-between items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[24px] h-[24px] " alt="" />
+            <img loading="lazy" src={check} className="w-[24px] h-[24px] " alt="" />
             <p className="text-[14px] font-[500] tracking-[-0.32px]">Early Access</p>
           </div>
           <div className="p-[10px] rounded-[4px] flex justify-between items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[24px] h-[24px] " alt="" />
+            <img loading="lazy" src={check} className="w-[24px] h-[24px] " alt="" />
             <p className="text-[14px] font-[500] tracking-[-0.32px]">Daily Staking Rewards</p>
           </div>
           <div className="p-[10px] rounded-[4px] flex justify-between items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[24px] h-[24px] " alt="" />
+            <img loading="lazy" src={check} className="w-[24px] h-[24px] " alt="" />
             <p className="text-[14px] font-[500] tracking-[-0.32px]">70% Less Trading Fees</p>
           </div>
           <div className="p-[10px] rounded-[4px] flex justify-between items-center border border-[#D2D2D2]">
-            <img src={check} className="w-[24px] h-[24px] " alt="" />
+            <img loading="lazy" src={check} className="w-[24px] h-[24px] " alt="" />
             <p className="text-[14px] font-[500] tracking-[-0.32px]">Trading Credits</p>
           </div>
           
@@ -54,6 +54,7 @@ function WhatIsSec() {
         <div className="max-w-[664px] w-[100%] mx-auto mt-[-1rem] pb-[7rem]">
           <img
             src={whatisimg}
+            loading="lazy"
             className="!ml-[70px] max-w-[519px] h-[454px] pt-[40px]"
             alt=""
           />
@@ -68,7 +69,7 @@ function WhatIsSec() {
           <button
             className="text-white bg-[#E5AE00]  px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
           >
-            Join the waitlist
+            Join the Whitelist
           </button>
               </a>
           </a>

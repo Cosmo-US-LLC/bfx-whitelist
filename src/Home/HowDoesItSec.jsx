@@ -65,7 +65,7 @@ function HowDoesItSec() {
       ))}
         </div>
         <div className="w-[50%] flex justify-end max-w-[310px]">
-        <img src={howimg} className="object-cover" alt="" />
+        <img src={howimg} className="object-cover" loading="lazy" alt="" />
         </div>
       </div>
      </div>

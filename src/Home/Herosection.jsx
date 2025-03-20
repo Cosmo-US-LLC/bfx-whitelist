@@ -44,11 +44,11 @@ function Herosection() {
                  
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Join the waitlist
+                Join the Whitelist
               </button>
             </a>
             <a
-              href="https://blockchainfx.com/whitepaper.pdf"
+              href="https://blockchainfx.com/BFX-Whitepaper.pdf"
               className="!w-[138px]"
               target="_blank"
               rel="noopener noreferrer"

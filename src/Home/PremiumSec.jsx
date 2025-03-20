@@ -25,7 +25,7 @@ const cards = [
     price: "$1,000",
     reviews: [true, false, false, false, false],
     points: ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const cards = [
     price: "$2,500",
     reviews: [true, true, false, false, false],
     points: ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const cards = [
     price: "$5,000",
     reviews: [true, true, true, false, false],
     points: ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 4,
@@ -59,7 +59,7 @@ const cards = [
       "10% USDT Rewards",
       "$2000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 5,
@@ -75,7 +75,7 @@ const cards = [
       "15% USDT Rewards",
       "$5000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 6,
@@ -91,7 +91,7 @@ const cards = [
       "20% USDT Rewards",
       "$10,000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
   {
     id: 7,
@@ -106,7 +106,7 @@ const cards = [
       "30% USDT Rewards",
       "$25,000 Trading Credits",
     ],
-    buttonLabel: "Join the waitlist",
+    buttonLabel: "Join the Whitelist",
   },
 ];
 const Bundles = [
@@ -220,6 +220,7 @@ function PremiumSec() {
                     <div>
                       <img
                         src={card.img}
+                        loading="lazy"
                         className="rounded-[8px] max-h-[190px]"
                         alt={card.title} 
                       />
@@ -227,9 +228,12 @@ function PremiumSec() {
                       <div className="flex justify-between py-[14px]">
                         <div>
                           <h3 className="text-[#000] flex flex-col justify-end text-[16.966px] font-[600] leading-[115%]">
-                             <span>
-                             {card.title} <span className="text-start text-[12px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
-                              </span> <br />
+                             <div className="flex items-center space-x-[10px]">
+                              <div>
+                              {card.title} 
+                              </div>
+                             <div className="text-start text-[12px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</div> 
+                              </div> <br />
                             <span className="text-[#7C7C7C] text-start text-[15.27px] font-[600]">
                               {card.price}
                             </span>

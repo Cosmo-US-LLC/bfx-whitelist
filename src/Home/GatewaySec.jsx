@@ -28,7 +28,7 @@ function GatewaySec() {
             <li className="h-[83px]"></li>
             <li className="flex space-x-3 px-[18px] items-center h-[65px]">
               <div className="w-[65px]">
-                <img src={icon1} alt="" className="w-[37px]" />
+                <img loading="lazy" src={icon1} alt="" className="w-[37px]" />
               </div>
               <span className="text-[#181A20] text-[20px] font-[700] tracking-[-1px]">
                 Costs
@@ -36,7 +36,7 @@ function GatewaySec() {
             </li>
             <li className="flex space-x-3 px-[18px] items-center h-[65px] border-t border-[#C2C2C2]">
               <div className="w-[65px]">
-                <img src={icon2} alt="" className="w-[36px]" />
+                <img loading="lazy" src={icon2} alt="" className="w-[36px]" />
               </div>
               <span className="text-[#181A20] text-[20px] font-[700] tracking-[-1px]">
                 Time{" "}
@@ -44,7 +44,7 @@ function GatewaySec() {
             </li>
             <li className="flex space-x-3 px-[18px] items-center h-[65px] border-t border-[#C2C2C2]">
               <div className="w-[65px]">
-                <img src={icon3} alt="" className="w-[46px]" />
+                <img loading="lazy" src={icon3} alt="" className="w-[46px]" />
               </div>
               <span className="text-[#181A20] text-[20px] font-[700] tracking-[-1px]">
                 Team
@@ -52,7 +52,7 @@ function GatewaySec() {
             </li>
             <li className="flex space-x-3 px-[18px] items-center h-[65px] border-t border-[#C2C2C2]">
               <div className="w-[65px]">
-                <img src={icon4} alt="" className="w-[39px]" />
+                <img loading="lazy" src={icon4} alt="" className="w-[39px]" />
               </div>
               <span className="text-[#181A20] text-[20px] font-[700] tracking-[-1px]">
                 Work Scope
@@ -67,7 +67,7 @@ function GatewaySec() {
           }}
         >
           <div className="flex justify-start pl-[19px] space-x-4 items-center">
-            <img src={cardicon1} alt="" className="w-[56.7px] h-[56.7px]" />
+            <img loading="lazy" src={cardicon1} alt="" className="w-[56.7px] h-[56.7px]" />
             <h4 className="text-[16px] text-[#181A20] font-[700] tacking-[-1px] leading-[100%]">
               New Trading Platform
             </h4>
@@ -113,7 +113,7 @@ function GatewaySec() {
           }}
         >
           <div className="flex justify-start space-x-4 items-center">
-            <img src={cardicon2} alt="" className="w-[56.7px] h-[56.7px]" />
+            <img loading="lazy" src={cardicon2} alt="" className="w-[56.7px] h-[56.7px]" />
             <h4 className="text-[16px] text-[#181A20] font-[700] tacking-[-1px] leading-[100%]">
               BlockchainFX
             </h4>

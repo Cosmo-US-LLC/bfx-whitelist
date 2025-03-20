@@ -29,7 +29,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px] relative border border-[#858585]">
-            <img src={vector1} className="" alt="" />
+            <img  loading="lazy" src={vector1} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Preparation</h3>
@@ -48,8 +48,8 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector2} className="absolute right-[38%] w-[26.752px] top-[-18%]" alt="" />
-        <img src={vector4} className="absolute w-[46px] h-[83px] right-[-16%] top-[55%]" alt="" />
+        <img  loading="lazy" src={vector2} className="absolute right-[38%] w-[26.752px] top-[-18%]" alt="" />
+        <img  loading="lazy" src={vector4} className="absolute w-[46px] h-[83px] right-[-16%] top-[55%]" alt="" />
        </div>
        <div className="w-[100%] border border-[#9D9D9D] ml-auto rounded-[2.884px] max-w-[288px] pr-[5px] pl-[5px] py-[8px] flex justify-between items-start relative"
       style={{
@@ -57,7 +57,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px] relative border border-[#858585]">
-            <img src={vector1} className="" alt="" />
+            <img  loading="lazy" src={vector1} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Execution</h3>
@@ -76,8 +76,8 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector7} className="absolute right-[8%] w-[62.951px] top-[-39%]" alt="" />
-        <img src={vector3} className="absolute left-[-17%] h-[83px] w-[48px] top-[53%] " alt="" />
+        <img  loading="lazy" src={vector7} className="absolute right-[8%] w-[62.951px] top-[-39%]" alt="" />
+        <img  loading="lazy" src={vector3} className="absolute left-[-17%] h-[83px] w-[48px] top-[53%] " alt="" />
        </div>
        <div className="w-[100%] border border-[#9D9D9D] rounded-[2.884px] max-w-[288px] pr-[5px] pl-[5px] py-[8px] flex justify-between items-start relative"
       style={{
@@ -85,7 +85,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px]">
-            <img src={vector5} className="" alt="" />
+            <img  loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Launch</h3>
@@ -104,8 +104,8 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute left-[7%] w-[38.165px] top-[-119%]" alt="" />
-        <img src={vector4} className="absolute right-[-17%]  w-[46px] h-[83px] top-[54%]" alt="" />
+        <img  loading="lazy" src={vector8} className="absolute left-[7%] w-[38.165px] top-[-119%]" alt="" />
+        <img  loading="lazy" src={vector4} className="absolute right-[-17%]  w-[46px] h-[83px] top-[54%]" alt="" />
        </div>
        <div className="w-[100%] border border-[#9D9D9D] ml-auto rounded-[2.884px] max-w-[288px] pr-[5px] pl-[5px] py-[8px] flex justify-between items-start relative"
       style={{
@@ -113,7 +113,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px]">
-            <img src={vector5} className="" alt="" />
+            <img  loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Performance</h3>
@@ -132,9 +132,9 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector11} className="absolute right-[18%] w-[38.165px] top-[-30%]" alt="" />
-        <img src={vector10} className="absolute left-[-22%] w-[38.165px]  top-[23%]" alt="" />
-        <img src={vector3} className="absolute left-[-17%] w-[46px] h-[83px]  top-[53%]" alt="" />
+        <img  loading="lazy" src={vector11} className="absolute right-[18%] w-[38.165px] top-[-30%]" alt="" />
+        <img  loading="lazy" src={vector10} className="absolute left-[-22%] w-[38.165px]  top-[23%]" alt="" />
+        <img  loading="lazy" src={vector3} className="absolute left-[-17%] w-[46px] h-[83px]  top-[53%]" alt="" />
        </div>
        <div className="w-[100%] border border-[#9D9D9D] rounded-[2.884px] max-w-[288px] pr-[5px] pl-[5px] py-[8px] flex justify-between items-start relative"
       style={{
@@ -142,7 +142,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px]">
-            <img src={vector5} className="" alt="" />
+            <img  loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Expansion</h3>
@@ -161,8 +161,8 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector6} className="absolute left-[3%] w-[68.171px] top-[-50%]" alt="" />
-        <img src={vector4} className="absolute right-[-16.5%] w-[46px] h-[83px] top-[53%]" alt="" />
+        <img  loading="lazy" src={vector6} className="absolute left-[3%] w-[68.171px] top-[-50%]" alt="" />
+        <img  loading="lazy" src={vector4} className="absolute right-[-16.5%] w-[46px] h-[83px] top-[53%]" alt="" />
        </div>
        <div className="w-[100%] border border-[#9D9D9D] ml-auto rounded-[2.884px] max-w-[288px] pr-[5px] pl-[5px] py-[8px] flex justify-between items-start relative"
       style={{
@@ -170,7 +170,7 @@ function MobRoadmapSec() {
       }}
       >
         <div className="w-[15px] h-[15px] !mt-[3px] relative ">
-            <img src={vector5} className="" alt="" />
+            <img  loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[92%] space-y-[8px]">
             <h3 className="text-[13.084px] font-[500] leading-[138%]">Global Reach</h3>
@@ -189,7 +189,7 @@ function MobRoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute right-[19%] w-[38.171px] top-[-28%]" alt="" />
+        <img  loading="lazy" src={vector8} className="absolute right-[19%] w-[38.171px] top-[-28%]" alt="" />
        </div>
       </div>
       </div>
