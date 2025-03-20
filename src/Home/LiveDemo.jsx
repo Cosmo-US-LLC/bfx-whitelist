@@ -15,17 +15,22 @@ function LiveDemo() {
   <source src={liveVideo} type="video/mp4" />
 </video>
         </div>
-        <div className="flex justify-center">
+        <div className="flex justify-center items-center space-x-[17px]">
         <a
               href="https://forms.gle/MqeUsLeJPwxt4gfC7"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-[200px]"
+              className="w-[180px]"
             >
             <button
-              className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[200px] w-[100%] h-[39px]"
+              className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[180px] w-[100%] h-[39px]"
             >
-              Join the waitlist
+              Join the Whitelist
+            </button>
+            </a>
+            <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[180px]">
+            <button className="hover:text-white hover:bg-[#E5AE00] px-[12px] text-black bg-transparent text-[14px] font-[500] border hover:border-[#E5AE00] border-[#000] rounded-[8px] max-w-[180px] w-[100%] h-[39px]">
+            Start Trading (Beta)
             </button>
             </a>
         </div>

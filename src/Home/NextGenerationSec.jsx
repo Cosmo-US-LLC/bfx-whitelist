@@ -35,7 +35,7 @@ function NextGenerationSec() {
           <div className="flex justify-center items-center space-x-[5rem]">
             <div className="flex flex-col min-w-[185px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn1} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn1} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Team with 25 Years <br /> Of Experience
@@ -43,7 +43,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn2} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn2} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 500+ <br /> Assets
@@ -51,7 +51,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn10}  className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn10}  className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Ultra <br /> Tight Spreads
@@ -59,7 +59,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col items-center min-w-[145px] space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn4} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn4} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 24/7 Live <br /> Chat Support
@@ -67,7 +67,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col items-center min-w-[129px] space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn3} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn3} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Register <br /> in 1 Min
@@ -77,7 +77,7 @@ function NextGenerationSec() {
           <div className="flex justify-center items-center space-x-[5rem]">
             <div className="flex min-w-[185px] flex-col items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn5} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn5} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 One-Click <br /> Trading
@@ -85,7 +85,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn6} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn6} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Leverage <br /> Trading
@@ -93,7 +93,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn7} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn7} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Up to 9 <br /> Charts
@@ -101,7 +101,7 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[145px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn8} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn8} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 100+ <br /> Indicators
@@ -109,14 +109,14 @@ function NextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[129px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn9} className='h-[38px]' alt="" />
+                <img loading="lazy" src={nexticn9} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]">
                 Monthly <br /> Tournaments
               </p>
             </div>
           </div>
-          <div className="flex justify-center items-center pt-[30px] space-x-[17px]">
+          {/* <div className="flex justify-center items-center pt-[30px] space-x-[17px]">
           <a
               href="https://forms.gle/MqeUsLeJPwxt4gfC7"
               target="_blank"
@@ -126,7 +126,7 @@ function NextGenerationSec() {
               onClick={handleScroll}
               className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
             >
-              Join the waitlist
+              Join the Whitelist
             </button>
             </a>
             <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[138px]">
@@ -134,7 +134,7 @@ function NextGenerationSec() {
               Beta Trading
             </button>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

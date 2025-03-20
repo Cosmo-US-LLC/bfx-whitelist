@@ -44,7 +44,7 @@ function TradeLikeSec() {
               onClick={handleScroll}
               className="text-white bg-[#E5AE00] px-[12px] h-[39px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%]"
             >
-              Join the waitlist
+              Join the Whitelist
             </button>
             </a>
           </div>
@@ -57,7 +57,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[33px] w-[100%]">
-                  <img src={trd1cn1} alt="" />
+                  <img loading="lazy" src={trd1cn1} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">
                   Momentum
@@ -77,7 +77,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[30px] w-[100%]">
-                  <img src={trd1cn2} alt="" />
+                  <img loading="lazy" src={trd1cn2} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">Trend</h4>
               </div>
@@ -95,7 +95,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[33px] w-[100%]">
-                  <img src={trd1cn3} alt="" />
+                  <img loading="lazy" src={trd1cn3} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">
                   Volatility
@@ -115,7 +115,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[38px] w-[100%]">
-                  <img src={trd1cn4} alt="" />
+                  <img loading="lazy" src={trd1cn4} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">
                   Moving Averages
@@ -135,7 +135,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[31px] w-[100%]">
-                  <img src={trd1cn5} alt="" />
+                  <img loading="lazy" src={trd1cn5} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">
                   Volume
@@ -155,7 +155,7 @@ function TradeLikeSec() {
             >
               <div className="flex items-center space-x-8">
                 <div className="max-w-[27px] w-[100%]">
-                  <img src={trd1cn6} alt="" />
+                  <img loading="lazy" src={trd1cn6} alt="" />
                 </div>
                 <h4 className="text-[17.52px] font-[600] text-[#181A20]">
                   Others

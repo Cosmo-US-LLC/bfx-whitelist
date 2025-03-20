@@ -22,7 +22,7 @@ function TheUltimateSec() {
       <div className="max-w-[717px] min-h-[480px] max-h-[480px] flex items-center justify-center w-[100%] mx-auto  ">
       <div className="">
             <div className="flex justify-center pb-[20px]">
-            <img src={logo} className="h-[44.54px]" alt="" />
+            <img src={logo} loading="lazy" className="h-[44.54px]" alt="" />
             </div>
             <h3 className="text-[45px] text-[#fff] font-[700] text-center leading-[117.143%] text-[#181A20] tracking-[-1px]">
            The Ultimate <br/> Trading Platform
@@ -36,12 +36,12 @@ function TheUltimateSec() {
             <button 
              
             className="text-white bg-[#E5AE00]  hover:text-[#FFF] hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#fff] rounded-[8px] max-w-[164px] px-4 w-[100%] h-[39px]">
-              Join the waitlist
+              Join the Whitelist
             </button>
             </a>
             <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer" className="w-[140px]">
             <button className="hover:text-white hover:bg-[#E5AE00]  text-[#FFF] bg-transparent text-[14px] font-[500]  border hover:border-[#E5AE00] border-[#fff] rounded-[8px] !max-w-[140px] w-[100%] h-[39px]">
-            Beta Trading
+            Start Trading (Beta)
             </button>
             </a>
           </div>

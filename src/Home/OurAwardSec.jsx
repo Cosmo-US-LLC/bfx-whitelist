@@ -36,12 +36,13 @@ function OurAwardSec() {
               </p>
               <img
                 src={rwdimg1}
+                loading="lazy"
                 className="absolute top-[-25px] h-auto w-full"
                 alt=""
               />
             </div>
             <div className="flex justify-center pt-12">
-              <img className="h-[263px] object-cover" src={rwdimg2} alt="" />
+              <img className="h-[263px] object-cover" loading="lazy" src={rwdimg2} alt="" />
             </div>
           </div>
           <div
@@ -60,12 +61,13 @@ function OurAwardSec() {
               </p>
               <img
                 src={rwdimg1}
+                loading="lazy"
                 className="absolute top-[-25px]  h-auto w-full"
                 alt=""
               />
             </div>
             <div className="flex justify-center">
-              <img src={rwdimg3} className="w-full object-cover h-[266px] mt-12" alt="" />
+              <img src={rwdimg3} loading="lazy" className="w-full object-cover h-[266px] mt-12" alt="" />
             </div>
           </div>
         </div>

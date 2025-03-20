@@ -29,7 +29,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector1} className="border border-[#000]" alt="" />
+            <img loading="lazy" src={vector1} className="border border-[#000]" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Preparation</h3>
@@ -48,8 +48,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector2} className="absolute max-w-[100px] right-[24%] top-[-34%]" alt="" />
-        <img src={vector4} className="absolute z-[-1] right-[-18%] top-[50%]" alt="" />
+        <img loading="lazy" src={vector2} className="absolute max-w-[100px] right-[24%] top-[-34%]" alt="" />
+        <img loading="lazy" src={vector4} className="absolute z-[-1] right-[-18%] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] ml-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -57,7 +57,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector1} className="border border-[#000]" alt="" />
+            <img loading="lazy" src={vector1} className="border border-[#000]" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Execution</h3>
@@ -76,8 +76,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector7} className="absolute max-w-[140px]  right-[5%] top-[-41%]" alt="" />
-        <img src={vector3} className="absolute max-w-[100px] z-[-1] left-[-15%] top-[50%]" alt="" />
+        <img loading="lazy" src={vector7} className="absolute max-w-[140px]  right-[5%] top-[-41%]" alt="" />
+        <img loading="lazy" src={vector3} className="absolute max-w-[100px] z-[-1] left-[-15%] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] mr-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -85,7 +85,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector5} className="" alt="" />
+            <img loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Launch</h3>
@@ -104,8 +104,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute left-[14%] max-w-[100px] top-[-72%]" alt="" />
-        <img src={vector4} className="absolute right-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
+        <img loading="lazy" src={vector8} className="absolute left-[14%] max-w-[100px] top-[-72%]" alt="" />
+        <img loading="lazy" src={vector4} className="absolute right-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] ml-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -113,7 +113,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector5} className="" alt="" />
+            <img loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Performance</h3>
@@ -132,9 +132,9 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector11} className="absolute right-[18%] max-w-[100px] top-[-32%]" alt="" />
-        <img src={vector10} className="absolute left-[-25%] max-w-[100px]  top-[-10%]" alt="" />
-        <img src={vector3} className="absolute left-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
+        <img loading="lazy" src={vector11} className="absolute right-[18%] max-w-[100px] top-[-32%]" alt="" />
+        <img loading="lazy" src={vector10} className="absolute left-[-25%] max-w-[100px]  top-[-10%]" alt="" />
+        <img loading="lazy" src={vector3} className="absolute left-[-15%] max-w-[100px] z-[-1] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] mr-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -142,7 +142,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector5} className="" alt="" />
+            <img loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Expansion</h3>
@@ -161,8 +161,8 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector6} className="absolute left-[0%] max-w-[140px]  top-[-50%]" alt="" />
-        <img src={vector4} className="absolute right-[-15%] z-[-1] top-[50%]" alt="" />
+        <img loading="lazy" src={vector6} className="absolute left-[0%] max-w-[140px]  top-[-50%]" alt="" />
+        <img loading="lazy" src={vector4} className="absolute right-[-15%] z-[-1] top-[50%]" alt="" />
        </div>
        <div className="w-[693px] border border-[#9D9D9D] rounded-[8px] max-w-[799px] ml-auto pr-[48px] pl-[35px] py-[28px] flex justify-between items-start relative"
       style={{
@@ -170,7 +170,7 @@ function RoadmapSec() {
       }}
       >
         <div className="w-[27px]">
-            <img src={vector5} className="" alt="" />
+            <img loading="lazy" src={vector5} className="" alt="" />
         </div>
         <div className="w-[86%] space-y-[8px]">
             <h3 className="text-[22px] font-[500] leading-[138%]">Global Reach</h3>
@@ -189,7 +189,7 @@ function RoadmapSec() {
                 </div>
             </div>
         </div>
-        <img src={vector8} className="absolute right-[19%] top-[-40%] max-w-[100px]" alt="" />
+        <img loading="lazy" src={vector8} className="absolute right-[19%] top-[-40%] max-w-[100px]" alt="" />
        </div>
       </div>
       </div>

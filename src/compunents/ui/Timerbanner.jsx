@@ -53,7 +53,7 @@ const Timerbanner = () => {
       </h3>
       <button
      onClick={(e) => handleScroll(e, "join-whitelist", 60)}
-       className="w-[120px] h-[26px] font-[700] bg-[#E5AE00] text-[10px] border border-[#000] rounded-[8px]">Join the waitlist</button>
+       className="w-[120px] h-[26px] font-[700] bg-[#E5AE00] text-[10px] border border-[#000] rounded-[8px]">Join the Whitelist</button>
     </div>
    </div>
    <div className=" bg-[#E5AE00] w-[100%] h-[50px] 2xl:hidden xl:hidden lg:hidden md:hidden sm:flex flex items-center  fixed z-[999] bottom-0">
@@ -66,7 +66,7 @@ const Timerbanner = () => {
    </div>
     <button className="w-[110px] h-[26px] font-[700] bg-[#E5AE00] text-[10px] border border-[#000] rounded-[8px]"
     onClick={(e) => handleScroll(e, "join-whitelist", 60)}
-    >Join the waitlist</button>
+    >Join the Whitelist</button>
   </div>
  </div>
  </>

@@ -111,7 +111,7 @@ function StandoutSec() {
                   <th className="border-b bg-[#FFF8DC] border-l border-r border-[#A6A6A6] px-4 py-4">
                     <div className="flex  flex-col itens-center justify-center space-y-2">
                       <div className="flex justify-center items-center">
-                        <img className="w-[58px] h-[58px]" src={coin1} alt="" />
+                        <img loading="lazy" className="w-[58px] h-[58px]" src={coin1} alt="" />
                       </div>
                       <p className="text-[12.346px] text-[#545454] text-center font-[700] leading-[100%]">
                         BlockchainFX
@@ -121,7 +121,7 @@ function StandoutSec() {
                   <th className="border-b border-l border-r border-[#A6A6A6] px-4 py-4">
                     <div className="flex flex-col itens-center justify-center space-y-2">
                       <div className="flex justify-center items-center">
-                        <img className="w-[58px] h-[58px]" src={coin2} alt="" />
+                        <img loading="lazy" className="w-[58px] h-[58px]" src={coin2} alt="" />
                       </div>
                       <p className="text-[12.346px] text-[#545454] text-center font-[700] leading-[100%]">
                         Bitget
@@ -131,7 +131,7 @@ function StandoutSec() {
                   <th className="border-b border-l border-r border-[#A6A6A6] px-4 py-4">
                     <div className="flex flex-col itens-center justify-center space-y-2">
                       <div className="flex justify-center items-center">
-                        <img className="w-[58px] h-[58px]" src={coin3} alt="" />
+                        <img loading="lazy" className="w-[58px] h-[58px]" src={coin3} alt="" />
                       </div>
                       <p className="text-[12.346px] text-[#545454] text-center font-[700] leading-[100%]">
                         Hyperliquid
@@ -141,7 +141,7 @@ function StandoutSec() {
                   <th className="border-b border-l border-[#A6A6A6] px-4 py-4">
                     <div className="flex flex-col itens-center justify-center space-y-2">
                       <div className="flex justify-center items-center">
-                        <img className="w-[58px] h-[58px] object-cover" src={coin4} alt="" />
+                        <img loading="lazy" className="w-[58px] h-[58px] object-cover" src={coin4} alt="" />
                       </div>
                       <p className="text-[12.346px] text-[#545454] text-center font-[700] leading-[100%]">
                         Uniswap
@@ -177,7 +177,7 @@ function StandoutSec() {
                         }`}
                       >
                         {value.startsWith("/") ? (
-                          <img
+                          <img loading="lazy"
                             src={value}
                             alt={`Row ${rowIndex + 1} Col ${colIndex + 1}`}
                             className="mx-auto w-[22.6px] h-[22.6px]"
