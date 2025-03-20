@@ -87,7 +87,7 @@ function MobHowDoesItSec() {
                       className="px-[20px] max-h-[340px] flex space-y-[20px] flex-col justify-centetr py-[32px] min-h-[284px] bg-[#F2F2F2] rounded-[8px] border "
                     >
                       <div className="flex justify-center">
-                        <img src={item.icon} alt="" />
+                        <img loading="lazy" src={item.icon} alt="" />
                       </div>
                       <div className="pt-[10px]">
                         <h3 className="text-[20px] text-center text-[#000] font-[700] leading-[115%]">

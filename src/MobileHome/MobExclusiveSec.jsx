@@ -54,7 +54,7 @@ function MobExclusiveSec() {
                 className="px-[20px] bg-[#F9FAFB]  flex flex-col justify-centetr py-[32px]  bg-[#F9FAFB] rounded-[8px] border space-y-[20px] "
               >
                 <div className="max-h-[127px] flex justify-center items-center">
-                  <img src={item.img} className="max-h-[127px] object-cover" alt="" />
+                  <img src={item.img} loading="lazy" className="max-h-[127px] object-cover" alt="" />
                 </div>
                 <h3
                   className="text-[20px] text-center text-[#000] font-[700] leading-[115%]"

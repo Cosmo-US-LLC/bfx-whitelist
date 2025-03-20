@@ -210,6 +210,7 @@ function MobilePremiumSec() {
                   >
                     <div>
                       <img
+                      loading="lazy"
                         src={card.img}
                         className="rounded-[4px]"
                         alt={card.title}
@@ -218,9 +219,10 @@ function MobilePremiumSec() {
                       <div className="flex justify-between pt-[15px] pb-[10px]">
                         <div>
                           <h3 className="text-[#000] flex flex-col justify-end text-[16px] font-[600] leading-[115%]">
-                            <span>
-                             {card.title} <span className="text-start text-[10px] px-[7px] py-[2px] border-[#000] ml-1 border font-[600]">NFT</span> 
-                              </span>
+                            <div className="flex ites-center space-x-[10px]">
+                              <h3>{card.title}</h3>
+                              <h4 className="text-start text-[10px] px-[7px] py-[1px] border-[#000] ml-1 border font-[600]">NFT</h4> 
+                              </div>
                             <span className="text-[#7C7C7C] text-start text-[15px] font-[600]">
                               {card.price}
                             </span>

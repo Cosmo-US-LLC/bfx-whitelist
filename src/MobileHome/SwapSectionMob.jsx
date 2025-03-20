@@ -33,6 +33,7 @@ export default function SwapSectionMob() {
           <div className="w-[100%] flex justify-center">
             <div className="w-full p-2">
               <img
+               loading="lazy"
                 src={whitepaper}
                 className="w-[453px] h-auto"
                 alt="whitepaper"

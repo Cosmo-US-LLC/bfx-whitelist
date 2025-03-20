@@ -45,13 +45,13 @@ function MobileGatewaySec() {
         >
           <div className="flex items-start space-x-[3rem] justify-center">
             <div className="flex space-y-[14px] flex-col items-center justify-start">
-              <img className="w-[54px] h-[54px]" src={cardicon1} alt="" />
+              <img  loading="lazy" className="w-[54px] h-[54px]" src={cardicon1} alt="" />
               <h3 className="text-[#181A20] text-center text-[20px] font-[700] leading-[105%] tracking-[-1.219] ">
                 New Trading <br /> Platform
               </h3>
             </div>
             <div className="flex space-y-[20px] flex-col items-center justify-start">
-              <img className="w-[54px] h-[54px]" src={cardicon2} alt="" />
+              <img  loading="lazy" className="w-[54px] h-[54px]" src={cardicon2} alt="" />
               <h3 className="text-[#181A20] text-center text-[20px] font-[700] leading-[105%] tracking-[-1.219] ">
                 BlockchainFX
               </h3>
@@ -60,7 +60,7 @@ function MobileGatewaySec() {
           <div className="space-y-[20px]">
             <div className="rounded-[16px] border border-[#C2C2C2]">
               <div className="flex justify-center py-[10px] items-center flex-col">
-                <img className="w-[23px] h-[20.815px]" src={icon1} alt="" />
+                <img  loading="lazy" className="w-[23px] h-[20.815px]" src={icon1} alt="" />
                 <h4 className="text-[#181A20] font-[700] text-[20px] leading-[105%]">
                   Cost
                 </h4>
@@ -76,7 +76,7 @@ function MobileGatewaySec() {
                       onMouseEnter={() => setShowTooltip(true)}
                       onMouseLeave={() => setShowTooltip(false)}
                     >
-                      <img className="pt-1" src={Iicon} alt="Info Icon" />
+                      <img  loading="lazy" className="pt-1"  src={Iicon} alt="Info Icon" />
                       {showTooltip && (
                         <div className="absolute -left-8 top-6 bg-[#808080] w-[210px] text-center leading-[110%] text-[#fff] text-[10px] font-[400] rounded-md p-[6px] shadow-lg">
                           This is the budget needed only to launch the platform
@@ -98,7 +98,7 @@ function MobileGatewaySec() {
             </div>
             <div className="rounded-[16px] border border-[#C2C2C2]">
               <div className="flex justify-center py-[10px] items-center flex-col">
-                <img className="w-[23px] h-[20.815px]" src={icon2} alt="" />
+                <img  loading="lazy" className="w-[23px] h-[20.815px]" src={icon2} alt="" />
                 <h4 className="text-[#181A20] font-[700] text-[20px] leading-[105%]">
                   Time{" "}
                 </h4>
@@ -122,7 +122,7 @@ function MobileGatewaySec() {
             </div>
             <div className="rounded-[16px] border border-[#C2C2C2]">
               <div className="flex justify-center py-[10px] items-center flex-col">
-                <img className="w-[23px] h-[20.815px]" src={icon3} alt="" />
+                <img  loading="lazy" className="w-[23px] h-[20.815px]" src={icon3} alt="" />
                 <h4 className="text-[#181A20] font-[700] text-[20px] leading-[105%]">
                   Team{" "}
                 </h4>
@@ -147,7 +147,7 @@ function MobileGatewaySec() {
             </div>
             <div className="rounded-[16px] border border-[#C2C2C2]">
               <div className="flex justify-center py-[10px] items-center flex-col">
-                <img className="w-[23px] h-[20.815px]" src={icon4} alt="" />
+                <img  loading="lazy" className="w-[23px] h-[20.815px]" src={icon4} alt="" />
                 <h4 className="text-[#181A20] font-[700] text-[20px] leading-[105%]">
                   Work Scope{" "}
                 </h4>

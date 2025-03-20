@@ -34,7 +34,7 @@ function MobNextGenerationSec() {
         <div className="gap-y-[30px] grid grid-cols-2">
             <div className="flex flex-col min-w-[185px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn1} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn1} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Team with 25 Years <br /> Of Experience
@@ -42,7 +42,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn2} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn2} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 500+ <br /> Assets
@@ -50,7 +50,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn10} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn10} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Ultra <br /> Tight Spreads
@@ -58,7 +58,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col items-center min-w-[145px] space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn4} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn4} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 24/7 Live <br /> Chat Support
@@ -66,7 +66,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col items-center min-w-[129px] space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn3} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn3} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Register <br /> in 1 Min
@@ -74,7 +74,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex min-w-[185px] flex-col items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn5} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn5} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 One-Click <br /> Trading
@@ -82,7 +82,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn6} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn6} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Leverage <br /> Trading
@@ -90,7 +90,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn7} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn7} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Up to 9 <br /> Charts
@@ -98,7 +98,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[145px] items-center  space-y-[15px]">
               <div className="min-h-[40px] flex items-center">
-                <img src={nexticn8}  className="max-w-[40px] h-[40px]"alt="" />
+                <img loading="lazy" src={nexticn8}  className="max-w-[40px] h-[40px]"alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 100+ <br /> Indicators
@@ -106,7 +106,7 @@ function MobNextGenerationSec() {
             </div>
             <div className="flex flex-col min-w-[129px] items-center space-y-[15px]">
               <div className="min-h-[40px]">
-                <img src={nexticn9} className="max-w-[40px] h-[40px]" alt="" />
+                <img loading="lazy" src={nexticn9} className="max-w-[40px] h-[40px]" alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[140%] font-[400] tracking-[-0.32px]">
                 Monthly <br /> Tournaments
