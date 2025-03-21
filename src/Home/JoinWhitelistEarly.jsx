@@ -17,6 +17,7 @@ function JoinWhitelistEarly() {
           </p>
           <img
             src={joinWhitelistImages}
+            loading="lazy"
             className="min-h-[421px] w-[446px] object-cover"
             alt=""
           />
@@ -27,10 +28,10 @@ function JoinWhitelistEarly() {
               How to Participate?
             </h2>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              1. Join the whitelist for 15 minutes of early access to buy BFX before the presale is publicly available.
+              1. Join the Waitlist for 15 minutes of early access to buy BFX before the presale is publicly available.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
-              2. Click the button below to get whitelisted.
+              2. Click the button below to get Waitlisted.
             </p>
             <p className="text-[#434343] font-inter text-[14px] font-medium tracking-[-0.312px]">
             {t("joinwhitelistsec.step3")}
@@ -138,7 +139,7 @@ function JoinWhitelistEarly() {
               rel="noopener noreferrer"
             >
           <button className="text-white mt-4 bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[11.85px] font-[800] border border-[#E5AE00]  hover:border-[#000] w-[100%] h-[32.094px]">
-          Join Whitelist Now
+          Join the waitlist
           </button>
           </a>
         </div>

@@ -63,6 +63,7 @@ const OneAppSec = () => {
                           <h3 className="text-[18px] leading-[142.44%] font-[600] text-[#000]">{item.title}</h3>
                           <div>
                             <img
+                            loading="lazy"
                               src={index === activeIndex ? iconcls : iconapon}
                               alt={index === activeIndex ? "Collapse" : "Expand"}
                               className="w-[18px] h-[18px]"

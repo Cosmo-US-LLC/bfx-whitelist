@@ -39,7 +39,7 @@ function MobPressMediaSec() {
               <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
-                <img src={medai1} className="h-[30px]" alt="" />
+                <img  loading="lazy" src={medai1} className="h-[30px]" alt="" />
               </div>
               <p className="text-[15px] text-center leading-[144.529%] font-[400]">
               BlockchainFX is quickly becoming the go-to trading platform in 2025
@@ -51,7 +51,7 @@ function MobPressMediaSec() {
                 <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
-                <img src={medai2} className="h-[23px] object-cover" alt="" />
+                <img  loading="lazy" src={medai2} className="h-[23px] object-cover" alt="" />
               </div>
               <p className="text-[15px] text-center leading-[144.529%] font-[400]">
               BlockchainFX revolutionises the financial trading landscape.
@@ -63,7 +63,7 @@ function MobPressMediaSec() {
               <div className="bg-[#fff] max-w-[284px] mx-auto rounded-[8px]  px-[20px] py-[37px] w-[100%]">
             <div className="space-y-[32px]">
               <div className="flex items-center justify-center h-[30px]">
-                <img src={medai3} className="h-[30px]" alt="" />
+                <img  loading="lazy" src={medai3} className="h-[30px]" alt="" />
               </div>
               <p className="text-[15px] text-center leading-[144.529%] font-[400]">
               BlockchainFX puts Wall Street in your pocket

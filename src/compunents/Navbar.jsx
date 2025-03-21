@@ -92,77 +92,71 @@ function Navbar() {
   };
 
   return (
-    <div className="2xl:!mb-[85px]  xl:!mb-[85px] lg:!mb-[85px] md:!mb-[85px] sm:!mb-[80px] !mb-[80px]  relative">
-      <Timerbanner />
-      <div className="fixed w-[100%] bg-[#F2F2F2] z-[999] 2xl:top-9 xl:top-9 lg:top-9 md:top-9 sm:top-0 top-0">
-        <div className="2xl:h-[63px] xl:h-[63px] lg:h-[63px] md:h-[63px] sm:h-[64px] h-[64px] max-w-[1200px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center justify-between ">
-          <div className="flex items-center space-x-3 2xl:block xl:block lg:block md:block sm:flex 2xl:space-x-0 xl:space-x-0 lg:space-x-0 md:space-x-0 sm:space-x-3">
-            <div className="block 2xl:hidden xl:hidden lg:hidden md:hidden sm:block">
-              <img
-                src={menu}
-                onClick={toggleMobileMenu}
-                className="cursor-pointer"
-                alt=""
-              />
-            </div>
-            <div className="2xl:max-w-[174px] xl:max-w-[174px] lg:max-w-[174px] md:max-w-[174px] sm:max-w-[145px] max-w-[145px]">
-              <Link
-                to="/"
-                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-              >
-                {" "}
-                <img className="cursor-pointer" src={logo} alt="" />
-              </Link>
-            </div>
+   <div className="2xl:!mb-[85px]  xl:!mb-[85px] lg:!mb-[85px] md:!mb-[85px] sm:!mb-[80px] !mb-[80px]  relative">
+    <Timerbanner />
+     <div className="fixed w-[100%] bg-[#F2F2F2] z-[999] 2xl:top-9 xl:top-9 lg:top-9 md:top-9 sm:top-0 top-0">
+      <div className="2xl:h-[63px] xl:h-[63px] lg:h-[63px] md:h-[63px] sm:h-[64px] h-[64px] max-w-[1200px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center justify-between ">
+        <div className="flex items-center space-x-3 2xl:block xl:block lg:block md:block sm:flex 2xl:space-x-0 xl:space-x-0 lg:space-x-0 md:space-x-0 sm:space-x-3">
+          <div className="block 2xl:hidden xl:hidden lg:hidden md:hidden sm:block">
+            <img
+              src={menu}
+              onClick={toggleMobileMenu}
+              className="cursor-pointer"
+              alt=""
+            />
           </div>
-          <div className="space-x-[27px] 2xl:flex xl:flex lg:flex md:flex sm:hidden hidden items-center">
-            <a
-              className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
-              onClick={(e) => handleScroll(e, "what-is-bfx-coin", 40)}
-              href=""
-            >
-              {t("navbar.what_is_bfx")}
-            </a>
-            <a
-              className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
-              onClick={(e) => handleScroll(e, "join-whitelist", 40)}
-              href=""
-            >
-              {t("navbar.whitelist")}
-            </a>
-            <a
-              className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
-              onClick={(e) => handleScroll(e, "whitepaper", 40)}
-              href=""
-            >
-              {t("navbar.whitepaper")}
-            </a>
-            <a
-              className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
-              onClick={(e) => handleScroll(e, "roadmap", 60)}
-              href=""
-            >
-              {t("navbar.roadmap")}
-            </a>
-            <a
-              className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
-              onClick={(e) => handleScroll(e, "reviews", 90)}
-              href=""
-            >
-              {t("navbar.reviews")}
-            </a>
-            <div
-              ref={dropdownRef}
-              className="relative flex items-center space-x-2"
-            >
-              <img
-                className="w-5"
-                src={selectedLang.flag}
-                alt={selectedLang.name}
-              />
-              <span className="text-black text-sm font-semibold">
-                {selectedLang.name}
-              </span>
+          <div className="2xl:max-w-[174px] xl:max-w-[174px] lg:max-w-[174px] md:max-w-[174px] sm:max-w-[145px] max-w-[145px]">
+           <Link to="/" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth'})}> <img  className="cursor-pointer" src={logo} alt="" /></Link>
+          </div>
+        </div>
+        <div className="space-x-[27px] 2xl:flex xl:flex lg:flex md:flex sm:hidden hidden items-center">
+          <a
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
+            onClick={(e) => handleScroll(e, "what-is-bfx-coin", 40)}
+            href=""
+          >
+            What is BlockchainFX?
+          </a>
+          <a
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
+            onClick={(e) => handleScroll(e, "join-whitelist", 40)}
+            href=""
+          >
+            Waitlist
+          </a>
+          <a
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
+            onClick={(e) => handleScroll(e, "whitepaper", 40)}
+            href=""
+          >
+           Whitepaper
+          </a>
+          <a
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
+            onClick={(e) => handleScroll(e, "roadmap", 60)}
+            href=""
+          >
+            Roadmap
+          </a>
+          <a
+            className="text-[14px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300"
+            onClick={(e) => handleScroll(e, "reviews", 90)}
+            href=""
+          >
+            Reviews
+          </a>
+          <div
+            ref={dropdownRef}
+            className="relative flex items-center justify-center space-x-2"
+          >
+            <img
+              className="w-[20px]"
+              src={selectedLang.flag}
+              alt={selectedLang.name}
+            />
+            <span className="text-[#000] text-[14px] font-[600]">
+              {selectedLang.abbreviation}
+            </span>
 
               <img
                 src={arwdwn}
@@ -203,60 +197,55 @@ function Navbar() {
 
           {/* mobile menu */}
 
-          {isMobileMenuOpen && (
-            <div className="absolute top-[100%] min-h-[100vh] left-0 w-full bg-white shadow-md z-50 p-6">
-              <a
-                className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
-                href=""
-                onClick={(e) => handleScroll(e, "what-is-bfx-coin", 60)}
-              >
-                What is BlockchainFX?
-              </a>{" "}
-              <br />
-              <a
-                className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
-                href=""
-                onClick={(e) => handleScroll(e, "join-whitelist", 60)}
-              >
-                Whitelist
-              </a>
-              <br />
-              <a
-                className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
-                href=""
-                onClick={(e) => handleScroll(e, "whitepaper", 90)}
-              >
-                Whitepaper
-              </a>
-              <br />
-              <a
-                className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
-                href=""
-                onClick={(e) => handleScroll(e, "roadmap", 90)}
-              >
-                Roadmap
-              </a>
-              <br />
-              <a
-                className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
-                href="#"
-                onClick={(e) => handleScroll(e, "reviews", 90)}
-              >
-                Reviews
-              </a>
-              <br />
-              <div
-                ref={dropdownRef}
-                className="relative flex items-center justify-start space-x-2"
-              >
-                <img
-                  className="w-[20px]"
-                  src={selectedLang.flag}
-                  alt={selectedLang.name}
-                />
-                <span className="text-[#000] text-[16px] font-[600]">
-                  {selectedLang.abbreviation}
-                </span>
+      {isMobileMenuOpen && (
+        <div className="absolute top-[100%] min-h-[100vh] left-0 w-full bg-white shadow-md z-50 p-6">
+          <a
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
+            href=""
+            onClick={(e) => handleScroll(e, "what-is-bfx-coin", 60)}
+          >
+            What is BlockchainFX?
+          </a> <br />
+          <a
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
+            href=""
+            onClick={(e) => handleScroll(e, "join-whitelist", 60)}
+          >
+            Waitlist
+          </a><br />
+          <a
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
+            href=""
+            onClick={(e) => handleScroll(e, "whitepaper", 90)}
+          >
+           Whitepaper
+          </a><br />
+          <a
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
+            href=""
+            onClick={(e) => handleScroll(e, "roadmap", 90)}
+          >
+            Roadmap
+          </a><br />
+          <a
+            className="block text-[16px] font-[500] text-[#000] border border-transparent hover:border-b-[#E5AE00] transition duration-300 inline-block mb-4"
+            href="#"
+            onClick={(e) => handleScroll(e, "reviews", 90)}
+          >
+            Reviews
+          </a><br />
+          <div
+            ref={dropdownRef}
+            className="relative flex items-center justify-start space-x-2"
+          >
+            <img
+              className="w-[20px]"
+              src={selectedLang.flag}
+              alt={selectedLang.name}
+            />
+            <span className="text-[#000] text-[16px] font-[600]">
+              {selectedLang.abbreviation}
+            </span>
 
                 <img
                   src={arwdwn}
@@ -298,26 +287,23 @@ function Navbar() {
 
           {/* menu end */}
 
-          <div>
-            <a
-              href="https://forms.gle/MqeUsLeJPwxt4gfC7"
-              target="_blank"
-              rel="noopener noreferrer"
-              className=""
-            >
-              <button
-                //  onClick={() => setCurrentPopup("wallet")}
-                className="text-white   bg-[#E5AE00] 2xl:px-[12px] xl:px-[12px] lg:px-[12px] md:px-[12px] sm:px-[10px] px-[10px] hover:text-black hover:bg-transparent 2xl:text-[14px] xl:text-[14px] lg:text-[14px] md:text-[14px] sm:text-[14px] text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] 2xl:max-w-[179px] xl:max-w-[179px] lg:max-w-[179px] md:max-w-[179px] sm:max-w-[158px] max-w-[158px] w-[100%] 2xl:h-[43px] xl:h-[43px] lg:h-[43px] md:h-[43px] sm:h-[40px] h-[40px]"
-              >
-                {t("hero_section.join_whitelist")}
-              </button>
-            </a>
-            {currentPopup === "wallet" && (
-              <WalletPopup
-                onConnect={() => setCurrentPopup("dashboard")}
-                onClose={() => setCurrentPopup(null)}
-              />
-            )}
+        <div>
+        <a
+          href="https://forms.gle/MqeUsLeJPwxt4gfC7"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
+          <button
+         
+            //  onClick={() => setCurrentPopup("wallet")}
+          className="text-white   bg-[#E5AE00] 2xl:px-[12px] xl:px-[12px] lg:px-[12px] md:px-[12px] sm:px-[10px] px-[10px] hover:text-black hover:bg-transparent 2xl:text-[14px] xl:text-[14px] lg:text-[14px] md:text-[14px] sm:text-[14px] text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] 2xl:max-w-[179px] xl:max-w-[179px] lg:max-w-[179px] md:max-w-[179px] sm:max-w-[158px] max-w-[158px] w-[100%] 2xl:h-[43px] xl:h-[43px] lg:h-[43px] md:h-[43px] sm:h-[40px] h-[40px]">
+           Join the waitlist{" "}
+          </button>
+          </a>
+          {currentPopup === "wallet" && (
+        <WalletPopup onConnect={() => setCurrentPopup("dashboard")} onClose={() => setCurrentPopup(null)} />
+      )}
 
             {currentPopup === "dashboard" && (
               <DashboardPopup onClose={() => setCurrentPopup(null)} />

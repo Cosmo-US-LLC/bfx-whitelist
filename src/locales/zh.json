@@ -94,5 +94,314 @@
       "title": "每日赚取 BFX 奖励",
       "description": "BFX 是首个根据交易费用收入每日分发 USDT 奖励的加密货币。每当有人在 BlockchainFX 交易，你就可以赚取奖励。持有 BFX 越多，奖励越高，每天最高可达 25,000 USDT。",
       "button": "加入候补名单"
+    },
+    "HowDoesItSec": {
+    "title": "它是如何运作的？",
+    "items": [
+      {
+        "title": "交易平台",
+        "description": "BlockchainFX 是一个多资产交易平台，提供多种交易选择。"
+      },
+      {
+        "title": "费用分配",
+        "description": "70% 的交易费用用于激励 BFX 社区并推动生态系统增长。"
+      },
+      {
+        "title": "每日收入（50%）",
+        "description": "所有收取费用的 50% 将与 BFX 持有者共享，并每 24 小时自动空投。"
+      },
+      {
+        "title": "回购（20%）",
+        "description": "20% 的费用将用于每日 BFX 回购，增加需求并提升 $BFX 价格。"
+      },
+      {
+        "title": "销毁",
+        "description": "所有回购 BFX 的一半将被自动销毁，逐步减少 $BFX 的供应量。"
+      },
+      {
+        "title": "快速增长",
+        "description": "通缩模型和自动回购系统推动了 $BFX 的指数级增长潜力。"
+      }
+    ]
+  },
+  "ExclusiveBenefitsSec": {
+    "title": "BFX 预售期间的独家福利",
+    "items": [
+      {
+        "title": "启动前 <br/> 最低价格",
+        "description": "在预售期间购买，可以获得比 $BFX 启动价低得多的价格。"
+      },
+      {
+        "title": "获取限量版 <br/> BFX Visa 卡",
+        "description": "获得一张金属或金色 BFX Visa 信用卡，享受全球无限支出和使用。"
+      },
+      {
+        "title": "解锁 <br/> 交易奖励积分",
+        "description": "获得独家会员资格，享受多重福利，并获得高达 $25,000 的交易资金，无任何限制。"
+      },
+      {
+        "title": "每日 USDT <br/> 质押收益",
+        "description": "即使在预售期间，也可每天赚取 USDT 和 $BFX 奖励。买得越早，赚得越多。"
+      }
+    ]
+  },
+  "CreditCard": {
+    "title": "BFX Visa 卡",
+    "features": [
+      "无限消费",
+      "金属或18K金卡",
+      "每笔交易最高可达$100,000",
+      "每月ATM取款最高$10,000",
+      "使用BFX和USDT奖励进行支付",
+      "全球接受（线上 & 实体店）",
+      "使用BFX和20多种加密货币充值",
+      "BFX Visa卡仅限预售"
+    ],
+    "compatible": "兼容设备",
+    "shipping": "BFX预售结束后，所有卡将同时发出，发货将随之开始。所有BFX创始人俱乐部成员将在预售后收到一个安全的表格，以提交其送货信息。卡将通过DHL或FedEx Express运送到全球范围内。"
+  },
+    "PremiumSec": {
+      "title": "限量创始人俱乐部会员资格",
+      "subtitle": "在预售期间购买$BFX，仅需$1,000起即可获得创始人俱乐部NFT！享受早期访问权、专属会员资格、$BFX奖励、BFX和USDT每日质押奖励，以及额外交易额度。",
+      "cards": [
+        {
+          "title": "新手",
+          "price": "$1,000",
+          "points": ["早期访问权", "10% BFX奖励", "BFX Visa卡"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "进阶",
+          "price": "$2,500",
+          "points": ["早期访问权", "20% BFX奖励", "金属BFX Visa卡", "$500交易额度"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "专业",
+          "price": "$5,000",
+          "points": ["早期访问权", "30% BFX奖励", "金属BFX Visa卡", "$1000交易额度"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "专家",
+          "price": "$10,000+",
+          "points": ["早期访问权", "40% BFX奖励", "金属BFX Visa卡", "10% USDT奖励", "$2000交易额度"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "大师",
+          "price": "$25,000+",
+          "points": ["早期访问权", "50% BFX奖励", "金属BFX Visa卡", "15% USDT奖励", "$5000交易额度"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "精英",
+          "price": "$50,000+",
+          "points": ["早期访问权", "60% BFX奖励", "金属BFX Visa卡", "20% USDT奖励", "$10,000交易额度"],
+          "buttonLabel": "加入白名单"
+        },
+        {
+          "title": "传奇",
+          "price": "$100,000+",
+          "points": ["早期访问权", "80% BFX奖励", "18K金BFX Visa卡", "30% USDT奖励", "$25,000交易额度"],
+          "buttonLabel": "加入白名单"
+        }
+      ],
+      "faq": [
+        {
+          "question": "我何时能获得创始人俱乐部NFT？",
+          "answer": "<li>购买所需数量的$BFX后，您将自动获得创始人俱乐部NFT。</li> <li>NFT将显示在您的个人仪表板中，预售结束后即可领取。</li> <li>要访问仪表板，请点击右上角的'连接钱包'连接相同的钱包。</li>"
+        },
+        {
+          "question": "我何时能获得奖励？",
+          "answer": "<li>您的BFX奖励将立即添加到您的仪表板中</li><li>要访问您的仪表板，请点击'连接钱包'按钮</li>"
+        },
+        {
+          "question": "我可以通过多次购买获得NFT吗？",
+          "answer": "<li>是的，您可以购买较小金额的$BFX以达到所需总额。</li><li>例如，五次购买价值$200的$BFX将使您获得新手NFT（价值$1,000）。</li>"
+        },
+        {
+          "question": "我可以升级我的NFT吗？",
+          "answer": "<li>是的，您可以在预售期间多次升级。</li> <li>您将获得您达到的最高级别的奖励和NFT。</li> <li>预售结束后，将不再可能进行升级。</li>"
+        }
+      ]
+    },
+    "LessThanSec": {
+    "title": "连接加密货币与金融",
+    "description": "2024年，加密货币仅占全球交易量的0.87%，日均843亿美元。与此同时，仅外汇市场每天就处理7.5万亿美元。这一差距为$BFX提供了重大机会，可以将加密货币用户与全球最大的金融市场连接起来。",
+    "graphAlt": "交易量比较图",
+    "labels": {
+      "bonds": "债券：1.1万亿美元（11.42%）",
+      "stocks": "美国股票：7000亿美元（7.27%）",
+      "commodities": "商品：2500亿美元（2.59%）",
+      "crypto": "加密货币：890亿美元（0.87%）",
+      "forex": "外汇：7.5万亿美元（77.85%）"
+    },
+    "legend": {
+      "forex": "外汇",
+      "bonds": "债券",
+      "stocks": "美国股票",
+      "commodities": "商品",
+      "crypto": "加密货币"
     }
+  },
+  "GatewaySec": {
+    "title": "全球市场的门户",
+    "subtitle": "启动全球多资产交易平台需要数年时间和大量资金，但通过购买$BFX，您只需两次点击即可成为国际金融市场的一部分。",
+    "categories": {
+      "costs": "成本",
+      "time": "时间",
+      "team": "团队",
+      "workScope": "工作范围"
+    },
+    "newPlatform": {
+      "title": "新交易平台",
+      "costs": "高达500万美元",
+      "time": "长达3年",
+      "team": "经验丰富的多语言团队轮班工作，全天候，全年无休。",
+      "workScope": "资本要求、营销与品牌推广、流动性提供商、风险管理团队、客户支持、技术基础设施、合作伙伴关系、开发、招聘和管理员工等。"
+    },
+    "blockchainFX": {
+      "title": "BlockchainFX",
+      "costs": "由您决定",
+      "time": "2次点击购买$BFX",
+      "team": "无需团队",
+      "workScope": "无需工作"
+    },
+    "tooltip": "这是仅在某些司法管辖区启动平台所需的预算，不包括员工和营销。"
+  },
+  "HyperGrowthSec": {
+    "title": "超速增长模型",
+    "description": "BlockchainFX是一个社区驱动的交易平台，通过每日质押奖励回馈用户，培养忠诚活跃的社区。随着平台的成长，代币也随之增值，创造奖励和参与的循环。研究*表明，激励型社区的增长速度可以显著快于其他社区，而BFX正是为了最大化这一潜力而设计的。",
+    "graph": {
+      "title": "增长预测",
+      "blockchainFX": "BlockchainFX",
+      "regularPlatform": "常规交易平台",
+      "alt": "BlockchainFX与常规交易平台的增长比较图"
+    },
+    "source": "(*来源：哈佛商业评论，当社区成为你的竞争优势，2020年)",
+    "button": "加入白名单"
+  },
+  "StandoutSec": {
+    "title": "突出特点",
+    "description": "由于活跃的用户基础、平台收入和持续的营销，交易所的加密货币历来表现良好。$BFX是多资产交易平台的第一个代币，提供为市场带来真正价值的独特功能。",
+    "platforms": {
+      "blockchainFX": "BlockchainFX",
+      "bitget": "Bitget",
+      "hyperliquid": "Hyperliquid",
+      "uniswap": "Uniswap"
+    },
+    "table": {
+      "tokenName": "代币名称",
+      "ranked": "排名",
+      "marketcap": "市值",
+      "marketcapValues": {
+        "bgb": "122.6亿美元",
+        "hype": "87.7亿美元",
+        "uni": "80.8亿美元"
+      },
+      "tradeCrypto": "加密货币交易",
+      "leverageTrading": "杠杆交易",
+      "riskManagement": "风险管理",
+      "forex": "外汇",
+      "commodities": "商品",
+      "indices": "指数",
+      "cfds": "差价合约",
+      "etfs": "ETF"
+    }
+  },
+  "WallStreetSec": {
+    "title": "华尔街尽在指尖",
+    "subtitle": "通过尖端平台提升您的交易体验，<br />让您在几秒钟内访问全球市场。",
+    "features": {
+      "markets": "6个<br />市场",
+      "instruments": "800种<br />交易工具",
+      "globalMarkets": "所有全球市场<br />集于一处",
+      "fastExecution": "超快速<br />交易执行",
+      "liquidity": "深度<br />流动性",
+      "withdrawals": "快速<br />提款"
+    }
+  },
+  "tradeLikePro": {
+    "title": "像专业人士一样交易",
+    "description": "通过最先进的交易和风险管理工具掌握市场。以华尔街专业交易员的精准度进行交易。",
+    "joinWhitelist": "加入白名单",
+    "indicators": {
+      "momentum": "动量",
+      "trend": "趋势",
+      "volatility": "波动性",
+      "movingAverages": "移动平均线",
+      "volume": "交易量",
+      "others": "其他"
+    }
+  },
+  "swapSection": {
+    "title": "资产间互换",
+    "description": "体验无限交易机会，如将黄金换成BTC或将ETH换成英伟达股票，一站式完成。传统上，将加密货币转换为其他资产需要单独的交易所、额外费用和长时间等待。BlockchainFX简化了这一过程，使交易比以往更快捷、更简单。",
+    "joinWhitelist": "加入白名单",
+    "imageAlt": "资产互换插图"
+  },
+  "liveNewsSec": {
+    "title": "实时新闻交易功能",
+    "description": "通过闪电般快速的实时新闻领先市场。获取市场发展的实时更新，并根据最新新闻做出更明智的交易决策。",
+    "imageAlt": "实时新闻交易界面"
+  },
+  "whitepaper": {
+    "title": "白皮书",
+    "description": "探索BlockchainFX白皮书，了解$BFX代币如何为下一代交易生态系统提供动力，以及作为早期持有者您将如何显著受益。发现其关键特性、优势，以及BlockchainFX如何通过创建加密行业首个交易超级应用来弥合区块链与传统金融之间的差距。",
+    "joinWhitelist": "加入白名单",
+    "accessWhitepaper": "访问白皮书",
+    "imageAlt": "白皮书预览"
+  },
+  "whatIsSec": {
+    "title": "什么是BFX？",
+    "description": "$BFX是BlockchainFX的原生代币，提供了一个独特的机会，让您成为一个快速增长的全球交易平台的一部分，该平台有志成为世界领先的交易网络之一。",
+    "benefits": {
+      "earlyAccess": "早期访问",
+      "stakingRewards": "每日质押奖励",
+      "lessFees": "交易费用减少70%",
+      "tradingCredits": "交易积分"
+    },
+    "joinWhitelist": "加入白名单",
+    "checkIconAlt": "对勾图标",
+    "mainImageAlt": "BFX代币插图"
+  },
+  "tokenAllocation": {
+    "title": "代币分配",
+    "description": "代币分配结构旨在最大程度地奖励早期支持者。",
+    "chartAlt": "代币分配图表"
+  },
+  "tokenDetails": {
+    "title": "代币详情",
+    "description": "使用以下合约信息将$BFX代币添加到您的钱包中。",
+    "tokenName": {
+      "label": "代币名称",
+      "value": "BlockchainFX"
+    },
+    "launchOn": {
+      "label": "发布平台",
+      "value": "Uniswap和CEX"
+    },
+    "tokenType": {
+      "label": "代币类型",
+      "value": "以太坊"
+    },
+    "tokenSymbol": {
+      "label": "代币符号",
+      "value": "BFX"
+    },
+    "decimal": {
+      "label": "小数位",
+      "value": "18"
+    },
+    "totalSupply": {
+      "label": "总供应量",
+      "value": "35亿"
+    },
+    "contractAddress": {
+      "label": "代币合约地址"
+    },
+    "addressCopied": "地址已复制！",
+    "copyIconAlt": "复制图标"
+  }
   }

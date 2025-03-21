@@ -53,6 +53,7 @@ const TradeOverSec = () => {
               <div>
                 <img
                   src={item.img}
+                  loading="lazy"
                   className="min-h-[167px] w-[100%] object-cover"
                   alt=""
                 />

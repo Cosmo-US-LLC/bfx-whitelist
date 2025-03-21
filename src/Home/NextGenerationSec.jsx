@@ -38,31 +38,31 @@ function NextGenerationSec() {
           <div className="flex justify-center items-center space-x-[5rem]">
             <div className="flex flex-col min-w-[185px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn1} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn1} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.teamExperience") }}></p>
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn2} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn2} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.assets") }}></p>
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn10} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn10}  className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.spreads") }}></p>
             </div>
             <div className="flex flex-col items-center min-w-[145px] space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn4} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn4} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.chatSupport") }}></p>
             </div>
             <div className="flex flex-col items-center min-w-[129px] space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn3} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn3} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.register") }}></p>
             </div>
@@ -70,36 +70,36 @@ function NextGenerationSec() {
           <div className="flex justify-center items-center space-x-[5rem]">
             <div className="flex min-w-[185px] flex-col items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn5} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn5} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.oneClickTrading") }}></p>
             </div>
             <div className="flex flex-col min-w-[122px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn6} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn6} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.leverageTrading") }}></p>
             </div>
             <div className="flex flex-col min-w-[137px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn7} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn7} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.charts") }}></p>
             </div>
             <div className="flex flex-col min-w-[145px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn8} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn8} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.indicators") }}></p>
             </div>
             <div className="flex flex-col min-w-[129px] items-center space-y-[9px]">
               <div className="min-h-[40px] max-h-[40px]">
-                <img src={nexticn9} className="h-[38px]" alt="" />
+                <img loading="lazy" src={nexticn9} className='h-[38px]' alt="" />
               </div>
               <p className="text-[14px] text-[#000] text-center leading-[150%] font-[400] tracking-[-0.32px]" dangerouslySetInnerHTML={{ __html: t("NextGeneration.tournaments") }}></p>
             </div>
           </div>
-          <div className="flex justify-center items-center pt-[30px] space-x-[17px]">
+          {/* <div className="flex justify-center items-center pt-[30px] space-x-[17px]">
           <a
               href="https://forms.gle/MqeUsLeJPwxt4gfC7"
               target="_blank"
@@ -109,7 +109,7 @@ function NextGenerationSec() {
               onClick={handleScroll}
               className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
             >
-              Join the waitlist
+              Join the Whitelist
             </button>
             </a>
             <a href="https://trade.blockchainfx.io/traderoom" target="_blank" rel="noopener noreferrer">
@@ -117,7 +117,7 @@ function NextGenerationSec() {
                 {t("NextGeneration.betaTrading")}
               </button>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

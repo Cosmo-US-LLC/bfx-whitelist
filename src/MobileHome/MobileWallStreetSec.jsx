@@ -23,27 +23,27 @@ function MobileWallStreetSec() {
         <div className=" grid grid-cols-2 gap-y-[3rem]  " 
         >
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon1} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon1} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">6 <br />Markets</h4>
           </div>
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon2} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon2} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">800 <br />Instruments</h4>
           </div>
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon3} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon3} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">All Global  <br />Markets In One Place</h4>
           </div>
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon4} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon4} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Ultra-Fast <br />Trading Execution</h4>
           </div>
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon5} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon5} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Deep <br />Liquidity</h4>
           </div>
           <div className=" flex flex-col space-y-[10px] justify-center items-center w-[100%]">
-            <img src={cardicon6} className="max-h-[40px]" alt="" />
+            <img  loading="lazy" src={cardicon6} className="max-h-[40px]" alt="" />
             <h4 className="text-[14px] font-[400] tracking-[-0.32px] text-center">Fast <br /> Withdrawals</h4>
           </div>
         </div>

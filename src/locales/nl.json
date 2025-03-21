@@ -94,5 +94,315 @@
       "title": "Verdien dagelijks met BFX",
       "description": "BFX is de eerste cryptocurrency die dagelijkse USDT-beloningen uitkeert op basis van handelskosten. Elke keer dat iemand handelt op BlockchainFX, verdien je. Hoe meer BFX je bezit, hoe hoger je beloningen, tot een maximum van 25.000 USDT per dag.",
       "button": "Word lid van de wachtlijst"
+    },
+    "HowDoesItSec": {
+    "title": "Hoe werkt het?",
+    "items": [
+      {
+        "title": "Handelsplatform",
+        "description": "BlockchainFX is een multi-asset handelsplatform dat een breed scala aan handelsopties biedt."
+      },
+      {
+        "title": "Kostenverdeling",
+        "description": "70% van de handelskosten wordt gebruikt om de BFX-gemeenschap te stimuleren en de groei van het ecosysteem te bevorderen."
+      },
+      {
+        "title": "Dagelijkse inkomsten (50%)",
+        "description": "50% van alle geïnde kosten wordt gedeeld met BFX-houders en automatisch elke 24 uur uitbetaald."
+      },
+      {
+        "title": "Inkoop (20%)",
+        "description": "20% van de kosten wordt gebruikt voor dagelijkse BFX-inkopen, waardoor de vraag toeneemt en de $BFX-prijs stijgt."
+      },
+      {
+        "title": "Verbranding",
+        "description": "De helft van alle ingekochte BFX wordt automatisch verbrand, waardoor de voorraad van $BFX geleidelijk wordt verminderd."
+      },
+      {
+        "title": "Exponentiële groei",
+        "description": "Het deflatoire model en het automatische inkoopsysteem stimuleren het potentieel voor exponentiële groei van $BFX."
+      }
+    ]
+  },
+  "ExclusiveBenefitsSec": {
+    "title": "Exclusieve voordelen tijdens de BFX voorverkoop",
+    "items": [
+      {
+        "title": "Laagste prijs <br/> vóór de lancering",
+        "description": "Kopen tijdens de voorverkoop stelt je in staat een aanzienlijk lagere prijs te krijgen dan de $BFX-lanceringsprijs."
+      },
+      {
+        "title": "Ontvang een beperkte <br/> BFX Visa-kaart",
+        "description": "Ontvang een metalen of gouden BFX Visa-creditcard met onbeperkte uitgaven en wereldwijd gebruik."
+      },
+      {
+        "title": "Ontgrendel <br/> bonus-handelscredits",
+        "description": "Krijg een exclusief lidmaatschap met meerdere voordelen en tot $25.000 om mee te beginnen met handelen zonder voorwaarden."
+      },
+      {
+        "title": "Dagelijkse USDT- <br/> staking-inkomsten",
+        "description": "Verdien dagelijks passieve USDT- en $BFX-beloningen, zelfs tijdens de voorverkoop. Hoe eerder je koopt, hoe meer je verdient."
+      }
+    ]
+  },
+  "CreditCard": {
+    "title": "BFX Visa-kaart",
+    "features": [
+      "Onbeperkt uitgeven",
+      "Metalen of 18-karaats gouden kaart",
+      "Tot $100.000 per transactie",
+      "Tot $10.000 per maand opnemen bij geldautomaten",
+      "Gebruik BFX en USDT-beloningen voor betalingen",
+      "Wereldwijd geaccepteerd (Online & in winkels)",
+      "Opladen met BFX en meer dan 20 cryptovaluta",
+      "BFX Visa-kaart alleen beschikbaar in de voorverkoop"
+    ],
+    "compatible": "Compatibel met",
+    "shipping": "De verzending begint zodra de BFX-voorverkoop eindigt, omdat alle kaarten tegelijk worden verzonden. Elk lid van de BFX Founder's Club ontvangt na de voorverkoop een beveiligd formulier om hun verzendgegevens in te voeren. Kaarten worden wereldwijd geleverd via DHL of FedEx Express."
+  },
+    "PremiumSec": {
+      "title": "Beperkt Founder's Club Lidmaatschap",
+      "subtitle": "Koop $BFX tijdens de pre-sale en ontvang Founder's Club NFT's vanaf slechts $1.000! Geniet van vroege toegang, exclusieve lidmaatschappen, bonus $BFX, dagelijkse staking beloningen in BFX en USDT, plus extra handelskredieten.",
+      "cards": [
+        {
+          "title": "Beginner",
+          "price": "$1.000",
+          "points": ["Vroege Toegang", "10% BFX Bonus", "BFX Visa Kaart"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Gevorderd",
+          "price": "$2.500",
+          "points": ["Vroege Toegang", "20% BFX Bonus", "Metalen BFX Visa Kaart", "$500 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Pro",
+          "price": "$5.000",
+          "points": ["Vroege Toegang", "30% BFX Bonus", "Metalen BFX Visa Kaart", "$1000 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Expert",
+          "price": "$10.000+",
+          "points": ["Vroege Toegang", "40% BFX Bonus", "Metalen BFX Visa Kaart", "10% USDT Beloningen", "$2000 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Meester",
+          "price": "$25.000+",
+          "points": ["Vroege Toegang", "50% BFX Bonus", "Metalen BFX Visa Kaart", "15% USDT Beloningen", "$5000 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Elite",
+          "price": "$50.000+",
+          "points": ["Vroege Toegang", "60% BFX Bonus", "Metalen BFX Visa Kaart", "20% USDT Beloningen", "$10.000 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        },
+        {
+          "title": "Legende",
+          "price": "$100.000+",
+          "points": ["Vroege Toegang", "80% BFX Bonus", "18 Karaat BFX Visa Kaart", "30% USDT Beloningen", "$25.000 Handelskredieten"],
+          "buttonLabel": "Meld je aan voor de Whitelist"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wanneer krijg ik mijn Founder's Club NFT?",
+          "answer": "<li>Je ontvangt je Founder's Club NFT automatisch na aankoop van de vereiste hoeveelheid $BFX.</li> <li>De NFT verschijnt in je persoonlijke dashboard en kan worden geclaimd zodra de pre-sale eindigt.</li> <li>Om toegang te krijgen tot het dashboard, verbind je dezelfde wallet door rechtsboven op 'Wallet Verbinden' te klikken.</li>"
+        },
+        {
+          "question": "Wanneer krijg ik mijn Bonussen?",
+          "answer": "<li>Je BFX bonussen worden direct toegevoegd aan je dashboard</li><li>Om toegang te krijgen tot je dashboard, klik je op de knop 'Wallet Verbinden'</li>"
+        },
+        {
+          "question": "Kan ik een NFT krijgen met meerdere aankopen?",
+          "answer": "<li>Ja, je kunt $BFX in kleinere bedragen kopen om het vereiste totaal te bereiken. </li><li>Bijvoorbeeld, het kopen van $BFX ter waarde van $200 vijf keer levert je de Beginner NFT op (ter waarde van $1.000).</li>"
+        },
+        {
+          "question": "Kan ik mijn NFT upgraden?",
+          "answer": "<li>Ja, je kunt meerdere keren upgraden tijdens de pre-sale.</li> <li>Je ontvangt beloningen en de NFT voor het hoogste niveau dat je bereikt.</li> <li>Na afloop van de pre-sale zijn upgrades niet meer mogelijk.</li>"
+        }
+      ]
     }
+    ,
+    "LessThanSec": {
+    "title": "Crypto en Financiën Verbinden",
+    "description": "Crypto maakt in 2024 slechts 0,87% uit van het wereldwijde handelsvolume, met een gemiddelde van $84,3 miljard per dag. Ondertussen verwerkt alleen de Forex-markt al $7,5 biljoen per dag. Deze kloof biedt een grote kans voor $BFX om cryptogebruikers te verbinden met 's werelds grootste financiële markten.",
+    "graphAlt": "Vergelijkingsgrafiek handelsvolume",
+    "labels": {
+      "bonds": "Obligaties: $1,1 biljoen (11,42%)",
+      "stocks": "Amerikaanse aandelen: $700 miljard (7,27%)",
+      "commodities": "Grondstoffen: $250 miljard (2,59%)",
+      "crypto": "Crypto: $89 miljard (0,87%)",
+      "forex": "Forex: $7,5 biljoen (77,85%)"
+    },
+    "legend": {
+      "forex": "Forex",
+      "bonds": "Obligaties",
+      "stocks": "Amerikaanse aandelen",
+      "commodities": "Grondstoffen",
+      "crypto": "Crypto"
+    }
+  },
+  "GatewaySec": {
+    "title": "De Toegangspoort tot Wereldwijde Markten",
+    "subtitle": "Het opzetten van een wereldwijd multi-asset handelsplatform kost jaren en aanzienlijk kapitaal, maar door $BFX te kopen, kunt u met slechts twee klikken deel uitmaken van de internationale financiële markt.",
+    "categories": {
+      "costs": "Kosten",
+      "time": "Tijd",
+      "team": "Team",
+      "workScope": "Werkbereik"
+    },
+    "newPlatform": {
+      "title": "Nieuw Handelsplatform",
+      "costs": "Tot $5 Miljoen",
+      "time": "Tot 3 jaar",
+      "team": "Ervaren meertalig team dat in ploegen werkt, 24/7, 365 dagen per jaar.",
+      "workScope": "Kapitaalvereisten, Marketing & Branding, Liquiditeitsverschaffers, Risicobeheerteam, Klantenondersteuning, Technologische Infrastructuur, Partnerschappen, Ontwikkeling, Werven en Beheren van Personeel, en meer."
+    },
+    "blockchainFX": {
+      "title": "BlockchainFX",
+      "costs": "Aan u",
+      "time": "Koop $BFX in 2 klikken",
+      "team": "Geen team nodig",
+      "workScope": "Geen werk vereist"
+    },
+    "tooltip": "Dit is het budget dat alleen nodig is om het platform te lanceren in bepaalde rechtsgebieden, exclusief personeel en marketing."
+  },
+  "HyperGrowthSec": {
+    "title": "Hypergroeimodel",
+    "description": "BlockchainFX is een community-gedreven handelsplatform dat gebruikers beloont met dagelijkse staking-beloningen, wat een loyale en actieve gemeenschap bevordert. Naarmate het platform groeit, groeit ook de token, wat een cyclus van beloningen en betrokkenheid creëert. Onderzoeken* tonen aan dat gemeenschappen met stimulansen aanzienlijk sneller kunnen groeien dan anderen, en BFX is ontworpen om dat potentieel te maximaliseren.",
+    "graph": {
+      "title": "Groeivoorspelling",
+      "blockchainFX": "BlockchainFX",
+      "regularPlatform": "Regulier Handelsplatform",
+      "alt": "Groeivergelijkingsgrafiek tussen BlockchainFX en reguliere handelsplatforms"
+    },
+    "source": "(*Bron: Harvard Business Review, Wanneer gemeenschap je concurrentievoordeel wordt, 2020)",
+    "button": "Meld je aan voor de Whitelist"
+  },
+  "StandoutSec": {
+    "title": "Opvallende Kenmerken",
+    "description": "Cryptocurrencies van beurzen hebben historisch gezien goed gepresteerd dankzij hun actieve gebruikersbasis, platforminkomsten en doorlopende marketing. $BFX, de eerste token van een multi-asset handelsplatform, biedt unieke functies die echte waarde aan de markt toevoegen.",
+    "platforms": {
+      "blockchainFX": "BlockchainFX",
+      "bitget": "Bitget",
+      "hyperliquid": "Hyperliquid",
+      "uniswap": "Uniswap"
+    },
+    "table": {
+      "tokenName": "Token Naam",
+      "ranked": "Gerangschikt",
+      "marketcap": "Marktkapitalisatie",
+      "marketcapValues": {
+        "bgb": "$12,26 Miljard",
+        "hype": "$8,77 Miljard",
+        "uni": "$8,08 Miljard"
+      },
+      "tradeCrypto": "Crypto Handelen",
+      "leverageTrading": "Hefboomhandel",
+      "riskManagement": "Risicobeheer",
+      "forex": "Forex",
+      "commodities": "Grondstoffen",
+      "indices": "Indices",
+      "cfds": "CFDs",
+      "etfs": "ETFs"
+    }
+  },
+  "WallStreetSec": {
+    "title": "Wall Street binnen handbereik",
+    "subtitle": "Verbeter je handelservaring met een geavanceerd platform <br /> waarmee je in enkele seconden toegang krijgt tot wereldwijde markten.",
+    "features": {
+      "markets": "6 <br />Markten",
+      "instruments": "800 <br />Instrumenten",
+      "globalMarkets": "Alle Wereldwijde Markten <br />Op Één Plek",
+      "fastExecution": "Ultrasnelle <br />Handelsuitvoering",
+      "liquidity": "Diepe <br />Liquiditeit",
+      "withdrawals": "Snelle <br />Opnames"
+    }
+  },
+  "tradeLikePro": {
+    "title": "Handel als een Pro",
+    "description": "Beheers de markten met geavanceerde handels- en risicobeheertools. Handel met de precisie van een professionele Wall Street-handelaar.",
+    "joinWhitelist": "Meld je aan voor de Whitelist",
+    "indicators": {
+      "momentum": "Momentum",
+      "trend": "Trend",
+      "volatility": "Volatiliteit",
+      "movingAverages": "Voortschrijdende Gemiddelden",
+      "volume": "Volume",
+      "others": "Overige"
+    }
+  },
+  "swapSection": {
+    "title": "Wissel tussen Activa",
+    "description": "Ervaar onbegrensde handelsmogelijkheden, zoals het wisselen van goud voor BTC of ETH voor Nvidia-aandelen, allemaal op één plek. Traditioneel vereiste het omzetten van crypto naar andere activa aparte beurzen, extra kosten en lange wachttijden. BlockchainFX stroomlijnt dit, waardoor handelen sneller en eenvoudiger is dan ooit.",
+    "joinWhitelist": "Meld je aan voor de Whitelist",
+    "imageAlt": "Illustratie van activawissel"
+  },
+  "liveNewsSec": {
+    "title": "Live Nieuws Handelsfunctie",
+    "description": "Blijf de markten voor met bliksemsnelle live nieuws. Ontvang realtime updates over marktontwikkelingen en neem slimmere handelsbeslissingen op basis van het laatste nieuws.",
+    "imageAlt": "Live nieuws handelsinterface"
+  },
+  "whitepaper": {
+    "title": "Whitepaper",
+    "description": "Verken het BlockchainFX whitepaper om te leren hoe de $BFX token een handelsecosysteem van de volgende generatie aandrijft en hoe je als vroege houder aanzienlijk zult profiteren. Ontdek de belangrijkste functies, voordelen en hoe BlockchainFX de kloof tussen blockchain en traditionele financiën overbrugt door de eerste handelssuper-app van de crypto-industrie te creëren.",
+    "joinWhitelist": "Meld je aan voor de Whitelist",
+    "accessWhitepaper": "Whitepaper Bekijken",
+    "imageAlt": "Whitepaper voorbeeld"
+  },
+  "whatIsSec": {
+    "title": "Wat is BFX?",
+    "description": "$BFX is de eigen munt van BlockchainFX, die een unieke kans biedt om deel uit te maken van een snel groeiend wereldwijd handelsplatform met de ambitie om een van 's werelds toonaangevende handelsnetwerken te worden.",
+    "benefits": {
+      "earlyAccess": "Vroege Toegang",
+      "stakingRewards": "Dagelijkse Staking Beloningen",
+      "lessFees": "70% Minder Handelskosten",
+      "tradingCredits": "Handelskredieten"
+    },
+    "joinWhitelist": "Meld je aan voor de Whitelist",
+    "checkIconAlt": "Vinkje icoon",
+    "mainImageAlt": "BFX token illustratie"
+  },
+  "tokenAllocation": {
+    "title": "Token Toewijzing",
+    "description": "De token toewijzing is gestructureerd om vroege supporters het meest te belonen.",
+    "chartAlt": "Token toewijzingsgrafiek"
+  },
+  "tokenDetails": {
+    "title": "Token Details",
+    "description": "Gebruik de contractinformatie hieronder om de $BFX token aan je wallet toe te voegen.",
+    "tokenName": {
+      "label": "Token Naam",
+      "value": "BlockchainFX"
+    },
+    "launchOn": {
+      "label": "Lancering op",
+      "value": "Uniswap en CEX"
+    },
+    "tokenType": {
+      "label": "Token Type",
+      "value": "Ethereum"
+    },
+    "tokenSymbol": {
+      "label": "Token Symbool",
+      "value": "BFX"
+    },
+    "decimal": {
+      "label": "Decimalen",
+      "value": "18"
+    },
+    "totalSupply": {
+      "label": "Totale Voorraad",
+      "value": "3,5 miljard"
+    },
+    "contractAddress": {
+      "label": "Token Contractadres"
+    },
+    "addressCopied": "Adres gekopieerd!",
+    "copyIconAlt": "Kopieer icoon"
+  }
   }

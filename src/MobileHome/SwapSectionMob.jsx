@@ -33,6 +33,7 @@ export default function SwapSectionMob() {
           <div className="w-[100%] flex justify-center">
             <div className="w-full p-2">
               <img
+               loading="lazy"
                 src={whitepaper}
                 className="w-[453px] h-auto"
                 alt="whitepaper"
@@ -49,7 +50,7 @@ export default function SwapSectionMob() {
                 onClick={handleScroll}
                 className="text-white bg-[#E5AE00] px-[12px] hover:text-black hover:bg-transparent text-[14px] font-[800] border border-[#E5AE00] hover:border-[#000] rounded-[8px] max-w-[158px] w-[100%] h-[39px]"
               >
-                Join the waitlist
+                Join the Whitelist
               </button>
               </a>
             </div>

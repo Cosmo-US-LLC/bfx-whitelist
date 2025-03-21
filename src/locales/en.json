@@ -99,5 +99,314 @@
     "title": "Earn Daily With BFX",
     "description": "BFX is the first cryptocurrency that distributes daily USDT rewards based on trading fee revenue. Every time someone trades on BlockchainFX, you earn. The more BFX you hold, the higher your rewards, up to a maximum of 25,000 USDT per day.",
     "button": "Join the waitlist"
+  },
+  "HowDoesItSec": {
+    "title": "How does it work?",
+    "items": [
+      {
+        "title": "Trading Platform",
+        "description": "BlockchainFX is a multi-asset trading platform that offers a wide range of trading options."
+      },
+      {
+        "title": "Fee Distribution",
+        "description": "70% of trading fees are used to incentivize the BFX community and drive the ecosystem’s growth."
+      },
+      {
+        "title": "Daily Revenue (50%)",
+        "description": "50% of all fees collected will be shared with BFX holders and automatically airdropped every 24 hours."
+      },
+      {
+        "title": "Buybacks (20%)",
+        "description": "20% of fees will be used for daily BFX buybacks, increasing demand and boosting the $BFX price."
+      },
+      {
+        "title": "Burn",
+        "description": "Half of all buybacks will be automatically burned, gradually reducing the supply of $BFX."
+      },
+      {
+        "title": "Hyper Growth",
+        "description": "The deflationary model and automatic buyback system fuel the potential for exponential growth of $BFX."
+      }
+    ]
+  },
+  "ExclusiveBenefitsSec": {
+    "title": "Exclusive Benefits During the BFX Presale",
+    "items": [
+      {
+        "title": "Lowest Price <br/>Before Launch",
+        "description": "Buying during the pre-sale allows you to secure a significantly lower price compared to the $BFX launch price."
+      },
+      {
+        "title": "Receive Limited <br/> BFX Visa Card",
+        "description": "Get a metal or gold BFX Visa credit card with unlimited spending and top-ups, usable worldwide."
+      },
+      {
+        "title": "Unlock Bonus <br/> Trading Credits",
+        "description": "Get an exclusive membership packed with multiple perks and up to $25,000 to start trading with no conditions attached."
+      },
+      {
+        "title": "Daily USDT <br/> Staking Income",
+        "description": "Earn daily passive USDT and $BFX rewards, even during the pre-sale. The earlier you buy, the more you earn."
+      }
+    ]
+  },
+  "CreditCard": {
+    "compatibleWith": "Compatible with",
+    "title": "BFX Visa Card",
+    "features": {
+      "unlimitedSpending": "Unlimited Spending",
+      "goldCard": "Metal or 18 Karat Gold Card",
+      "transactionLimit": "Up to $100,000 per Transaction",
+      "atmWithdrawals": "Up to $10K Monthly ATM Withdrawals",
+      "bfxUsdtPayments": "Use BFX and USDT Rewards for Payments",
+      "acceptedWorldwide": "Accepted Worldwide (Online & In-Stores)",
+      "topUpCrypto": "Top Up with BFX and 20+ Crypto",
+      "presaleOnly": "BFX Visa Card Only Available in Presale"
+    },
+    "shippingInfo": "Shipping will begin once the BFX presale ends, as all cards will be sent out simultaneously. <br /> Every BFX Founder’s Club member will receive a secure form after the presale to submit their shipping details. Cards will be delivered worldwide via DHL or FedEx Express."
+  },
+ "PremiumSec": {
+    "title": "Limited Founder's Club Membership",
+    "subtitle": "Buy $BFX during the pre-sale and get Founder's Club NFTs starting at only $1,000! Enjoy early access, exclusive memberships, bonus $BFX, daily staking rewards in BFX and USDT, plus extra trading credits.",
+    "cards": [
+      {
+        "title": "Novice",
+        "price": "$1,000",
+        "points": ["Early Access", "10% BFX Bonus", "BFX Visa Card"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Advanced",
+        "price": "$2,500",
+        "points": ["Early Access", "20% BFX Bonus", "Metal BFX Visa Card", "$500 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Pro",
+        "price": "$5,000",
+        "points": ["Early Access", "30% BFX Bonus", "Metal BFX Visa Card", "$1000 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Expert",
+        "price": "$10,000+",
+        "points": ["Early Access", "40% BFX Bonus", "Metal BFX Visa Card", "10% USDT Rewards", "$2000 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Master",
+        "price": "$25,000+",
+        "points": ["Early Access", "50% BFX Bonus", "Metal BFX Visa Card", "15% USDT Rewards", "$5000 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Elite",
+        "price": "$50,000+",
+        "points": ["Early Access", "60% BFX Bonus", "Metal BFX Visa Card", "20% USDT Rewards", "$10,000 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      },
+      {
+        "title": "Legend",
+        "price": "$100,000+",
+        "points": ["Early Access", "80% BFX Bonus", "18 Karat BFX Visa Card", "30% USDT Rewards", "$25,000 Trading Credits"],
+        "buttonLabel": "Join the Whitelist"
+      }
+    ],
+    "faq": [
+      {
+        "question": "When will I get my Founder's Club NFT?",
+        "answer": "<li>You'll receive your Founder's Club NFT automatically after purchasing the required amount of $BFX.</li> <li>The NFT will appear in your personal dashboard and can be claimed once the presale ends.</li> <li>To access the dashboard, connect the same wallet by clicking 'Connect Wallet' in the top right corner.</li>"
+      },
+      {
+        "question": "When will I get my Bonuses?",
+        "answer": "<li>Your BFX bonuses will be instantly added to your dashboard</li><li>To access your dashboard, click the 'Connect Wallet' button</li>"
+      },
+      {
+        "question": "Can I get an NFT with multiple purchases?",
+        "answer": "<li>Yes, you can buy $BFX in smaller amounts to reach the total required. </li><li>For example, buying $200 worth of $BFX five times will earn you the Novice NFT (valued at $1,000).</li>"
+      },
+      {
+        "question": "Can I upgrade my NFT?",
+        "answer": "<li>Yes, you can upgrade multiple times during the presale.</li> <li>You'll receive rewards and the NFT for the highest level you achieve.</li> <li>After the presale ends, upgrades will no longer be possible.</li>"
+      }
+    ]
+  },
+  "LessThanSec": {
+    "title": "Bridging Crypto and Finance",
+    "description": "Crypto makes up only 0.87% of global trading volume in 2024, averaging $84.3 billion daily. Meanwhile, the Forex market alone handles $7.5 trillion per day. This gap presents a major opportunity for $BFX to connect crypto users with the world's largest financial markets.",
+    "graphAlt": "Trading volume comparison chart",
+    "labels": {
+      "bonds": "Bonds: $1.1 Trillion (11.42%)",
+      "stocks": "U.S. Stocks: $700 Billion (7.27%)",
+      "commodities": "Commodities: $250 Billion (2.59%)",
+      "crypto": "Crypto: $89 Billion (0.87%)",
+      "forex": "Forex: $7.5 Trillion (77.85%)"
+    },
+    "legend": {
+      "forex": "Forex",
+      "bonds": "Bonds",
+      "stocks": "US Stock",
+      "commodities": "Commodities",
+      "crypto": "Crypto"
+    }
+  },
+  "GatewaySec": {
+    "title": "The Gateway to Global Markets",
+    "subtitle": "Starting a global multi-asset trading platform takes years and significant capital, but by buying $BFX, you can be a part of the international financial market in just two clicks.",
+    "categories": {
+      "costs": "Costs",
+      "time": "Time",
+      "team": "Team",
+      "workScope": "Work Scope"
+    },
+    "newPlatform": {
+      "title": "New Trading Platform",
+      "costs": "Up to $5 Million",
+      "time": "Up to 3 years",
+      "team": "Experienced multilingual team working in shifts, 24/7, 365 days a year.",
+      "workScope": "Capital Requirements, Marketing & Branding, Liquidity Providers, Risk Management Team, Customer Support, Technology Infrastructure, Partnerships, Development, Hiring and Managing Staff, and more."
+    },
+    "blockchainFX": {
+      "title": "BlockchainFX",
+      "costs": "Up to you",
+      "time": "Buy $BFX in 2 clicks",
+      "team": "No Team required",
+      "workScope": "No Work Required"
+    },
+    "tooltip": "This is the budget needed only to launch the platform in certain jurisdictions, excluding staff and marketing."
+  },
+  "HyperGrowthSec": {
+    "title": "Hyper Growth Model",
+    "description": "BlockchainFX is a community-driven trading platform that rewards users with daily staking rewards, fostering a loyal and active community. As the platform grows, so does the token, creating a cycle of rewards and engagement. Studies* show that incentivized communities can grow significantly faster than others, and BFX is designed to maximize that potential.",
+    "graph": {
+      "title": "Growth Forecasting",
+      "blockchainFX": "BlockchainFX",
+      "regularPlatform": "Regular Trading Platform",
+      "alt": "Growth comparison graph between BlockchainFX and regular trading platforms"
+    },
+    "source": "(*Source: Harvard Business Review, When Community Becomes Your Competitive Advantage, 2020)",
+    "button": "Join the Whitelist"
+  },
+  "StandoutSec": {
+    "title": "Standout Features",
+    "description": "Cryptocurrencies from exchanges have historically performed well due to their active user base, platform revenue, and ongoing marketing. $BFX, the first token from a multi-asset trading platform, offers unique features that bring real value to the market.",
+    "platforms": {
+      "blockchainFX": "BlockchainFX",
+      "bitget": "Bitget",
+      "hyperliquid": "Hyperliquid",
+      "uniswap": "Uniswap"
+    },
+    "table": {
+      "tokenName": "Token Name",
+      "ranked": "Ranked",
+      "marketcap": "Marketcap",
+      "marketcapValues": {
+        "bgb": "$12.26 Billion",
+        "hype": "$8.77 Billion",
+        "uni": "$8.08 Billion"
+      },
+      "tradeCrypto": "Trade Crypto",
+      "leverageTrading": "Leverage Trading",
+      "riskManagement": "Risk Management",
+      "forex": "Forex",
+      "commodities": "Commodities",
+      "indices": "Indices",
+      "cfds": "CFDs",
+      "etfs": "ETFs"
+    }
+  },
+  "WallStreetSec": {
+    "title": "Wall Street at your finger tips",
+    "subtitle": "Elevate your trading experience with a cutting-edge platform <br /> that lets you access global markets in seconds.",
+    "features": {
+      "markets": "6 <br />Markets",
+      "instruments": "800 <br />Instruments",
+      "globalMarkets": "All Global <br />Markets In One Place",
+      "fastExecution": "Ultra-Fast <br />Trading Execution",
+      "liquidity": "Deep <br />Liquidity",
+      "withdrawals": "Fast <br /> Withdrawals"
+    }
+  },
+  "tradeLikePro": {
+    "title": "Trade Like a Pro",
+    "description": "Master the markets with state-of-the-art trading and risk management tools. Trade with the precision of a professional Wall Street trader.",
+    "joinWhitelist": "Join the Whitelist",
+    "indicators": {
+      "momentum": "Momentum",
+      "trend": "Trend",
+      "volatility": "Volatility",
+      "movingAverages": "Moving Averages",
+      "volume": "Volume",
+      "others": "Others"
+    }
+  },
+  "swapSection": {
+    "title": "Swap Between Assets",
+    "description": "Experience limitless trading opportunities, like swapping gold for BTC or ETH for Nvidia stock, all in one place. Traditionally, converting crypto into other assets required separate exchanges, extra fees, and long wait times. BlockchainFX streamlines it, making trading faster and easier than ever.",
+    "joinWhitelist": "Join the Whitelist",
+    "imageAlt": "Asset swap illustration"
+  },
+  "liveNewsSec": {
+    "title": "Live News Trading Feature",
+    "description": "Stay ahead of the markets with lightning-fast live news. Get real-time updates on market developments and make smarter trading decisions based on the latest news.",
+    "imageAlt": "Live news trading interface"
+  },
+  "whitepaper": {
+    "title": "Whitepaper",
+    "description": "Explore the BlockchainFX whitepaper to learn how the $BFX token powers a next-gen trading ecosystem and how you will significantly benefit as an early holder. Discover its key features, advantages, and how BlockchainFX is bridging the gap between blockchain and traditional finance by creating the crypto industry's first trading super app.",
+    "joinWhitelist": "Join the Whitelist",
+    "accessWhitepaper": "Access Whitepaper",
+    "imageAlt": "Whitepaper preview"
+  },
+  "whatIsSec": {
+    "title": "What is BFX?",
+    "description": "$BFX is BlockchainFX's native coin, offering a unique opportunity to be part of a fast-growing global trading platform with the ambition to become one of the world's leading trading networks.",
+    "benefits": {
+      "earlyAccess": "Early Access",
+      "stakingRewards": "Daily Staking Rewards",
+      "lessFees": "70% Less Trading Fees",
+      "tradingCredits": "Trading Credits"
+    },
+    "joinWhitelist": "Join the Whitelist",
+    "checkIconAlt": "Check mark icon",
+    "mainImageAlt": "BFX token illustration"
+  },
+  "tokenAllocation": {
+    "title": "Token Allocation",
+    "description": "The token allocation is structured to reward early supporters the most.",
+    "chartAlt": "Token allocation chart"
+  },
+  "tokenDetails": {
+    "title": "Token Details",
+    "description": "Use the contract information below to add the $BFX token to your wallet.",
+    "tokenName": {
+      "label": "Token Name",
+      "value": "BlockchainFX"
+    },
+    "launchOn": {
+      "label": "Launch on",
+      "value": "Uniswap and CEX"
+    },
+    "tokenType": {
+      "label": "Token Type",
+      "value": "Ethereum"
+    },
+    "tokenSymbol": {
+      "label": "Token Symbol",
+      "value": "BFX"
+    },
+    "decimal": {
+      "label": "Decimal",
+      "value": "18"
+    },
+    "totalSupply": {
+      "label": "Total Supply",
+      "value": "3.5B"
+    },
+    "contractAddress": {
+      "label": "Token Contract Address"
+    },
+    "addressCopied": "Address Copied!",
+    "copyIconAlt": "Copy Icon"
   }
 }
