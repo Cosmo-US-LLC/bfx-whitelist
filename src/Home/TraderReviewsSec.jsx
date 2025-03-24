@@ -116,7 +116,7 @@ function TraderReviewsSec() {
                 >
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.
                       </p>
                       <div className="flex items-center space-x-2">
@@ -141,7 +141,7 @@ function TraderReviewsSec() {
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[33px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.
                       </p>
                       <div className="flex items-center space-x-2">
@@ -166,7 +166,7 @@ function TraderReviewsSec() {
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there’s no need to waste time switching between brokers.
                       </p>
                       <div className="flex items-center space-x-2">
@@ -191,7 +191,7 @@ function TraderReviewsSec() {
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9]  min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       The best part about BlockchainFX? The deep liquidity across all assets. I’ve never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.
                       </p>
                       <div className="flex items-center space-x-2">
@@ -216,7 +216,7 @@ function TraderReviewsSec() {
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9] pb-[51px] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto! 
                       </p>
                       <div className="flex items-center space-x-2">
@@ -241,7 +241,7 @@ function TraderReviewsSec() {
                   </SwiperSlide>
                   <SwiperSlide>
                     <div className="py-[35px] relative z-[9] pb-[51px] min-h-[340px] max-h-[340px] flex flex-col justify-between pl-[35px] pr-[14px]  bg-[#181A20] rounded-[4px] w-[294px] space-y-[30px]">
-                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff]">
+                      <p className="text-[13px] font-[400] leading-[175%] text-[#fff] min-h-[152px]">
                       That’s exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.
                       </p>
                       <div className="flex items-center space-x-2">

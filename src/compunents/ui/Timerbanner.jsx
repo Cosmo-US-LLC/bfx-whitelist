@@ -57,14 +57,14 @@ const Timerbanner = () => {
     </div>
    </div>
    <div className=" bg-[#E5AE00] w-[100%] h-[50px] 2xl:hidden xl:hidden lg:hidden md:hidden sm:flex flex items-center  fixed z-[999] bottom-0">
-   <div className="max-w-[677px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[90%] mx-auto flex items-center justify-between">
-   <div className="space-y-[-2px]">
-   <h2 className="text-[14px] font-[700] leading-[16px]">BFX Presale starts in</h2>
-    <h3 className="text-[14px] font-[700] leading-[16px] pt-1">
-      {timeLeft.days} <span className="text-[10px] font-[400] pr-2">Days</span> {timeLeft.hours} <span className="text-[10px] font-[400] pr-2">Hours</span> {timeLeft.minutes} <span className="text-[10px] font-[400] pr-2">Mins</span> {timeLeft.seconds} <span className="text-[12px] font-[400]">Secs</span>
+   <div className="max-w-[677px] 2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[90%] w-[94%] mx-auto flex items-center justify-between">
+   <div className="space-x-[10px] flex items-center">
+   <h2 className="text-[10px] font-[700] leading-[16px]">BFX Presale starts in</h2>
+    <h3 className="text-[10px] font-[700] leading-[16px]">
+      {timeLeft.days} <span className="text-[8px] font-[400] pr-2">Days</span> {timeLeft.hours} <span className="text-[8px] font-[400] pr-2">Hours</span> {timeLeft.minutes} <span className="text-[8px] font-[400] pr-2">Mins</span> {timeLeft.seconds} <span className="text-[8px] font-[400]">Secs</span>
     </h3>
    </div>
-    <button className="w-[110px] h-[26px] font-[700] bg-[#E5AE00] text-[10px] border border-[#000] rounded-[8px]"
+    <button className="w-[95px] h-[26px] font-[700] bg-[#E5AE00] text-[8px] border border-[#000] rounded-[8px]"
     onClick={(e) => handleScroll(e, "join-whitelist", 60)}
     >Join the Whitelist</button>
   </div>
