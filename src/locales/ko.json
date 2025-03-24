@@ -403,6 +403,261 @@
     },
     "addressCopied": "주소가 복사되었습니다!",
     "copyIconAlt": "복사 아이콘"
+  },
+  "securityBuilt": {
+    "title": "핵심에 내장된 보안",
+    "description": "BlockchainFX는 신뢰할 수 있는 인프라와 원활한 생태계를 구축하기 위해 첨단 기술을 활용하여 트레이더에게 안전하고 사용자 친화적인 경험을 제공합니다.",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "PCI DSS 아이콘"
+      },
+      "dataPrivacy": {
+        "title": "강화된 데이터 개인 정보 보호",
+        "iconAlt": "데이터 개인 정보 보호 아이콘"
+      },
+      "monitoring": {
+        "title": "실시간 모니터링 및 위협 감지",
+        "iconAlt": "모니터링 아이콘"
+      },
+      "riskManagement": {
+        "title": "제3자 위험 관리",
+        "iconAlt": "위험 관리 아이콘"
+      },
+      "dataBackups": {
+        "title": "데이터 백업 및 재해 복구",
+        "iconAlt": "데이터 백업 아이콘"
+      },
+      "gdpr": {
+        "title": "GDPR 준수",
+        "iconAlt": "GDPR 아이콘"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "로드맵",
+    "vectorAlt": "장식용 벡터 이미지",
+    "phases": {
+      "preparation": {
+        "title": "준비",
+        "items": {
+          "idea": "아이디어 + 컨셉",
+          "raiseFunds": "시드 자금 모금",
+          "onboardTeam": "팀 및 고문 영입",
+          "tradingPlatform": "거래 플랫폼 베타 준비"
+        }
+      },
+      "execution": {
+        "title": "실행",
+        "items": {
+          "website": "웹사이트, 토큰노믹스 등",
+          "createToken": "$BFX 토큰 생성",
+          "launchPresale": "$BFX 프리세일 출시",
+          "certikAudit": "CertiK 토큰 감사"
+        }
+      },
+      "launch": {
+        "title": "출시",
+        "items": {
+          "affiliateProgram": "제휴 프로그램 출시",
+          "sellOutPresale": "프리세일 완판",
+          "launchOnExchanges": "Uniswap 및 CEX에서 $BFX 출시",
+          "tenThousandHolders": "10,000명의 BFX 보유자 달성"
+        }
+      },
+      "performance": {
+        "title": "성능",
+        "items": {
+          "cashbackSystem": "트레이더를 위한 캐시백 시스템",
+          "publicChats": "거래 플랫폼을 위한 공개 채팅",
+          "copyTrading": "카피 트레이딩 기능 추가",
+          "mobileApps": "iOS 및 Android 앱 출시"
+        }
+      },
+      "expansion": {
+        "title": "확장",
+        "items": {
+          "cexListing": "다중 CEX 상장",
+          "tradingVolume": "일일 거래량 1억 달러 달성",
+          "hundredThousandHolders": "100,000명의 BFX 보유자 달성",
+          "leaderboards": "리더보드 및 VIP 계정 추가"
+        }
+      },
+      "globalReach": {
+        "title": "글로벌 도달",
+        "items": {
+          "usLicense": "미국 라이센스",
+          "marketingCampaigns": "글로벌 마케팅 캠페인",
+          "millionHolders": "1,000,000명의 BFX 보유자 달성",
+          "partnerships": "주요 파트너십"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "다수 수상 경력의 거래 플랫폼",
+    "title": "우리의 수상 경력이 모든 것을 말해줍니다",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "2025년 최고의 거래 플랫폼",
+        "badgeAlt": "수상 배지",
+        "trophyAlt": "최고의 거래 플랫폼 트로피"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "2025년 가장 빠르게 성장하는 거래 브로커",
+        "badgeAlt": "수상 배지",
+        "trophyAlt": "가장 빠르게 성장하는 거래 브로커 트로피"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "언론 & 미디어",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX는 2025년에 500개 이상의 자산에 접근할 수 있고 사용자에게 보상 혜택을 제공하는 주요 거래 플랫폼으로 빠르게 자리잡고 있습니다.",
+        "logoAlt": "미디어 아울렛 로고 1"
+      },
+      "second": {
+        "text": "BlockchainFX는 최초의 올인원 암호화폐 거래 플랫폼으로서 거래 환경을 혁신할 준비가 되어 있습니다.",
+        "logoAlt": "미디어 아울렛 로고 2"
+      },
+      "third": {
+        "text": "BlockchainFX는 사용자가 거래 수수료에서 직접 일일 USDT 패시브 인컴을 얻을 수 있게 해주는 최초의 거래 앱입니다.",
+        "logoAlt": "미디어 아울렛 로고 3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "트레이더 리뷰",
+    "rating": {
+      "score": "5점 만점에 4.79",
+      "verifiedRatings": "1000+ 인증된 평가"
+    },
+    "phoneFrameAlt": "리뷰를 표시하는 휴대폰 프레임",
+    "prevButtonAlt": "이전 리뷰 버튼",
+    "nextButtonAlt": "다음 리뷰 버튼",
+    "verifiedIconAlt": "인증된 체크마크",
+    "viewOnX": "X에서 리뷰 보기",
+    "reviews": {
+      "first": {
+        "text": "마침내, 제대로 된 플랫폼이 나왔습니다! CFD를 거래하고, 애플 주식을 사고, GBP로 팔고, 5분 안에 $PEPE도 구매했습니다. 초보자와 전문가 모두에게 강력히 추천합니다.",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35.2K 팔로워",
+        "userAlt": "LacosteBtc 프로필 사진"
+      },
+      "second": {
+        "text": "9개의 다른 창에서 거래하고 수십 개의 거래 분석 도구와 리스크 관리에 접근할 수 있어 다른 플랫폼에서 거래하는 경쟁자들보다 장기적인 우위를 점하고 있습니다.",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K 팔로워",
+        "userAlt": "Mr X 프로필 사진"
+      },
+      "third": {
+        "text": "BlockchainFX는 무한한 거래 기회를 제공합니다. 시장이 서로 연결되어 있기 때문에 이는 매우 합리적입니다. 마침내, 브로커 간 전환에 시간을 낭비할 필요가 없어졌습니다.",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K 팔로워",
+        "userAlt": "Silvina Escudero 프로필 사진"
+      },
+      "fourth": {
+        "text": "BlockchainFX의 가장 좋은 점은? 모든 자산에 걸친 깊은 유동성입니다. 틈새 암호화폐 페어에서도 대규모 주문을 채우는 데 문제가 없었습니다. 이것이 바로 진지한 트레이더들이 필요로 하는 것—속도, 신뢰성, 그리고 한 곳에서 다양한 시장을 모두 이용할 수 있는 것입니다.",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30.3K 팔로워",
+        "userAlt": "DefiAva 프로필 사진"
+      },
+      "fifth": {
+        "text": "BlockchainFX는 내 거래 게임을 완전히 새로운 수준으로 끌어올렸습니다. 매우 직관적이고, 여러 시장에 동시에 접근할 수 있으며, 번개처럼 빠른 거래를 제공합니다. 암호화폐에 큰 승리입니다!",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121.8K 팔로워",
+        "userAlt": "Honey.Eth 프로필 사진"
+      },
+      "sixth": {
+        "text": "우리가 정확히 필요로 했던 것입니다. 암호화폐와 외환, ETF, 주식을 연결하도록 설계된 거래 브로커로, 깊은 유동성으로 시장에 실제 접근할 수 있게 해줍니다.",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79.6K 팔로워",
+        "userAlt": "Crypto Bri 프로필 사진"
+      }
+    }
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subtitle": "가장 일반적인 질문에 대한 답변을 찾아보세요.",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "BlockchainFX란 무엇인가요?",
+        "answer": "BlockchainFX는 고급 기술 도구와 리스크 관리 기능을 갖춘 외환, 암호화폐, ETF 등 다양한 거래 기회를 제공하는 국제적인 멀티 자산 거래 플랫폼입니다."
+      },
+      "what_is_bfx": {
+        "question": "BFX란 무엇인가요?",
+        "answer": "BFX는 BlockchainFX 플랫폼의 네이티브 토큰으로, 조기 접근, BFX 및 USDT로의 스테이킹 보상을 가능하게 하고 프리미엄 기능에 대한 접근과 플랫폼 생태계 참여를 제공합니다."
+      },
+      "what_is_crypto_presale": {
+        "question": "암호화폐 프리세일이란 무엇인가요?",
+        "answer": "암호화폐 프리세일은 새로운 암호화폐나 토큰이 공개적으로 이용 가능해지기 전에 구매할 수 있는 조기 기회로, 일반적으로 거래소의 공식 출시 가격보다 상당히 낮은 가격에 제공됩니다."
+      },
+      "what_is_presale_goal": {
+        "question": "프리세일의 목표는 무엇인가요?",
+        "answer": "이 커뮤니티 이벤트는 플랫폼 성장과 확장을 가속화하기 위해 프리세일에 할당된 모든 토큰을 판매하는 데 전념하고 있습니다. 이 자금은 개발, 마케팅, 그리고 BFX를 위한 최상위 거래소 상장을 확보하는 데 전략적으로 할당될 것입니다. <br/><br/>우리의 목표는 공식 출시 전에 10만 명의 활성 일일 트레이더에 도달하고 매일 수백만 달러의 거래량을 생성하는 것입니다. 동시에, 우리는 강력하고 충성스러우며 참여도 높은 커뮤니티를 구축하고, 조기 지지자들에게 할인된 토큰으로 보상하며, BFX 출시에 대한 인식을 최대화하고 있습니다."
+      },
+      "where_see_tokens": {
+        "question": "내 토큰은 어디서 볼 수 있나요?",
+        "answer": "대시보드 지갑에서 토큰을 볼 수 있습니다. 오른쪽 상단 모서리에 있는 '지갑 연결'을 클릭하고 구매에 사용한 지갑을 연결하여 BFX 잔액을 확인하세요."
+      },
+      "are_tokens_safe": {
+        "question": "내 토큰은 안전한가요?",
+        "answer": "프리세일 기간 동안 토큰의 안전은 우리의 스마트 계약을 통해 100% 보장됩니다."
+      },
+      "how_claim_bfx": {
+        "question": "BFX를 어떻게 청구하나요?",
+        "answer": "프리세일이 종료된 후 토큰은 자동으로 귀하의 지갑으로 전송됩니다. 아무것도 할 필요가 없습니다."
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "최고의 <br/> 거래 플랫폼",
+    "joinWhitelist": "화이트리스트 참여하기",
+    "startTrading": "거래 시작하기 (베타)",
+    "logoAlt": "BlockchainFX 로고"
+  },
+  "footer": {
+    "logoAlt": "BlockchainFX 로고",
+    "description": "BlockchainFX와 함께 올인원 거래 경험: 500개 이상의 자산에 접근하여 암호화폐, 외환, ETF, 주식, 지수, CFD 등을 거래하세요.",
+    "quickLinks": {
+      "title": "빠른 링크",
+      "whitelist": "화이트리스트",
+      "roadmap": "로드맵",
+      "whatIsBfx": "BFX란?",
+      "tokenAllocation": "토큰 할당"
+    },
+    "docs": {
+      "title": "문서",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfService": "서비스 약관",
+      "tokenSaleAgreement": "토큰 판매 계약",
+      "liveSupport": "24/7 실시간 지원"
+    },
+    "socials": {
+      "title": "소셜 미디어에서 팔로우하세요",
+      "instagramAlt": "인스타그램 아이콘",
+      "telegramAlt": "텔레그램 아이콘",
+      "twitterAlt": "트위터/X 아이콘"
+    },
+    "contact": {
+      "label": "연락 이메일:",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "암호화폐는 귀하의 ���할권에서 규제되지 않을 수 있으며, 그 가치는 변동하여 잠재적인 이익이나 손실로 이어질 수 있습니다. 모든 이익은 현지 법률에 따라 자본 이득세나 기타 세금의 대상이 될 수 있습니다. 이 플랫폼의 내용은 암호화폐 거래를 구매, 판매 또는 참여하기 위한 제안, 추천 또는 재정적 조언을 구성하지 않습니다. 거래가 귀하의 개인적 목표, 재정 상황 및 위험 허용 범위와 일치하는지 평가하는 것은 전적으로 귀하의 책임입니다. 결정을 내리기 전에 신뢰할 수 있고 라이센스가 있는 법률, 세금 또는 재정 전문가와 상담할 것을 강력히 권장합니다.",
+      "part2": "암호화폐 거래는 자금의 부분적 또는 전체 손실 가능성을 포함한 상당한 위험을 수반합니다. 철저한 연구가 중요합니다. BlockchainFX는 이 플랫폼에서 언급된 모든 암호화폐에 대한 성능, 결과 또는 자본 수익을 보장하지 않습니다. 이 플랫폼을 사용함으로써, 귀하는 당사의 서비스 약관, 개인정보 보호정책, 쿠키 정책 및 해당되는 모든 토큰 판매 계약에 동의하게 됩니다. 플랫폼의 내용은 그 배포나 사용이 현지 법률이나 규정을 위반할 관할권에서 사용하기 위한 것이 아닙니다."
+    },
+    "copyright": "저작권 2025. 모든 권리 보유.",
+    "cookieManagement": "쿠키 관리"
   }
       
   }

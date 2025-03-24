@@ -1,7 +1,9 @@
 import React, { useState } from "react";
+import { useTranslation } from "react-i18next";
 
 import faqicn1 from "../assets/faqs/image (3).svg";
 import faqicn2 from "../assets/faqs/image (4).svg";
+
 const FaqItem = ({ question, answer, isOpen, handleClick }) => {
   const createMarkup = () => ({ __html: answer });
   const contentStyles = {
@@ -14,14 +16,12 @@ const FaqItem = ({ question, answer, isOpen, handleClick }) => {
   return (
     <div className="mb-[20px]">
       <div
-       className={`border flex justify-between py-[10px] px-[10px] bg-[#FFF] rounded-[4px] items-center cursor-pointer ${
-        isOpen ? "border-[#000]" : "border-[#000]"
-      }  border-solid`}
+        className={`border flex justify-between py-[10px] px-[10px] bg-[#FFF] rounded-[4px] items-center cursor-pointer ${
+          isOpen ? "border-[#000]" : "border-[#000]"
+        }  border-solid`}
         onClick={handleClick}
       >
-        <div
-        
-        className="flex items-center justify-center">
+        <div className="flex items-center justify-center">
           <div className={`text-[16px] text-[#000] font-[600]`}>{question}</div>
         </div>
 
@@ -35,13 +35,13 @@ const FaqItem = ({ question, answer, isOpen, handleClick }) => {
           {isOpen ? (
             <>
               <div>
-                <img src={faqicn1} alt="" />
+                <img src={faqicn1 || "/placeholder.svg"} alt="" />
               </div>
             </>
           ) : (
             <>
               <div>
-                <img src={faqicn2} alt="" />
+                <img src={faqicn2 || "/placeholder.svg"} alt="" />
               </div>
             </>
           )}
@@ -60,44 +60,39 @@ const FaqItem = ({ question, answer, isOpen, handleClick }) => {
 };
 
 const FaqSec = () => {
+  const { t } = useTranslation();
+  const [openItems, setOpenItems] = useState([]);
+
   const faqData = [
     {
-      question: "What is BlockchainFX?",
-      answer:
-        "BlockchainFX is an international multi-asset trading platform offering a wide range of trading opportunities, including Forex, Crypto, ETFs, and more, with advanced technical tools and risk management features.",
+      question: t("faq.questions.what_is_blockchainfx.question"),
+      answer: t("faq.questions.what_is_blockchainfx.answer"),
     },
     {
-      question: "What is BFX?",
-      answer:
-        "BFX is the native token of the BlockchainFX platform, enabling early access, staking rewards in BFX and USDT, and providing access to premium features, as well as participation in the platform's ecosystem.",
+      question: t("faq.questions.what_is_bfx.question"),
+      answer: t("faq.questions.what_is_bfx.answer"),
     },
     {
-      question: "What is a crypto presale?",
-      answer:
-        "A crypto pre-sale is an early opportunity to purchase a new cryptocurrency or token before it becomes publicly available, typically at a significantly lower price than the official launch price on exchanges.",
+      question: t("faq.questions.what_is_crypto_presale.question"),
+      answer: t("faq.questions.what_is_crypto_presale.answer"),
     },
     {
-      question: "What is the goal of the presale?",
-      answer:
-        "The community event is dedicated to selling all pre-sale allocated tokens to accelerate platform growth and expansion. These funds will be strategically allocated to development, marketing, and securing top-tier exchange listings for BFX. <br/><br/>Our goal is to reach 100,000 active daily traders and generate multi-million dollar daily trading volume before the official launch. At the same time, we’re building a strong, loyal, and engaged community, rewarding early supporters with discounted tokens, and maximizing awareness for the BFX launch.",
+      question: t("faq.questions.what_is_presale_goal.question"),
+      answer: t("faq.questions.what_is_presale_goal.answer"),
     },
     {
-      question: "Where can I see my tokens?",
-      answer:
-        "You can view your tokens in your dashboard wallet. Simply click 'Connect Wallet' in the top right corner and connect the wallet you used for the purchase to see your BFX balance.",
+      question: t("faq.questions.where_see_tokens.question"),
+      answer: t("faq.questions.where_see_tokens.answer"),
     },
     {
-      question: "Are my tokens safe?",
-      answer:
-        "The safety of your tokens during the pre-sale is 100% guaranteed through our smart contract.",
+      question: t("faq.questions.are_tokens_safe.question"),
+      answer: t("faq.questions.are_tokens_safe.answer"),
     },
     {
-      question: "How to claim your BFX?",
-      answer:
-        "Your tokens will be transferred to your wallet automatically after the presale ends. You don’t need to do anything.",
+      question: t("faq.questions.how_claim_bfx.question"),
+      answer: t("faq.questions.how_claim_bfx.answer"),
     },
   ];
-  const [openItems, setOpenItems] = useState([]);
 
   const handleClick = (index) => {
     setOpenItems(openItems === index ? null : index);
@@ -109,10 +104,10 @@ const FaqSec = () => {
         <div className=" w-[100%] max-w-[990px] space-y-[35px] py-[50px] mx-auto px-[105px]">
           <div className="text-center space-y-[40px]">
             <h2 className="text-[#000] leading-[100%] text-[30px] font-[600]">
-              FAQs
+              {t("faq.title")}
             </h2>
             <p className="text-[14px] font-[400] text-[#000] text-center">
-            Find answers to some of the most common questions.
+              {t("faq.subtitle")}
             </p>
           </div>
           <div className="2xl:w-[100%] xl:w-[100%] lg:w-[100%] md:w-[100%] sm:w-[100%] w-[100%] mx-auto">

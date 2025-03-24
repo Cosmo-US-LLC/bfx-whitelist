@@ -408,5 +408,260 @@
     },
     "addressCopied": "Address Copied!",
     "copyIconAlt": "Copy Icon"
+  },
+  "securityBuilt": {
+    "title": "Security Built into the Core",
+    "description": "BlockchainFX leverages advanced technology to build a reliable infrastructure and seamless ecosystem, delivering a secure and user-friendly experience for traders.",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "PCI DSS icon"
+      },
+      "dataPrivacy": {
+        "title": "Enhanced Data Privacy",
+        "iconAlt": "Data privacy icon"
+      },
+      "monitoring": {
+        "title": "Live Monitoring and Threat Detection",
+        "iconAlt": "Monitoring icon"
+      },
+      "riskManagement": {
+        "title": "Third-Party Risk Management",
+        "iconAlt": "Risk management icon"
+      },
+      "dataBackups": {
+        "title": "Data backups and disaster recovery",
+        "iconAlt": "Data backups icon"
+      },
+      "gdpr": {
+        "title": "GDPR compliant",
+        "iconAlt": "GDPR icon"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "vectorAlt": "Decorative vector image",
+    "phases": {
+      "preparation": {
+        "title": "Preparation",
+        "items": {
+          "idea": "Idea + Concept",
+          "raiseFunds": "Raise Seed Funds",
+          "onboardTeam": "Onboard Team & Advisors",
+          "tradingPlatform": "Trading Platform Beta Preparation"
+        }
+      },
+      "execution": {
+        "title": "Execution",
+        "items": {
+          "website": "Website, Tokenomics etc.",
+          "createToken": "Create $BFX Token",
+          "launchPresale": "Launch $BFX Pre-Sale",
+          "certikAudit": "CertiK Token Audit"
+        }
+      },
+      "launch": {
+        "title": "Launch",
+        "items": {
+          "affiliateProgram": "Launch an Affiliate Program",
+          "sellOutPresale": "Sell Out the Pre-Sale",
+          "launchOnExchanges": "Launch $BFX on Uniswap and CEX",
+          "tenThousandHolders": "Achieving 10,000 BFX Holders"
+        }
+      },
+      "performance": {
+        "title": "Performance",
+        "items": {
+          "cashbackSystem": "Cashback System for Traders",
+          "publicChats": "Public Chats for Trading Platform",
+          "copyTrading": "Add Copy Trading Feature",
+          "mobileApps": "Launch iOS and Android App"
+        }
+      },
+      "expansion": {
+        "title": "Expansion",
+        "items": {
+          "cexListing": "Multiple CEX Listing",
+          "tradingVolume": "Reach $100M Daily Trading Volume",
+          "hundredThousandHolders": "Achieving 100,000 BFX Holders",
+          "leaderboards": "Add Leaderboards & VIP accounts"
+        }
+      },
+      "globalReach": {
+        "title": "Global Reach",
+        "items": {
+          "usLicense": "US License",
+          "marketingCampaigns": "Global Marketing Campaigns",
+          "millionHolders": "Achieving 1,000,000 BFX Holders",
+          "partnerships": "Major Partnerships"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "Multi-Awarded Trading Platform",
+    "title": "Our Awards speak for themselves",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "Best Trading Platform 2025",
+        "badgeAlt": "Award badge",
+        "trophyAlt": "Best Trading Platform trophy"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "Fastest Growing Trading Broker 2025",
+        "badgeAlt": "Award badge",
+        "trophyAlt": "Fastest Growing Trading Broker trophy"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "Press & Media",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX is quickly becoming the go-to trading platform in 2025, offering access to 500+ assets and rewarding benefits for users.",
+        "logoAlt": "Media outlet logo 1"
+      },
+      "second": {
+        "text": "BlockchainFX is set to revolutionise the trading landscape as the first all-in-one crypto trading platform.",
+        "logoAlt": "Media outlet logo 2"
+      },
+      "third": {
+        "text": "BlockchainFX is the first trading app that lets users earn daily USDT passive income directly from trading fees.",
+        "logoAlt": "Media outlet logo 3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "Trader Reviews",
+    "rating": {
+      "score": "4.79 out of 5",
+      "verifiedRatings": "1000+ Verified Ratings"
+    },
+    "phoneFrameAlt": "Phone frame displaying reviews",
+    "prevButtonAlt": "Previous review button",
+    "nextButtonAlt": "Next review button",
+    "verifiedIconAlt": "Verified checkmark",
+    "viewOnX": "View Review on X",
+    "reviews": {
+      "first": {
+        "text": "Finally, a platform that gets it right! I traded CFDs, bought Apple stocks, sold them for GBP, and grabbed some $PEPE, all within five minutes. Highly recommended for beginners and pros alike.",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35.2K Followers",
+        "userAlt": "LacosteBtc profile picture"
+      },
+      "second": {
+        "text": "Trading on 9 different windows and having access to dozens of trading analytic tools and risk management is giving me a long-term edge over the competition trading on other platforms.",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K followers",
+        "userAlt": "Mr X profile picture"
+      },
+      "third": {
+        "text": "BlockchainFX gives you endless trading opportunities. This just makes sense since markets are interconnected. Finally, there's no need to waste time switching between brokers.",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K followers",
+        "userAlt": "Silvina Escudero profile picture"
+      },
+      "fourth": {
+        "text": "The best part about BlockchainFX? The deep liquidity across all assets. I've never had an issue filling large orders, even with niche crypto pairs. This is exactly what serious traders need—speed, reliability, and a wide range of markets all in one place.",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30.3K followers",
+        "userAlt": "DefiAva profile picture"
+      },
+      "fifth": {
+        "text": "BlockchainFX has completely leveled up my trading game. It's super intuitive, lets you access multiple markets simultaneously, and offers lightning-fast transactions. A huge win for crypto!",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121.8K followers",
+        "userAlt": "Honey.Eth profile picture"
+      },
+      "sixth": {
+        "text": "That's exactly what we needed. A trading broker designed to bridge Crypto with Forex, ETFs, and stocks, giving you real access to the markets with deep liquidity.",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79.6K followers",
+        "userAlt": "Crypto Bri profile picture"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Find answers to some of the most common questions.",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "What is BlockchainFX?",
+        "answer": "BlockchainFX is an international multi-asset trading platform offering a wide range of trading opportunities, including Forex, Crypto, ETFs, and more, with advanced technical tools and risk management features."
+      },
+      "what_is_bfx": {
+        "question": "What is BFX?",
+        "answer": "BFX is the native token of the BlockchainFX platform, enabling early access, staking rewards in BFX and USDT, and providing access to premium features, as well as participation in the platform's ecosystem."
+      },
+      "what_is_crypto_presale": {
+        "question": "What is a crypto presale?",
+        "answer": "A crypto pre-sale is an early opportunity to purchase a new cryptocurrency or token before it becomes publicly available, typically at a significantly lower price than the official launch price on exchanges."
+      },
+      "what_is_presale_goal": {
+        "question": "What is the goal of the presale?",
+        "answer": "The community event is dedicated to selling all pre-sale allocated tokens to accelerate platform growth and expansion. These funds will be strategically allocated to development, marketing, and securing top-tier exchange listings for BFX. <br/><br/>Our goal is to reach 100,000 active daily traders and generate multi-million dollar daily trading volume before the official launch. At the same time, we're building a strong, loyal, and engaged community, rewarding early supporters with discounted tokens, and maximizing awareness for the BFX launch."
+      },
+      "where_see_tokens": {
+        "question": "Where can I see my tokens?",
+        "answer": "You can view your tokens in your dashboard wallet. Simply click 'Connect Wallet' in the top right corner and connect the wallet you used for the purchase to see your BFX balance."
+      },
+      "are_tokens_safe": {
+        "question": "Are my tokens safe?",
+        "answer": "The safety of your tokens during the pre-sale is 100% guaranteed through our smart contract."
+      },
+      "how_claim_bfx": {
+        "question": "How to claim your BFX?",
+        "answer": "Your tokens will be transferred to your wallet automatically after the presale ends. You don't need to do anything."
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "The Ultimate <br/> Trading Platform",
+    "joinWhitelist": "Join the Whitelist",
+    "startTrading": "Start Trading (Beta)",
+    "logoAlt": "BlockchainFX Logo"
+  },
+  "footer": {
+    "logoAlt": "BlockchainFX Logo",
+    "description": "Experience all-in-one trading with BlockchainFX: Trade Crypto, Forex, ETFs, Stocks, Indices, CFDs, and more with access to over 500 assets.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "whitelist": "Whitelist",
+      "roadmap": "Roadmap",
+      "whatIsBfx": "What is BFX?",
+      "tokenAllocation": "Token Allocation"
+    },
+    "docs": {
+      "title": "Docs",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "tokenSaleAgreement": "Token Sale Agreement",
+      "liveSupport": "Live 24/7 Support"
+    },
+    "socials": {
+      "title": "Join Our Socials",
+      "instagramAlt": "Instagram icon",
+      "telegramAlt": "Telegram icon",
+      "twitterAlt": "Twitter/X icon"
+    },
+    "contact": {
+      "label": "Contact E-Mail:",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "Cryptocurrency may be unregulated in your jurisdiction, and its value can fluctuate, leading to potential gains or losses. Any profits might be subject to capital gains or other taxes, depending on your local laws. The content on this platform does not constitute an offer, recommendation, or financial advice to buy, sell, or engage in any cryptocurrency transactions. You are solely responsible for assessing whether a transaction aligns with your personal goals, financial circumstances, and risk tolerance. We strongly recommend consulting trusted and licensed legal, tax, or financial professionals before making any decisions.",
+      "part2": "Trading cryptocurrencies carries significant risks, including the potential for partial or total loss of your funds. Thorough research is crucial. BlockchainFX does not guarantee any performance, outcome, or return of capital for any cryptocurrency mentioned on this platform. By using this platform, you agree to our Terms of Service, Privacy Policy, Cookie Policy, and any applicable token sale agreements. The platform's content is not intended for use in jurisdictions where its distribution or use would violate local laws or regulations."
+    },
+    "copyright": "Copyright 2025. All Rights Reserved.",
+    "cookieManagement": "Cookie Management"
   }
 }

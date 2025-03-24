@@ -403,5 +403,261 @@
     },
     "addressCopied": "地址已复制！",
     "copyIconAlt": "复制图标"
+  },
+  "securityBuilt": {
+    "title": "安全性融入核心",
+    "description": "BlockchainFX利用先进技术构建可靠的基础设施和无缝生态系统，为交易者提供安全且用户友好的体验。",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "PCI DSS图标"
+      },
+      "dataPrivacy": {
+        "title": "增强数据隐私",
+        "iconAlt": "数据隐私图标"
+      },
+      "monitoring": {
+        "title": "实时监控和威胁检测",
+        "iconAlt": "监控图标"
+      },
+      "riskManagement": {
+        "title": "第三方风险管理",
+        "iconAlt": "风险管理图标"
+      },
+      "dataBackups": {
+        "title": "数据备份和灾难恢复",
+        "iconAlt": "数据备份图标"
+      },
+      "gdpr": {
+        "title": "符合GDPR",
+        "iconAlt": "GDPR图标"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "路线图",
+    "vectorAlt": "装饰性矢量图",
+    "phases": {
+      "preparation": {
+        "title": "准备阶段",
+        "items": {
+          "idea": "创意 + 概念",
+          "raiseFunds": "筹集种子资金",
+          "onboardTeam": "招募团队和顾问",
+          "tradingPlatform": "交易平台测试版准备"
+        }
+      },
+      "execution": {
+        "title": "执行阶段",
+        "items": {
+          "website": "网站、代币经济学等",
+          "createToken": "创建 $BFX 代币",
+          "launchPresale": "启动 $BFX 预售",
+          "certikAudit": "CertiK 代币审计"
+        }
+      },
+      "launch": {
+        "title": "发布阶段",
+        "items": {
+          "affiliateProgram": "启动联盟计划",
+          "sellOutPresale": "售罄预售",
+          "launchOnExchanges": "在 Uniswap 和 CEX 上发布 $BFX",
+          "tenThousandHolders": "达到 10,000 名 BFX 持有者"
+        }
+      },
+      "performance": {
+        "title": "性能阶段",
+        "items": {
+          "cashbackSystem": "交易者返现系统",
+          "publicChats": "交易平台公共聊天",
+          "copyTrading": "添加跟单交易功能",
+          "mobileApps": "发布 iOS 和 Android 应用"
+        }
+      },
+      "expansion": {
+        "title": "扩展阶段",
+        "items": {
+          "cexListing": "多个 CEX 上市",
+          "tradingVolume": "达到每日 1 亿美元交易量",
+          "hundredThousandHolders": "达到 100,000 名 BFX 持有者",
+          "leaderboards": "添加排行榜和 VIP 账户"
+        }
+      },
+      "globalReach": {
+        "title": "全球覆盖阶段",
+        "items": {
+          "usLicense": "美国许可证",
+          "marketingCampaigns": "全球营销活动",
+          "millionHolders": "达到 1,000,000 名 BFX 持有者",
+          "partnerships": "重要合作伙伴关系"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "多次获奖的交易平台",
+    "title": "我们的奖项自己会说话",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "2025年最佳交易平台",
+        "badgeAlt": "奖项徽章",
+        "trophyAlt": "最佳交易平台奖杯"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "2025年增长最快的交易经纪商",
+        "badgeAlt": "奖项徽章",
+        "trophyAlt": "增长最快的交易经纪商奖杯"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "新闻与媒体",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX正迅速成为2025年首选的交易平台，提供500多种资产的访问权限和丰厚的用户奖励。",
+        "logoAlt": "媒体机构标志1"
+      },
+      "second": {
+        "text": "BlockchainFX作为首个一站式加密货币交易平台，正准备彻底改变交易格局。",
+        "logoAlt": "媒体机构标志2"
+      },
+      "third": {
+        "text": "BlockchainFX是第一个让用户直接从交易费中获得每日USDT被动收入的交易应用。",
+        "logoAlt": "媒体机构标志3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "交易者评价",
+    "rating": {
+      "score": "4.79（满分5分）",
+      "verifiedRatings": "1000+已验证评分"
+    },
+    "phoneFrameAlt": "显示评价的手机框架",
+    "prevButtonAlt": "上一条评价按钮",
+    "nextButtonAlt": "下一条评价按钮",
+    "verifiedIconAlt": "已验证勾号",
+    "viewOnX": "在X上查看评价",
+    "reviews": {
+      "first": {
+        "text": "终于，一个做对了的平台！我交易了差价合约，买了苹果股票，用英镑卖出，并在五分钟内获得了一些$PEPE。强烈推荐给初学者和专业人士。",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35.2K粉丝",
+        "userAlt": "LacosteBtc的个人资料图片"
+      },
+      "second": {
+        "text": "在9个不同的窗口上交易，并且能够访问数十种交易分析工具和风险管理，这让我比在其他平台上交易的竞争对手拥有长期优势。",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K粉丝",
+        "userAlt": "Mr X的个人资料图片"
+      },
+      "third": {
+        "text": "BlockchainFX为您提供无尽的交易机会。这很有道理，因为市场是相互关联的。终于，不需要浪费时间在经纪商之间切换了。",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K粉丝",
+        "userAlt": "Silvina Escudero的个人资料图片"
+      },
+      "fourth": {
+        "text": "BlockchainFX最好的部分是什么？所有资产的深度流动性。即使是小众加密货币对，我也从未遇到过填充大订单的问题。这正是严肃交易者所需要的—速度、可靠性和在一个地方提供广泛的市场。",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30.3K粉丝",
+        "userAlt": "DefiAva的个人资料图片"
+      },
+      "fifth": {
+        "text": "BlockchainFX完全提升了我的交易水平。它超级直观，让您可以同时访问多个市场，并提供闪电般快速的交易。对加密货币来说是一个巨大的胜利！",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121.8K粉丝",
+        "userAlt": "Honey.Eth的个人资料图片"
+      },
+      "sixth": {
+        "text": "这正是我们需要的。一个旨在将加密货币与外汇、ETF和股票连接起来的交易经纪商，通过深度流动性为您提供对市场的真实访问。",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79.6K粉丝",
+        "userAlt": "Crypto Bri的个人资料图片"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "找到一些最常见问题的答案。",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "什么是BlockchainFX？",
+        "answer": "BlockchainFX是一个国际多资产交易平台，提供广泛的交易机会，包括外汇、加密货币、ETF等，具有先进的技术工具和风险管理功能。"
+      },
+      "what_is_bfx": {
+        "question": "什么是BFX？",
+        "answer": "BFX是BlockchainFX平台的原生代币，可以实现早期访问、BFX和USDT的质押奖励，并提供访问高级功能的权限，以及参与平台生态系统的机会。"
+      },
+      "what_is_crypto_presale": {
+        "question": "什么是加密货币预售？",
+        "answer": "加密货币预售是在新的加密货币或代币公开可用之前购买的早期机会，通常价格比交易所的官方发布价格低得多。"
+      },
+      "what_is_presale_goal": {
+        "question": "预售的目标是什么？",
+        "answer": "社区活动致力于销售所有预售分配的代币，以加速平台增长和扩展。这些资金将战略性地分配给开发、营销和确保BFX的顶级交易所上市。<br/><br/>我们的目标是在正式启动前达到10万活跃日交易者，并产生每日数百万美元的交易量。同时，我们正在建立一个强大、忠诚和积极参与的社区，用折扣代币奖励早期支持者，并最大化BFX启动的认知度。"
+      },
+      "where_see_tokens": {
+        "question": "我在哪里可以看到我的代币？",
+        "answer": "您可以在您的仪表板钱包中查看您的代币。只需点击右上角的'连接钱包'，并连接您用于购买的钱包，即可查看您的BFX余额。"
+      },
+      "are_tokens_safe": {
+        "question": "我的代币安全吗？",
+        "answer": "在预售期间，您的代币安全通过我们的智能合约100%保证。"
+      },
+      "how_claim_bfx": {
+        "question": "如何领取您的BFX？",
+        "answer": "预售结束后，您的代币将自动转入您的钱包。您不需要做任何事情。"
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "终极 <br/> 交易平台",
+    "joinWhitelist": "加入白名单",
+    "startTrading": "开始交易 (测试版)",
+    "logoAlt": "BlockchainFX 标志"
+  },
+  "footer": {
+    "logoAlt": "BlockchainFX 标志",
+    "description": "体验 BlockchainFX 的一站式交易：通过访问超过 500 种资产，交易加密货币、外汇、ETF、股票、指数、CFD 等。",
+    "quickLinks": {
+      "title": "快速链接",
+      "whitelist": "白名单",
+      "roadmap": "路线图",
+      "whatIsBfx": "什么是 BFX？",
+      "tokenAllocation": "代币分配"
+    },
+    "docs": {
+      "title": "文档",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "tokenSaleAgreement": "代币销售协议",
+      "liveSupport": "24/7 在线支持"
+    },
+    "socials": {
+      "title": "关注我们的社交媒体",
+      "instagramAlt": "Instagram 图标",
+      "telegramAlt": "Telegram 图标",
+      "twitterAlt": "Twitter/X 图标"
+    },
+    "contact": {
+      "label": "联系邮箱：",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "加密货币在您的司法管辖区可能不受监管，其价值可能会波动，导致潜在的收益或损失。任何利润可能需要缴纳资本利得税或其他税款，具体取决于您当地的法律。本平台上的内容不构成购买、出售或参与任何加密货币交易的要约、建议或财务建议。您全权负责评估交易是否符合您的个人目标、财务状况和风险承受能力。我们强烈建议您在做出任何决定之前咨询可信赖的持牌法律、税务或财务专业人士。",
+      "part2": "加密货币交易带有重大风险，包括部分或全部资金损失的可能性。彻底的研究至关重要。BlockchainFX 不保证本平台上提及的任何加密货币的性能、结果或资本回报。通过使用本平台，您同意我们的服务条款、隐私政策、Cookie 政策和任何适用的代币销售协议。平台内容不适用于其分发或使用将违反当地法律或法规的司法管辖区。"
+    },
+    "copyright": "版权所有 2025。保留所有权利。",
+    "cookieManagement": "Cookie 管理"
   }
+
   }

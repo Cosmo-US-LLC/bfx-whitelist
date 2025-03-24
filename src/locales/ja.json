@@ -403,6 +403,261 @@
     },
     "addressCopied": "アドレスをコピーしました！",
     "copyIconAlt": "コピーアイコン"
+  },
+  "securityBuilt": {
+    "title": "コアに組み込まれたセキュリティ",
+    "description": "BlockchainFXは先進技術を活用して信頼性の高いインフラストラクチャとシームレスなエコシステムを構築し、トレーダーに安全でユーザーフレンドリーな体験を提供します。",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "PCI DSSアイコン"
+      },
+      "dataPrivacy": {
+        "title": "強化されたデータプライバシー",
+        "iconAlt": "データプライバシーアイコン"
+      },
+      "monitoring": {
+        "title": "ライブモニタリングと脅威検出",
+        "iconAlt": "モニタリングアイコン"
+      },
+      "riskManagement": {
+        "title": "サードパーティリスク管理",
+        "iconAlt": "リスク管理アイコン"
+      },
+      "dataBackups": {
+        "title": "データバックアップと災害復旧",
+        "iconAlt": "データバックアップアイコン"
+      },
+      "gdpr": {
+        "title": "GDPR準拠",
+        "iconAlt": "GDPRアイコン"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "ロードマップ",
+    "vectorAlt": "装飾的なベクター画像",
+    "phases": {
+      "preparation": {
+        "title": "準備",
+        "items": {
+          "idea": "アイデア + コンセプト",
+          "raiseFunds": "シード資金調達",
+          "onboardTeam": "チーム & アドバイザーの採用",
+          "tradingPlatform": "取引プラットフォームベータ準備"
+        }
+      },
+      "execution": {
+        "title": "実行",
+        "items": {
+          "website": "ウェブサイト、トークノミクスなど",
+          "createToken": "$BFXトークンの作成",
+          "launchPresale": "$BFXプレセールの開始",
+          "certikAudit": "CertiKトークン監査"
+        }
+      },
+      "launch": {
+        "title": "ローンチ",
+        "items": {
+          "affiliateProgram": "アフィリエイトプログラムの開始",
+          "sellOutPresale": "プレセールの完売",
+          "launchOnExchanges": "UniswapとCEXでの$BFXローンチ",
+          "tenThousandHolders": "10,000 BFX保有者達成"
+        }
+      },
+      "performance": {
+        "title": "パフォーマンス",
+        "items": {
+          "cashbackSystem": "トレーダー向けキャッシュバックシステム",
+          "publicChats": "取引プラットフォーム用パブリックチャット",
+          "copyTrading": "コピートレード機能の追加",
+          "mobileApps": "iOSとAndroidアプリのローンチ"
+        }
+      },
+      "expansion": {
+        "title": "拡大",
+        "items": {
+          "cexListing": "複数のCEXリスティング",
+          "tradingVolume": "1日の取引量1億ドル達成",
+          "hundredThousandHolders": "100,000 BFX保有者達成",
+          "leaderboards": "リーダーボード & VIPアカウントの追加"
+        }
+      },
+      "globalReach": {
+        "title": "グローバルリーチ",
+        "items": {
+          "usLicense": "米国ライセンス",
+          "marketingCampaigns": "グローバルマーケティングキャンペーン",
+          "millionHolders": "1,000,000 BFX保有者達成",
+          "partnerships": "主要パートナーシップ"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "数々の賞を受賞した取引プラットフォーム",
+    "title": "私たちの受賞歴が全てを物語っています",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "2025年 最高の取引プラットフォーム",
+        "badgeAlt": "賞のバッジ",
+        "trophyAlt": "最高の取引プラットフォームトロフィー"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "2025年 最も急成長している取引ブローカー",
+        "badgeAlt": "賞のバッジ",
+        "trophyAlt": "最も急成長している取引ブローカートロフィー"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "プレス＆メディア",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFXは2025年に急速に主要な取引プラットフォームとなりつつあり、500以上の資産へのアクセスとユーザーへの報酬特典を提供しています。",
+        "logoAlt": "メディアアウトレットロゴ1"
+      },
+      "second": {
+        "text": "BlockchainFXは、最初のオールインワン暗号資産取引プラットフォームとして取引の風景を革命化する準備ができています。",
+        "logoAlt": "メディアアウトレットロゴ2"
+      },
+      "third": {
+        "text": "BlockchainFXは、ユーザーが取引手数料から直接毎日のUSDTパッシブインカムを獲得できる最初の取引アプリです。",
+        "logoAlt": "メディアアウトレットロゴ3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "トレーダーレビュー",
+    "rating": {
+      "score": "5段階中4.79",
+      "verifiedRatings": "1000+件の認証済み評価"
+    },
+    "phoneFrameAlt": "レビューを表示するスマートフォンフレーム",
+    "prevButtonAlt": "前のレビューボタン",
+    "nextButtonAlt": "次のレビューボタン",
+    "verifiedIconAlt": "認証済みチェックマーク",
+    "viewOnX": "Xでレビューを見る",
+    "reviews": {
+      "first": {
+        "text": "ついに、正しく理解しているプラットフォームが登場！CFDを取引し、Appleの株を買い、それをGBPで売り、$PEPEも手に入れました。すべて5分以内に。初心者からプロまで、強くお勧めします。",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35.2Kフォロワー",
+        "userAlt": "LacosteBtcのプロフィール写真"
+      },
+      "second": {
+        "text": "9つの異なるウィンドウで取引し、数十の取引分析ツールとリスク管理にアクセスできることで、他のプラットフォームで取引する競合他社に対して長期的な優位性を得ています。",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472Kフォロワー",
+        "userAlt": "Mr Xのプロフィール写真"
+      },
+      "third": {
+        "text": "BlockchainFXは無限の取引機会を提供します。市場が相互に接続されているため、これは理にかなっています。ついに、ブローカー間の切り替えに時間を無駄にする必要がなくなりました。",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863Kフォロワー",
+        "userAlt": "Silvina Escuderoのプロフィール写真"
+      },
+      "fourth": {
+        "text": "BlockchainFXの最高の部分は？すべての資産にわたる深い流動性です。ニッチな暗号通貨ペアでも、大きな注文を埋めるのに問題を抱えたことはありません。これはまさに真剣なトレーダーが必要とするもの—速度、信頼性、そして一箇所での幅広い市場です。",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30.3Kフォロワー",
+        "userAlt": "DefiAvaのプロフィール写真"
+      },
+      "fifth": {
+        "text": "BlockchainFXは私の取引ゲームを完全にレベルアップさせました。非常に直感的で、複数の市場に同時にアクセスでき、超高速の取引を提供します。暗号通貨にとって大きな勝利です！",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121.8Kフォロワー",
+        "userAlt": "Honey.Ethのプロフィール写真"
+      },
+      "sixth": {
+        "text": "それはまさに私たちが必要としていたものです。暗号通貨とForex、ETF、株式を橋渡しするように設計された取引ブローカーで、深い流動性を持つ市場への実際のアクセスを提供します。",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79.6Kフォロワー",
+        "userAlt": "Crypto Briのプロフィール写真"
+      }
+    }
+  },
+  "faq": {
+    "title": "よくある質問",
+    "subtitle": "最も一般的な質問のいくつかに対する回答を見つけてください。",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "BlockchainFXとは何ですか？",
+        "answer": "BlockchainFXは、高度な技術ツールとリスク管理機能を備えた、Forex、暗号資産、ETFなど、幅広い取引機会を提供する国際的なマルチアセット取引プラットフォームです。"
+      },
+      "what_is_bfx": {
+        "question": "BFXとは何ですか？",
+        "answer": "BFXはBlockchainFXプラットフォームのネイティブトークンで、早期アクセス、BFXとUSDTでのステーキング報酬を可能にし、プレミアム機能へのアクセスを提供するとともに、プラットフォームのエコシステムへの参加を可能にします。"
+      },
+      "what_is_crypto_presale": {
+        "question": "暗号資産のプレセールとは何ですか？",
+        "answer": "暗号資産のプレセールは、新しい暗号通貨やトークンが一般に公開される前に購入する早期の機会であり、通常、取引所での公式発売価格よりも大幅に低い価格で提供されます。"
+      },
+      "what_is_presale_goal": {
+        "question": "プレセールの目的は何ですか？",
+        "answer": "このコミュニティイベントは、プラットフォームの成長と拡大を加速させるために、プレセールに割り当てられたすべてのトークンを販売することに専念しています。これらの資金は、開発、マーケティング、そしてBFXのトップティア取引所リスティングの確保に戦略的に配分されます。<br/><br/>私たちの目標は、正式なローンチ前に10万人のアクティブな日次トレーダーを獲得し、毎日数百万ドルの取引量を生み出すことです。同時に、強力で忠実で積極的なコミュニティを構築し、早期サポーターに割引トークンで報酬を与え、BFXローンチの認知度を最大化しています。"
+      },
+      "where_see_tokens": {
+        "question": "トークンはどこで確認できますか？",
+        "answer": "ダッシュボードウォレットでトークンを確認できます。右上隅の「ウォレット接続」をクリックし、購入に使用したウォレットを接続するだけで、BFX残高を確認できます。"
+      },
+      "are_tokens_safe": {
+        "question": "私のトークンは安全ですか？",
+        "answer": "プレセール期間中のトークンの安全性は、当社のスマートコントラクトを通じて100%保証されています。"
+      },
+      "how_claim_bfx": {
+        "question": "BFXを請求する方法は？",
+        "answer": "プレセール終了後、トークンは自動的にあなたのウォレットに転送されます。何もする必要はありません。"
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "究極の <br/> 取引プラットフォーム",
+    "joinWhitelist": "ホワイトリストに参加",
+    "startTrading": "取引を開始 (ベータ)",
+    "logoAlt": "BlockchainFX ロゴ"
+  },
+  "footer": {
+    "logoAlt": "BlockchainFX ロゴ",
+    "description": "BlockchainFXでオールインワン取引を体験：暗号資産、外国為替、ETF、株式、指数、CFDなど、500以上の資産にアクセスして取引できます。",
+    "quickLinks": {
+      "title": "クイックリンク",
+      "whitelist": "ホワイトリスト",
+      "roadmap": "ロードマップ",
+      "whatIsBfx": "BFXとは？",
+      "tokenAllocation": "トークン配分"
+    },
+    "docs": {
+      "title": "ドキュメント",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfService": "利用規約",
+      "tokenSaleAgreement": "トークン販売契約",
+      "liveSupport": "24時間年中無休サポート"
+    },
+    "socials": {
+      "title": "ソーシャルメディアでフォロー",
+      "instagramAlt": "Instagramアイコン",
+      "telegramAlt": "Telegramアイコン",
+      "twitterAlt": "Twitter/Xアイコン"
+    },
+    "contact": {
+      "label": "連絡先Eメール：",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "暗号資産はあなたの管轄区域で規制されていない可能性があり、その価値は変動し、潜在的な利益または損失につながる可能性があります。利益は、地域の法律に応じて、キャピタルゲイン税やその他の税金の対象となる場合があります。このプラットフォーム上のコンテンツは、暗号資産取引の購入、販売、または参加に関する提案、推奨、または財務アドバイスを構成するものではありません。取引があなたの個人的な目標、財務状況、およびリスク許容度に合致するかどうかを評価する責任は、あなた自身にあります。決定を下す前に、信頼できる認可された法律、税務、または財務の専門家に相談することを強くお勧めします。",
+      "part2": "暗号資産の取引には、資金の一部または全部を失う可能性を含む重大なリスクが伴います。徹底的な調査が不可欠です。BlockchainFXは、このプラットフォームで言及されている暗号資産のパフォーマンス、結果、または資本の収益を保証するものではありません。このプラットフォームを使用することにより、あなたは当社の利用規約、プライバシーポリシー、Cookieポリシー、および適用されるトークン販売契約に同意したことになります。プラットフォームのコンテンツは、その配布または使用が地域の法律または規制に違反する管轄区域での使用を意図していません。"
+    },
+    "copyright": "著作権 2025年。全著作権所有。",
+    "cookieManagement": "Cookie管理"
   }
   
   }

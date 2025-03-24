@@ -404,5 +404,260 @@
     },
     "addressCopied": "Adres gekopieerd!",
     "copyIconAlt": "Kopieer icoon"
+  },
+  "securityBuilt": {
+    "title": "Beveiliging Ingebouwd in de Kern",
+    "description": "BlockchainFX maakt gebruik van geavanceerde technologie om een betrouwbare infrastructuur en naadloos ecosysteem op te bouwen, wat zorgt voor een veilige en gebruiksvriendelijke ervaring voor handelaren.",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "PCI DSS icoon"
+      },
+      "dataPrivacy": {
+        "title": "Verbeterde Gegevensprivacy",
+        "iconAlt": "Gegevensprivacy icoon"
+      },
+      "monitoring": {
+        "title": "Live Monitoring en Dreigingsdetectie",
+        "iconAlt": "Monitoring icoon"
+      },
+      "riskManagement": {
+        "title": "Risicobeheer van Derden",
+        "iconAlt": "Risicobeheer icoon"
+      },
+      "dataBackups": {
+        "title": "Gegevensback-ups en noodherstel",
+        "iconAlt": "Gegevensback-up icoon"
+      },
+      "gdpr": {
+        "title": "GDPR-conform",
+        "iconAlt": "GDPR icoon"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "vectorAlt": "Decoratieve vectorafbeelding",
+    "phases": {
+      "preparation": {
+        "title": "Voorbereiding",
+        "items": {
+          "idea": "Idee + Concept",
+          "raiseFunds": "Startkapitaal Werven",
+          "onboardTeam": "Team & Adviseurs Aannemen",
+          "tradingPlatform": "Handelsplatform Beta Voorbereiding"
+        }
+      },
+      "execution": {
+        "title": "Uitvoering",
+        "items": {
+          "website": "Website, Tokenomics etc.",
+          "createToken": "$BFX Token Creëren",
+          "launchPresale": "$BFX Pre-Sale Lanceren",
+          "certikAudit": "CertiK Token Audit"
+        }
+      },
+      "launch": {
+        "title": "Lancering",
+        "items": {
+          "affiliateProgram": "Een Affiliate Programma Lanceren",
+          "sellOutPresale": "Pre-Sale Uitverkopen",
+          "launchOnExchanges": "$BFX op Uniswap en CEX Lanceren",
+          "tenThousandHolders": "10.000 BFX Houders Bereiken"
+        }
+      },
+      "performance": {
+        "title": "Prestatie",
+        "items": {
+          "cashbackSystem": "Cashback Systeem voor Handelaren",
+          "publicChats": "Openbare Chats voor Handelsplatform",
+          "copyTrading": "Copy Trading Functie Toevoegen",
+          "mobileApps": "iOS en Android App Lanceren"
+        }
+      },
+      "expansion": {
+        "title": "Uitbreiding",
+        "items": {
+          "cexListing": "Meerdere CEX Noteringen",
+          "tradingVolume": "$100M Dagelijks Handelsvolume Bereiken",
+          "hundredThousandHolders": "100.000 BFX Houders Bereiken",
+          "leaderboards": "Ranglijsten & VIP-accounts Toevoegen"
+        }
+      },
+      "globalReach": {
+        "title": "Wereldwijd Bereik",
+        "items": {
+          "usLicense": "Amerikaanse Licentie",
+          "marketingCampaigns": "Wereldwijde Marketingcampagnes",
+          "millionHolders": "1.000.000 BFX Houders Bereiken",
+          "partnerships": "Grote Partnerschappen"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "Meermaals Bekroond Handelsplatform",
+    "title": "Onze Prijzen spreken voor zich",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "Beste Handelsplatform 2025",
+        "badgeAlt": "Prijsembleem",
+        "trophyAlt": "Trofee voor Beste Handelsplatform"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "Snelst Groeiende Handelsmakelaar 2025",
+        "badgeAlt": "Prijsembleem",
+        "trophyAlt": "Trofee voor Snelst Groeiende Handelsmakelaar"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "Pers & Media",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX wordt snel het go-to handelsplatform in 2025, met toegang tot meer dan 500 activa en belonende voordelen voor gebruikers.",
+        "logoAlt": "Media-outlet logo 1"
+      },
+      "second": {
+        "text": "BlockchainFX staat klaar om het handelslandschap te revolutioneren als het eerste alles-in-één crypto handelsplatform.",
+        "logoAlt": "Media-outlet logo 2"
+      },
+      "third": {
+        "text": "BlockchainFX is de eerste handelsapp die gebruikers in staat stelt om dagelijks passief USDT-inkomen direct uit handelskosten te verdienen.",
+        "logoAlt": "Media-outlet logo 3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "Handelaar Beoordelingen",
+    "rating": {
+      "score": "4,79 van 5",
+      "verifiedRatings": "1000+ Geverifieerde Beoordelingen"
+    },
+    "phoneFrameAlt": "Telefoonframe met beoordelingen",
+    "prevButtonAlt": "Vorige beoordeling knop",
+    "nextButtonAlt": "Volgende beoordeling knop",
+    "verifiedIconAlt": "Geverifieerd vinkje",
+    "viewOnX": "Bekijk Beoordeling op X",
+    "reviews": {
+      "first": {
+        "text": "Eindelijk een platform dat het goed doet! Ik heb CFD's verhandeld, Apple-aandelen gekocht, ze verkocht voor GBP, en wat $PEPE gepakt, allemaal binnen vijf minuten. Sterk aanbevolen voor zowel beginners als professionals.",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35,2K Volgers",
+        "userAlt": "LacosteBtc profielfoto"
+      },
+      "second": {
+        "text": "Handelen op 9 verschillende vensters en toegang hebben tot tientallen handelsanalytische tools en risicobeheer geeft me een langetermijnvoordeel ten opzichte van de concurrentie die op andere platforms handelt.",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K volgers",
+        "userAlt": "Mr X profielfoto"
+      },
+      "third": {
+        "text": "BlockchainFX biedt je eindeloze handelsmogelijkheden. Dit is logisch omdat markten met elkaar verbonden zijn. Eindelijk is er geen noodzaak meer om tijd te verspillen met het wisselen tussen brokers.",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K volgers",
+        "userAlt": "Silvina Escudero profielfoto"
+      },
+      "fourth": {
+        "text": "Het beste deel van BlockchainFX? De diepe liquiditeit over alle activa. Ik heb nooit problemen gehad met het vullen van grote orders, zelfs niet met niche crypto-paren. Dit is precies wat serieuze handelaren nodig hebben—snelheid, betrouwbaarheid en een breed scala aan markten op één plek.",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30,3K volgers",
+        "userAlt": "DefiAva profielfoto"
+      },
+      "fifth": {
+        "text": "BlockchainFX heeft mijn handelsspel compleet naar een hoger niveau getild. Het is super intuïtief, laat je meerdere markten tegelijkertijd benaderen en biedt bliksemsnelle transacties. Een enorme overwinning voor crypto!",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121,8K volgers",
+        "userAlt": "Honey.Eth profielfoto"
+      },
+      "sixth": {
+        "text": "Dat is precies wat we nodig hadden. Een handelsbroker ontworpen om Crypto te verbinden met Forex, ETF's en aandelen, die je echte toegang geeft tot de markten met diepe liquiditeit.",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79,6K volgers",
+        "userAlt": "Crypto Bri profielfoto"
+      }
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "subtitle": "Vind antwoorden op enkele van de meest voorkomende vragen.",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "Wat is BlockchainFX?",
+        "answer": "BlockchainFX is een internationaal multi-asset handelsplatform dat een breed scala aan handelsmogelijkheden biedt, waaronder Forex, Crypto, ETF's en meer, met geavanceerde technische tools en risicobeheer functies."
+      },
+      "what_is_bfx": {
+        "question": "Wat is BFX?",
+        "answer": "BFX is de native token van het BlockchainFX platform, die vroege toegang, staking beloningen in BFX en USDT mogelijk maakt, en toegang biedt tot premium functies, evenals deelname aan het ecosysteem van het platform."
+      },
+      "what_is_crypto_presale": {
+        "question": "Wat is een crypto presale?",
+        "answer": "Een crypto presale is een vroege mogelijkheid om een nieuwe cryptocurrency of token te kopen voordat deze publiekelijk beschikbaar wordt, meestal tegen een aanzienlijk lagere prijs dan de officiële lanceringsprijs op beurzen."
+      },
+      "what_is_presale_goal": {
+        "question": "Wat is het doel van de presale?",
+        "answer": "Het community-evenement is gewijd aan het verkopen van alle voor de presale toegewezen tokens om de groei en uitbreiding van het platform te versnellen. Deze fondsen zullen strategisch worden toegewezen aan ontwikkeling, marketing en het veiligstellen van topklasse beurslistings voor BFX. <br/><br/>Ons doel is om 100.000 actieve dagelijkse handelaren te bereiken en een dagelijks handelsvolume van meerdere miljoenen dollars te genereren vóór de officiële lancering. Tegelijkertijd bouwen we een sterke, loyale en betrokken gemeenschap op, belonen we vroege supporters met tokens met korting, en maximaliseren we de bekendheid voor de BFX-lancering."
+      },
+      "where_see_tokens": {
+        "question": "Waar kan ik mijn tokens zien?",
+        "answer": "U kunt uw tokens bekijken in uw dashboard wallet. Klik gewoon op 'Wallet Verbinden' in de rechterbovenhoek en verbind de wallet die u voor de aankoop heeft gebruikt om uw BFX-saldo te zien."
+      },
+      "are_tokens_safe": {
+        "question": "Zijn mijn tokens veilig?",
+        "answer": "De veiligheid van uw tokens tijdens de presale is 100% gegarandeerd via ons smart contract."
+      },
+      "how_claim_bfx": {
+        "question": "Hoe claim je je BFX?",
+        "answer": "Uw tokens worden automatisch naar uw wallet overgedragen nadat de presale is afgelopen. U hoeft niets te doen."
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "Het Ultieme <br/> Handelsplatform",
+    "joinWhitelist": "Meld Je Aan Voor De Whitelist",
+    "startTrading": "Begin Met Handelen (Beta)",
+    "logoAlt": "BlockchainFX Logo"
+  },
+  "footer": {
+    "logoAlt": "BlockchainFX Logo",
+    "description": "Ervaar alles-in-één handelen met BlockchainFX: Handel in Crypto, Forex, ETF's, Aandelen, Indices, CFD's en meer met toegang tot meer dan 500 activa.",
+    "quickLinks": {
+      "title": "Snelle Links",
+      "whitelist": "Whitelist",
+      "roadmap": "Roadmap",
+      "whatIsBfx": "Wat is BFX?",
+      "tokenAllocation": "Token Toewijzing"
+    },
+    "docs": {
+      "title": "Documenten",
+      "privacyPolicy": "Privacybeleid",
+      "termsOfService": "Servicevoorwaarden",
+      "tokenSaleAgreement": "Token Verkoopovereenkomst",
+      "liveSupport": "24/7 Live Ondersteuning"
+    },
+    "socials": {
+      "title": "Volg Ons op Social Media",
+      "instagramAlt": "Instagram icoon",
+      "telegramAlt": "Telegram icoon",
+      "twitterAlt": "Twitter/X icoon"
+    },
+    "contact": {
+      "label": "Contact E-mail:",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "Cryptocurrency kan ongereguleerd zijn in uw rechtsgebied, en de waarde ervan kan fluctueren, wat kan leiden tot potentiële winsten of verliezen. Eventuele winsten kunnen onderhevig zijn aan vermogenswinstbelasting of andere belastingen, afhankelijk van uw lokale wetgeving. De inhoud op dit platform vormt geen aanbod, aanbeveling of financieel advies om cryptocurrency-transacties te kopen, verkopen of aan te gaan. U bent zelf verantwoordelijk voor het beoordelen of een transactie in overeenstemming is met uw persoonlijke doelen, financiële omstandigheden en risicotolerantie. We raden ten zeerste aan om vertrouwde en gelicentieerde juridische, fiscale of financiële professionals te raadplegen voordat u beslissingen neemt.",
+      "part2": "Het handelen in cryptocurrencies brengt aanzienlijke risico's met zich mee, waaronder het potentiële gedeeltelijke of totale verlies van uw fondsen. Grondig onderzoek is cruciaal. BlockchainFX garandeert geen prestaties, resultaten of rendement op kapitaal voor enige cryptocurrency die op dit platform wordt genoemd. Door dit platform te gebruiken, gaat u akkoord met onze Servicevoorwaarden, Privacybeleid, Cookiebeleid en eventuele toepasselijke token-verkoopovereenkomsten. De inhoud van het platform is niet bedoeld voor gebruik in rechtsgebieden waar de distributie of het gebruik ervan in strijd zou zijn met lokale wetten of voorschriften."
+    },
+    "copyright": "Copyright 2025. Alle rechten voorbehouden.",
+    "cookieManagement": "Cookie Beheer"
   }
   }

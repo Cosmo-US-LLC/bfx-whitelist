@@ -416,5 +416,260 @@
     },
     "addressCopied": "Đã sao chép địa chỉ!",
     "copyIconAlt": "Biểu tượng sao chép"
+  },
+  "securityBuilt": {
+    "title": "Bảo mật Được Xây dựng vào Cốt lõi",
+    "description": "BlockchainFX tận dụng công nghệ tiên tiến để xây dựng cơ sở hạ tầng đáng tin cậy và hệ sinh thái liền mạch, mang đến trải nghiệm an toàn và thân thiện với người dùng cho các nhà giao dịch.",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "Biểu tượng PCI DSS"
+      },
+      "dataPrivacy": {
+        "title": "Tăng cường Bảo mật Dữ liệu",
+        "iconAlt": "Biểu tượng bảo mật dữ liệu"
+      },
+      "monitoring": {
+        "title": "Giám sát Trực tiếp và Phát hiện Mối đe dọa",
+        "iconAlt": "Biểu tượng giám sát"
+      },
+      "riskManagement": {
+        "title": "Quản lý Rủi ro Bên thứ ba",
+        "iconAlt": "Biểu tượng quản lý rủi ro"
+      },
+      "dataBackups": {
+        "title": "Sao lưu dữ liệu và khôi phục thảm họa",
+        "iconAlt": "Biểu tượng sao lưu dữ liệu"
+      },
+      "gdpr": {
+        "title": "Tuân thủ GDPR",
+        "iconAlt": "Biểu tượng GDPR"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "Lộ trình",
+    "vectorAlt": "Hình ảnh vector trang trí",
+    "phases": {
+      "preparation": {
+        "title": "Chuẩn bị",
+        "items": {
+          "idea": "Ý tưởng + Khái niệm",
+          "raiseFunds": "Gây quỹ Hạt giống",
+          "onboardTeam": "Tuyển dụng Đội ngũ & Cố vấn",
+          "tradingPlatform": "Chuẩn bị Nền tảng Giao dịch Beta"
+        }
+      },
+      "execution": {
+        "title": "Thực hiện",
+        "items": {
+          "website": "Website, Tokenomics, v.v.",
+          "createToken": "Tạo Token $BFX",
+          "launchPresale": "Ra mắt Bán trước $BFX",
+          "certikAudit": "Kiểm toán Token CertiK"
+        }
+      },
+      "launch": {
+        "title": "Ra mắt",
+        "items": {
+          "affiliateProgram": "Ra mắt Chương trình Liên kết",
+          "sellOutPresale": "Bán hết Đợt Bán trước",
+          "launchOnExchanges": "Ra mắt $BFX trên Uniswap và CEX",
+          "tenThousandHolders": "Đạt 10.000 Người nắm giữ BFX"
+        }
+      },
+      "performance": {
+        "title": "Hiệu suất",
+        "items": {
+          "cashbackSystem": "Hệ thống Hoàn tiền cho Nhà giao dịch",
+          "publicChats": "Trò chuyện Công khai cho Nền tảng Giao dịch",
+          "copyTrading": "Thêm Tính năng Sao chép Giao dịch",
+          "mobileApps": "Ra mắt Ứng dụng iOS và Android"
+        }
+      },
+      "expansion": {
+        "title": "Mở rộng",
+        "items": {
+          "cexListing": "Niêm yết trên Nhiều CEX",
+          "tradingVolume": "Đạt Khối lượng Giao dịch Hàng ngày 100 triệu USD",
+          "hundredThousandHolders": "Đạt 100.000 Người nắm giữ BFX",
+          "leaderboards": "Thêm Bảng xếp hạng & Tài khoản VIP"
+        }
+      },
+      "globalReach": {
+        "title": "Phạm vi Toàn cầu",
+        "items": {
+          "usLicense": "Giấy phép Hoa Kỳ",
+          "marketingCampaigns": "Chiến dịch Tiếp thị Toàn cầu",
+          "millionHolders": "Đạt 1.000.000 Người nắm giữ BFX",
+          "partnerships": "Hợp tác Lớn"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "Nền Tảng Giao Dịch Đa Giải Thưởng",
+    "title": "Các Giải Thưởng Của Chúng Tôi Nói Lên Tất Cả",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "Nền Tảng Giao Dịch Tốt Nhất 2025",
+        "badgeAlt": "Huy hiệu giải thưởng",
+        "trophyAlt": "Cúp Nền Tảng Giao Dịch Tốt Nhất"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "Nhà Môi Giới Giao Dịch Phát Triển Nhanh Nhất 2025",
+        "badgeAlt": "Huy hiệu giải thưởng",
+        "trophyAlt": "Cúp Nhà Môi Giới Giao Dịch Phát Triển Nhanh Nhất"
+      }
+    }
+  },
+  "pressMedia": {
+    "title": "Báo chí & Truyền thông",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX đang nhanh chóng trở thành nền tảng giao dịch hàng đầu vào năm 2025, cung cấp quyền truy cập vào hơn 500 tài sản và lợi ích hấp dẫn cho người dùng.",
+        "logoAlt": "Logo cơ quan truyền thông 1"
+      },
+      "second": {
+        "text": "BlockchainFX được thiết lập để cách mạng hóa bối cảnh giao dịch như nền tảng giao dịch tiền điện tử tất cả trong một đầu tiên.",
+        "logoAlt": "Logo cơ quan truyền thông 2"
+      },
+      "third": {
+        "text": "BlockchainFX là ứng dụng giao dịch đầu tiên cho phép người dùng kiếm thu nhập thụ động USDT hàng ngày trực tiếp từ phí giao dịch.",
+        "logoAlt": "Logo cơ quan truyền thông 3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "Đánh giá của Nhà Giao dịch",
+    "rating": {
+      "score": "4,79 trên 5",
+      "verifiedRatings": "1000+ Đánh giá Đã xác minh"
+    },
+    "phoneFrameAlt": "Khung điện thoại hiển thị đánh giá",
+    "prevButtonAlt": "Nút đánh giá trước",
+    "nextButtonAlt": "Nút đánh giá tiếp theo",
+    "verifiedIconAlt": "Dấu tích xác minh",
+    "viewOnX": "Xem Đánh giá trên X",
+    "reviews": {
+      "first": {
+        "text": "Cuối cùng, một nền tảng làm đúng! Tôi đã giao dịch CFD, mua cổ phiếu Apple, bán chúng để lấy GBP, và lấy một số $PEPE, tất cả trong vòng năm phút. Rất khuyến khích cho cả người mới bắt đầu và chuyên gia.",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35,2K Người theo dõi",
+        "userAlt": "Ảnh hồ sơ LacosteBtc"
+      },
+      "second": {
+        "text": "Giao dịch trên 9 cửa sổ khác nhau và có quyền truy cập vào hàng chục công cụ phân tích giao dịch và quản lý rủi ro đang mang lại cho tôi lợi thế lâu dài so với đối thủ giao dịch trên các nền tảng khác.",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K người theo dõi",
+        "userAlt": "Ảnh hồ sơ Mr X"
+      },
+      "third": {
+        "text": "BlockchainFX mang đến cho bạn vô số cơ hội giao dịch. Điều này hoàn toàn hợp lý vì các thị trường đều kết nối với nhau. Cuối cùng, không cần phải lãng phí thời gian chuyển đổi giữa các nhà môi giới.",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K người theo dõi",
+        "userAlt": "Ảnh hồ sơ Silvina Escudero"
+      },
+      "fourth": {
+        "text": "Phần tốt nhất về BlockchainFX? Thanh khoản sâu trên tất cả các tài sản. Tôi chưa bao giờ gặp vấn đề khi thực hiện các lệnh lớn, ngay cả với các cặp tiền điện tử ngách. Đây chính xác là những gì các nhà giao dịch nghiêm túc cần—tốc độ, độ tin cậy và một loạt thị trường rộng lớn tất cả trong một nơi.",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30,3K người theo dõi",
+        "userAlt": "Ảnh hồ sơ DefiAva"
+      },
+      "fifth": {
+        "text": "BlockchainFX đã hoàn toàn nâng cao trò chơi giao dịch của tôi. Nó rất trực quan, cho phép bạn truy cập nhiều thị trường cùng một lúc và cung cấp các giao dịch nhanh như chớp. Một chiến thắng lớn cho tiền điện tử!",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121,8K người theo dõi",
+        "userAlt": "Ảnh hồ sơ Honey.Eth"
+      },
+      "sixth": {
+        "text": "Đó chính xác là những gì chúng ta cần. Một nhà môi giới giao dịch được thiết kế để kết nối Crypto với Forex, ETF và cổ phiếu, mang đến cho bạn quyền truy cập thực sự vào thị trường với thanh khoản sâu.",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79,6K người theo dõi",
+        "userAlt": "Ảnh hồ sơ Crypto Bri"
+      }
+    }
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Tìm câu trả lời cho một số câu hỏi phổ biến nhất.",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "BlockchainFX là gì?",
+        "answer": "BlockchainFX là nền tảng giao dịch đa tài sản quốc tế cung cấp nhiều cơ hội giao dịch, bao gồm Forex, Crypto, ETF và nhiều hơn nữa, với các công cụ kỹ thuật tiên tiến và tính năng quản lý rủi ro."
+      },
+      "what_is_bfx": {
+        "question": "BFX là gì?",
+        "answer": "BFX là token gốc của nền tảng BlockchainFX, cho phép truy cập sớm, phần thưởng staking bằng BFX và USDT, và cung cấp quyền truy cập vào các tính năng cao cấp, cũng như tham gia vào hệ sinh thái của nền tảng."
+      },
+      "what_is_crypto_presale": {
+        "question": "Presale tiền điện tử là gì?",
+        "answer": "Presale tiền điện tử là cơ hội sớm để mua một loại tiền điện tử hoặc token mới trước khi nó được công khai, thường với giá thấp hơn đáng kể so với giá chính thức khi ra mắt trên các sàn giao dịch."
+      },
+      "what_is_presale_goal": {
+        "question": "Mục tiêu của presale là gì?",
+        "answer": "Sự kiện cộng đồng này nhằm bán tất cả token được phân bổ cho presale để đẩy nhanh sự tăng trưởng và mở rộng nền tảng. Những quỹ này sẽ được phân bổ chiến lược cho phát triển, tiếp thị và đảm bảo niêm yết trên các sàn giao dịch hàng đầu cho BFX. <br/><br/>Mục tiêu của chúng tôi là đạt 100.000 nhà giao dịch hoạt động hàng ngày và tạo ra khối lượng giao dịch hàng ngày trị giá hàng triệu đô la trước khi ra mắt chính thức. Đồng thời, chúng tôi đang xây dựng một cộng đồng mạnh mẽ, trung thành và tham gia tích cực, thưởng cho những người ủng hộ sớm với token giảm giá, và tối đa hóa nhận thức cho việc ra mắt BFX."
+      },
+      "where_see_tokens": {
+        "question": "Tôi có thể xem token của mình ở đâu?",
+        "answer": "Bạn có thể xem token của mình trong ví bảng điều khiển. Chỉ cần nhấp vào 'Kết nối Ví' ở góc trên bên phải và kết nối ví bạn đã sử dụng cho việc mua để xem số dư BFX của bạn."
+      },
+      "are_tokens_safe": {
+        "question": "Token của tôi có an toàn không?",
+        "answer": "Sự an toàn của token của bạn trong thời gian presale được đảm bảo 100% thông qua hợp đồng thông minh của chúng tôi."
+      },
+      "how_claim_bfx": {
+        "question": "Làm thế nào để nhận BFX của bạn?",
+        "answer": "Token của bạn sẽ được chuyển vào ví của bạn tự động sau khi presale kết thúc. Bạn không cần phải làm gì cả."
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "Nền Tảng Giao Dịch <br/> Tối Ưu",
+    "joinWhitelist": "Tham Gia Danh Sách Trắng",
+    "startTrading": "Bắt Đầu Giao Dịch (Beta)",
+    "logoAlt": "Logo BlockchainFX"
+  },
+  "footer": {
+    "logoAlt": "Logo BlockchainFX",
+    "description": "Trải nghiệm giao dịch tất cả trong một với BlockchainFX: Giao dịch Tiền điện tử, Forex, ETF, Cổ phiếu, Chỉ số, CFD và nhiều hơn nữa với quyền truy cập vào hơn 500 tài sản.",
+    "quickLinks": {
+      "title": "Liên kết Nhanh",
+      "whitelist": "Danh sách Trắng",
+      "roadmap": "Lộ trình",
+      "whatIsBfx": "BFX là gì?",
+      "tokenAllocation": "Phân bổ Token"
+    },
+    "docs": {
+      "title": "Tài liệu",
+      "privacyPolicy": "Chính sách Bảo mật",
+      "termsOfService": "Điều khoản Dịch vụ",
+      "tokenSaleAgreement": "Thỏa thuận Bán Token",
+      "liveSupport": "Hỗ trợ 24/7"
+    },
+    "socials": {
+      "title": "Tham gia Mạng xã hội của Chúng tôi",
+      "instagramAlt": "Biểu tượng Instagram",
+      "telegramAlt": "Biểu tượng Telegram",
+      "twitterAlt": "Biểu tượng Twitter/X"
+    },
+    "contact": {
+      "label": "Email Liên hệ:",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "Tiền điện tử có thể không được quy định tại khu vực pháp lý của bạn, và giá trị của nó có thể biến động, dẫn đến lợi nhuận hoặc thua lỗ tiềm ẩn. Bất kỳ lợi nhuận nào cũng có thể phải chịu thuế thu nhập vốn hoặc các loại thuế khác, tùy thuộc vào luật pháp địa phương của bạn. Nội dung trên nền tảng này không cấu thành một đề nghị, khuyến nghị, hoặc tư vấn tài chính để mua, bán, hoặc tham gia vào bất kỳ giao dịch tiền điện tử nào. Bạn hoàn toàn chịu trách nhiệm đánh giá liệu một giao dịch có phù hợp với mục tiêu cá nhân, tình hình tài chính và khả năng chịu đựng rủi ro của bạn hay không. Chúng tôi đặc biệt khuyến nghị tham khảo ý kiến của các chuyên gia pháp lý, thuế, hoặc tài chính được cấp phép và đáng tin cậy trước khi đưa ra bất kỳ quyết định nào.",
+      "part2": "Giao dịch tiền điện tử mang lại những rủi ro đáng kể, bao gồm khả năng mất một phần hoặc toàn bộ tiền của bạn. Nghiên cứu kỹ lưỡng là rất quan trọng. BlockchainFX không đảm bảo bất kỳ hiệu suất, kết quả, hoặc lợi nhuận vốn nào cho bất kỳ loại tiền điện tử nào được đề cập trên nền tảng này. Bằng cách sử dụng nền tảng này, bạn đồng ý với Điều khoản Dịch vụ, Chính sách Bảo mật, Chính sách Cookie của chúng tôi, và bất kỳ thỏa thuận bán token hiện hành nào. Nội dung của nền tảng không nhằm mục đích sử dụng tại các khu vực pháp lý mà việc phân phối hoặc sử dụng nó sẽ vi phạm luật pháp hoặc quy định địa phương."
+    },
+    "copyright": "Bản quyền 2025. Đã đăng ký Bản quyền.",
+    "cookieManagement": "Quản lý Cookie"
   }
   }

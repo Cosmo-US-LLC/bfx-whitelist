@@ -405,5 +405,260 @@
     },
     "addressCopied": "¡Dirección Copiada!",
     "copyIconAlt": "Icono de copia"
+  },
+  "securityBuilt": {
+    "title": "Seguridad Integrada en el Núcleo",
+    "description": "BlockchainFX aprovecha tecnología avanzada para construir una infraestructura confiable y un ecosistema sin fisuras, ofreciendo una experiencia segura y fácil de usar para los traders.",
+    "features": {
+      "pciDss": {
+        "title": "PCI DSS",
+        "iconAlt": "Icono PCI DSS"
+      },
+      "dataPrivacy": {
+        "title": "Privacidad de Datos Mejorada",
+        "iconAlt": "Icono de privacidad de datos"
+      },
+      "monitoring": {
+        "title": "Monitoreo en Vivo y Detección de Amenazas",
+        "iconAlt": "Icono de monitoreo"
+      },
+      "riskManagement": {
+        "title": "Gestión de Riesgos de Terceros",
+        "iconAlt": "Icono de gestión de riesgos"
+      },
+      "dataBackups": {
+        "title": "Copias de seguridad de datos y recuperación ante desastres",
+        "iconAlt": "Icono de copia de seguridad de datos"
+      },
+      "gdpr": {
+        "title": "Compatible con GDPR",
+        "iconAlt": "Icono GDPR"
+      }
+    }
+  },
+  "roadmap": {
+    "title": "Hoja de Ruta",
+    "vectorAlt": "Imagen vectorial decorativa",
+    "phases": {
+      "preparation": {
+        "title": "Preparación",
+        "items": {
+          "idea": "Idea + Concepto",
+          "raiseFunds": "Recaudar Fondos Semilla",
+          "onboardTeam": "Incorporar Equipo y Asesores",
+          "tradingPlatform": "Preparación de la Plataforma de Trading Beta"
+        }
+      },
+      "execution": {
+        "title": "Ejecución",
+        "items": {
+          "website": "Sitio Web, Tokenomics, etc.",
+          "createToken": "Crear Token $BFX",
+          "launchPresale": "Lanzar Preventa de $BFX",
+          "certikAudit": "Auditoría de Token por CertiK"
+        }
+      },
+      "launch": {
+        "title": "Lanzamiento",
+        "items": {
+          "affiliateProgram": "Lanzar un Programa de Afiliados",
+          "sellOutPresale": "Agotar la Preventa",
+          "launchOnExchanges": "Lanzar $BFX en Uniswap y CEX",
+          "tenThousandHolders": "Alcanzar 10.000 Poseedores de BFX"
+        }
+      },
+      "performance": {
+        "title": "Rendimiento",
+        "items": {
+          "cashbackSystem": "Sistema de Reembolso para Traders",
+          "publicChats": "Chats Públicos para la Plataforma de Trading",
+          "copyTrading": "Añadir Función de Copy Trading",
+          "mobileApps": "Lanzar Aplicación para iOS y Android"
+        }
+      },
+      "expansion": {
+        "title": "Expansión",
+        "items": {
+          "cexListing": "Listado en Múltiples CEX",
+          "tradingVolume": "Alcanzar $100M de Volumen Diario de Trading",
+          "hundredThousandHolders": "Alcanzar 100.000 Poseedores de BFX",
+          "leaderboards": "Añadir Tablas de Clasificación y Cuentas VIP"
+        }
+      },
+      "globalReach": {
+        "title": "Alcance Global",
+        "items": {
+          "usLicense": "Licencia en EE.UU.",
+          "marketingCampaigns": "Campañas de Marketing Globales",
+          "millionHolders": "Alcanzar 1.000.000 de Poseedores de BFX",
+          "partnerships": "Asociaciones Importantes"
+        }
+      }
+    }
+  },
+  "ourAwards": {
+    "subtitle": "Plataforma de Trading Multi-Premiada",
+    "title": "Nuestros Premios hablan por sí mismos",
+    "awards": {
+      "first": {
+        "organization": "TheCoinRisE",
+        "title": "Mejor Plataforma de Trading 2025",
+        "badgeAlt": "Insignia de premio",
+        "trophyAlt": "Trofeo de Mejor Plataforma de Trading"
+      },
+      "second": {
+        "organization": "AltcoinDaily",
+        "title": "Bróker de Trading de Más Rápido Crecimiento 2025",
+        "badgeAlt": "Insignia de premio",
+        "trophyAlt": "Trofeo de Bróker de Trading de Más Rápido Crecimiento"
+      }
+    }
+  },
+ "pressMedia": {
+    "title": "Prensa y Medios",
+    "quotes": {
+      "first": {
+        "text": "BlockchainFX se está convirtiendo rápidamente en la plataforma de trading preferida en 2025, ofreciendo acceso a más de 500 activos y beneficios gratificantes para los usuarios.",
+        "logoAlt": "Logo de medio de comunicación 1"
+      },
+      "second": {
+        "text": "BlockchainFX está lista para revolucionar el panorama del trading como la primera plataforma de trading de criptomonedas todo en uno.",
+        "logoAlt": "Logo de medio de comunicación 2"
+      },
+      "third": {
+        "text": "BlockchainFX es la primera aplicación de trading que permite a los usuarios ganar ingresos pasivos diarios en USDT directamente de las comisiones de trading.",
+        "logoAlt": "Logo de medio de comunicación 3"
+      }
+    }
+  },
+  "traderReviews": {
+    "title": "Opiniones de Traders",
+    "rating": {
+      "score": "4,79 de 5",
+      "verifiedRatings": "Más de 1000 Valoraciones Verificadas"
+    },
+    "phoneFrameAlt": "Marco de teléfono mostrando opiniones",
+    "prevButtonAlt": "Botón de opinión anterior",
+    "nextButtonAlt": "Botón de siguiente opinión",
+    "verifiedIconAlt": "Marca de verificación",
+    "viewOnX": "Ver Opinión en X",
+    "reviews": {
+      "first": {
+        "text": "¡Por fin, una plataforma que lo hace bien! Negocié CFDs, compré acciones de Apple, las vendí por GBP y conseguí algo de $PEPE, todo en cinco minutos. Muy recomendable tanto para principiantes como para profesionales.",
+        "name": "LacosteBtc",
+        "handle": "@LacosteBtc",
+        "followers": "35,2K Seguidores",
+        "userAlt": "Foto de perfil de LacosteBtc"
+      },
+      "second": {
+        "text": "Operar en 9 ventanas diferentes y tener acceso a docenas de herramientas analíticas de trading y gestión de riesgos me está dando una ventaja a largo plazo sobre la competencia que opera en otras plataformas.",
+        "name": "Mr 𝕏",
+        "handle": "@MrX_Crypto",
+        "followers": "472K seguidores",
+        "userAlt": "Foto de perfil de Mr X"
+      },
+      "third": {
+        "text": "BlockchainFX te ofrece infinitas oportunidades de trading. Esto tiene sentido ya que los mercados están interconectados. Por fin, no hay necesidad de perder tiempo cambiando entre brokers.",
+        "name": "Silvina Escudero",
+        "handle": "@silvinaescudero",
+        "followers": "863K seguidores",
+        "userAlt": "Foto de perfil de Silvina Escudero"
+      },
+      "fourth": {
+        "text": "¿La mejor parte de BlockchainFX? La profunda liquidez en todos los activos. Nunca he tenido problemas para llenar órdenes grandes, incluso con pares de criptomonedas de nicho. Esto es exactamente lo que los traders serios necesitan: velocidad, fiabilidad y una amplia gama de mercados en un solo lugar.",
+        "name": "DefiAva🦋",
+        "handle": "@defi_avaxx",
+        "followers": "30,3K seguidores",
+        "userAlt": "Foto de perfil de DefiAva"
+      },
+      "fifth": {
+        "text": "BlockchainFX ha elevado completamente mi juego de trading. Es súper intuitivo, te permite acceder a múltiples mercados simultáneamente y ofrece transacciones ultrarrápidas. ¡Una gran victoria para las criptomonedas!",
+        "name": "Honey.Eth",
+        "handle": "@HoneyEth_",
+        "followers": "121,8K seguidores",
+        "userAlt": "Foto de perfil de Honey.Eth"
+      },
+      "sixth": {
+        "text": "Eso es exactamente lo que necesitábamos. Un broker de trading diseñado para conectar Crypto con Forex, ETFs y acciones, dándote acceso real a los mercados con profunda liquidez.",
+        "name": "Crypto Bri",
+        "handle": "@cryptobri_",
+        "followers": "79,6K seguidores",
+        "userAlt": "Foto de perfil de Crypto Bri"
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Encuentra respuestas a algunas de las preguntas más comunes.",
+    "questions": {
+      "what_is_blockchainfx": {
+        "question": "¿Qué es BlockchainFX?",
+        "answer": "BlockchainFX es una plataforma internacional de trading multi-activos que ofrece una amplia gama de oportunidades de trading, incluyendo Forex, Cripto, ETFs y más, con herramientas técnicas avanzadas y funciones de gestión de riesgos."
+      },
+      "what_is_bfx": {
+        "question": "¿Qué es BFX?",
+        "answer": "BFX es el token nativo de la plataforma BlockchainFX, que permite acceso anticipado, recompensas de staking en BFX y USDT, y proporciona acceso a funciones premium, así como participación en el ecosistema de la plataforma."
+      },
+      "what_is_crypto_presale": {
+        "question": "¿Qué es una preventa de criptomonedas?",
+        "answer": "Una preventa de criptomonedas es una oportunidad temprana para comprar una nueva criptomoneda o token antes de que esté disponible públicamente, típicamente a un precio significativamente menor que el precio oficial de lanzamiento en los exchanges."
+      },
+      "what_is_presale_goal": {
+        "question": "¿Cuál es el objetivo de la preventa?",
+        "answer": "El evento comunitario está dedicado a vender todos los tokens asignados a la preventa para acelerar el crecimiento y expansión de la plataforma. Estos fondos serán asignados estratégicamente al desarrollo, marketing y asegurar listados en exchanges de primer nivel para BFX. <br/><br/>Nuestro objetivo es alcanzar 100.000 traders activos diarios y generar un volumen de trading diario de varios millones de dólares antes del lanzamiento oficial. Al mismo tiempo, estamos construyendo una comunidad fuerte, leal y comprometida, recompensando a los primeros partidarios con tokens con descuento y maximizando la conciencia para el lanzamiento de BFX."
+      },
+      "where_see_tokens": {
+        "question": "¿Dónde puedo ver mis tokens?",
+        "answer": "Puedes ver tus tokens en tu cartera del panel de control. Simplemente haz clic en 'Conectar Cartera' en la esquina superior derecha y conecta la cartera que usaste para la compra para ver tu saldo de BFX."
+      },
+      "are_tokens_safe": {
+        "question": "¿Están seguros mis tokens?",
+        "answer": "La seguridad de tus tokens durante la preventa está garantizada al 100% a través de nuestro contrato inteligente."
+      },
+      "how_claim_bfx": {
+        "question": "¿Cómo reclamar tus BFX?",
+        "answer": "Tus tokens serán transferidos a tu cartera automáticamente después de que finalice la preventa. No necesitas hacer nada."
+      }
+    }
+  },
+  "ultimateSec": {
+    "title": "La Plataforma <br/> de Trading Definitiva",
+    "joinWhitelist": "Únete a la Lista Blanca",
+    "startTrading": "Comenzar a Operar (Beta)",
+    "logoAlt": "Logo de BlockchainFX"
+  },
+  "footer": {
+    "logoAlt": "Logo de BlockchainFX",
+    "description": "Experimenta el trading todo en uno con BlockchainFX: Opera con Cripto, Forex, ETFs, Acciones, Índices, CFDs y más con acceso a más de 500 activos.",
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "whitelist": "Lista Blanca",
+      "roadmap": "Hoja de Ruta",
+      "whatIsBfx": "¿Qué es BFX?",
+      "tokenAllocation": "Asignación de Tokens"
+    },
+    "docs": {
+      "title": "Documentos",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "tokenSaleAgreement": "Acuerdo de Venta de Tokens",
+      "liveSupport": "Soporte 24/7"
+    },
+    "socials": {
+      "title": "Síguenos en Redes Sociales",
+      "instagramAlt": "Icono de Instagram",
+      "telegramAlt": "Icono de Telegram",
+      "twitterAlt": "Icono de Twitter/X"
+    },
+    "contact": {
+      "label": "Correo Electrónico de Contacto:",
+      "email": "Support@blockchainfx.com"
+    },
+    "disclaimer": {
+      "part1": "La criptomoneda puede no estar regulada en su jurisdicción, y su valor puede fluctuar, lo que puede llevar a ganancias o pérdidas potenciales. Cualquier beneficio podría estar sujeto a impuestos sobre ganancias de capital u otros impuestos, dependiendo de sus leyes locales. El contenido de esta plataforma no constituye una oferta, recomendación o asesoramiento financiero para comprar, vender o participar en transacciones de criptomonedas. Usted es el único responsable de evaluar si una transacción se alinea con sus objetivos personales, circunstancias financieras y tolerancia al riesgo. Recomendamos encarecidamente consultar a profesionales legales, fiscales o financieros de confianza y con licencia antes de tomar cualquier decisión.",
+      "part2": "El trading de criptomonedas conlleva riesgos significativos, incluida la posibilidad de pérdida parcial o total de sus fondos. La investigación exhaustiva es crucial. BlockchainFX no garantiza ningún rendimiento, resultado o retorno de capital para cualquier criptomoneda mencionada en esta plataforma. Al utilizar esta plataforma, acepta nuestros Términos de Servicio, Política de Privacidad, Política de Cookies y cualquier acuerdo de venta de tokens aplicable. El contenido de la plataforma no está destinado a ser utilizado en jurisdicciones donde su distribución o uso violaría las leyes o regulaciones locales."
+    },
+    "copyright": "Copyright 2025. Todos los Derechos Reservados.",
+    "cookieManagement": "Gestión de Cookies"
   }
   }
