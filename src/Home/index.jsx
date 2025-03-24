@@ -58,7 +58,7 @@ function Home() {
         <HyperGrowthSec />
         <StandoutSec/>
         <WallStreetSec />
-        <TradeLikeSec />
+        {/* <TradeLikeSec /> */}
         {/* <TopAssetsSec /> */}
         <SwapSection />
         <LiveNewSec />
