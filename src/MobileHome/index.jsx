@@ -57,7 +57,7 @@ function MobileHome() {
         <MobHyperGrowthSec />
         <MobStandoutSec />
         <MobileWallStreetSec />
-        <MobTadeLikeSec />
+        {/* <MobTadeLikeSec /> */}
         {/* <MobTopAssetsSec /> */}
         <SwapSectionMob />
         <MobLiveNewSec />
